@@ -118,6 +118,16 @@ def integrate(input_root, output, rules, mode="pilot"):
                 reasons.append("manifest file counts/statuses are inconsistent")
             if manifest.get("failed_files") != 0:
                 reasons.append("package contains failed exports; entire package excluded")
+            error_path = package / "raw_data" / "errors.csv"
+            if not error_path.is_file():
+                reasons.append("errors.csv is missing")
+            else:
+                track(error_path)
+                error_rows = [row for _, row in read_rows(error_path, ["source_file", "error"])]
+                expected_failed = Counter(entry.get("name") for entry in entries if entry.get("status") == "failed")
+                actual_failed = Counter(row["source_file"] for row in error_rows)
+                if actual_failed != expected_failed or any(not row["error"].strip() for row in error_rows):
+                    reasons.append("errors.csv and manifest failure records differ")
             if manifest.get("tool_version") != rules["tool_version"] or manifest.get("data_contract") != "raw_only":
                 reasons.append("tool version or raw_only contract mismatch")
             if manifest.get("country_tag") != "BEL":
@@ -140,6 +150,9 @@ def integrate(input_root, output, rules, mode="pilot"):
             for entry in entries:
                 name = entry.get("name", "")
                 require(name and name not in files, f"Duplicate/empty source filename in {package_id}")
+                named_runs = set(re.findall(r"(?<![A-Za-z0-9])([SF][LH]_0[12])(?![A-Za-z0-9])", name))
+                if named_runs and named_runs != {run}:
+                    reasons.append(f"explicit filename run disagrees with folder {run}: {name}")
                 record = {"source_package": package_id, "run_id": run, "source_file": name,
                           "source_sha256": entry.get("sha256", ""), "game_date_raw": entry.get("game_date", ""),
                           "game_date": "", "decision": "candidate", "reason": ""}
@@ -164,8 +177,26 @@ def integrate(input_root, output, rules, mode="pilot"):
                     raise MergeError(f"{package_id}: {reason}")
                 continue
             packages.append({"path": package, "id": package_id, "run": run, "files": files,
-                             "fingerprint": fingerprint.upper(), "manifest_hash": manifest_hash})
+                             "fingerprint": fingerprint.upper(), "manifest_hash": manifest_hash,
+                             "environment": environment, "definition_files": {}, "definition_keys": Counter()})
 
+        # Check before deduplication: a duplicate export is still evidence of its environment.
+        require(len({p["fingerprint"] for p in packages}) <= 1,
+                "Definition fingerprints differ; do not hide a conflict through deduplication")
+        identities = defaultdict(list)
+        for package in packages:
+            for item in package["files"].values():
+                identities[item["entry"]["sha256"].upper()].append((package["run"], item))
+        for save_hash, copies in identities.items():
+            identity_fields = ("game_date", "game_version", "bytes", "country_id", "country_tag")
+            require(len({tuple(str(item["entry"].get(field, "")) for field in identity_fields)
+                         for _, item in copies}) == 1,
+                    f"Same save SHA-256 has conflicting metadata: {save_hash}")
+            copy_runs = {run for run, _ in copies}
+            if len(copy_runs) > 1:
+                require(copies[0][1]["inventory"]["game_date"] == "1836-01-01",
+                        f"Same non-baseline save SHA-256 appears in different runs: {save_hash}")
+                note("shared_baseline", f"{save_hash}: shared starting save in {','.join(sorted(copy_runs))}; not independent observations")
         # Identical content is counted once. Conflicting same-day saves need a decision.
         dates = defaultdict(list)
         for package in packages:
@@ -240,8 +271,12 @@ def integrate(input_root, output, rules, mode="pilot"):
                         if table_name == "game_definition_files_raw.csv":
                             require(row["parse_status"] == "success", f"Definition parse failure: {package['id']}")
                             require(bool(re.fullmatch(r"[0-9A-Fa-f]{64}", row["source_sha256"])), "Invalid definition file hash")
+                            require(bool(re.fullmatch(r"[0-9]+", row["definition_key_count"])), "Invalid definition key count")
+                            package["definition_files"][(row["definition_group"], row["relative_path"])] = int(row["definition_key_count"])
                             definition_digest.update(row["relative_path"].encode("utf-8"))
                             definition_digest.update(row["source_sha256"].encode("ascii"))
+                        elif table_name == "game_definition_keys_raw.csv":
+                            package["definition_keys"][(row["definition_group"], row["relative_path"])] += 1
                     for column in spec.get("numeric", []):
                         check_number(row[column], f"{package['id']}/{table_name}:{line}:{column}")
                     for column in spec["key"]:
@@ -273,6 +308,16 @@ def integrate(input_root, output, rules, mode="pilot"):
                 day_list = sorted(dates_by_run[run])
                 stats.append({"table": table_name, "run_id": run, "rows": count, "columns": len(output_columns),
                               "date_min": day_list[0] if day_list else "", "date_max": day_list[-1] if day_list else ""})
+        if {"game_definition_files_raw.csv", "game_definition_keys_raw.csv"} <= rules["tables"].keys():
+            for package in active:
+                declared, actual = package["definition_files"], package["definition_keys"]
+                require(not (actual.keys() - declared.keys()), f"Orphan definition key file: {package['id']}")
+                require(all(actual[key] == count for key, count in declared.items()),
+                        f"Definition key count mismatch: {package['id']}")
+                for field, count in (("definition_file_count", len(declared)), ("definition_key_count", sum(actual.values()))):
+                    if field in package["environment"]:
+                        require(str(package["environment"][field]) == str(count),
+                                f"Environment {field} mismatch: {package['id']}")
         for path, before in sorted(observed_hashes.items()):
             require(digest(path) == before, f"Source changed during merge: {path.name}")
             source_hash_rows.append({"path": path.relative_to(input_root).as_posix(), "sha256": before})

@@ -1,0 +1,54 @@
+{
+  "status": "passed",
+  "regression_tests_passed": 24,
+  "merged_tables_identical_to_previous": 13,
+  "raw_rows_compared": 91072,
+  "complete_source_row_coverage": true,
+  "no_double_counting": true,
+  "raw_values_preserved": true,
+  "run_labels_and_save_hashes_match": true,
+  "input_files_verified": 147,
+  "input_hashes_unchanged": true,
+  "save_count": 18,
+  "saves_by_run": {
+    "FL_01": 5,
+    "SL_01": 13
+  },
+  "source_decisions": {
+    "included": 18,
+    "excluded_identical_copy": 1,
+    "excluded_package": 2
+  },
+  "script_sha256": "91F3A26491C8C29143EE73C63909DDA50073D4510A7B8B888D6D07CE69AA0956",
+  "table_counts": {
+    "game_definition_files_merged.csv": 1377,
+    "game_definition_keys_merged.csv": 66591,
+    "save_metadata_merged.csv": 18,
+    "country_scalar_fields_merged.csv": 658,
+    "country_trend_values_merged.csv": 12870,
+    "budget_slots_merged.csv": 684,
+    "pop_records_merged.csv": 4644,
+    "building_records_merged.csv": 922,
+    "state_records_merged.csv": 42,
+    "state_pop_statistics_merged.csv": 729,
+    "institutions_merged.csv": 25,
+    "laws_merged.csv": 2358,
+    "construction_queue_merged.csv": 154
+  },
+  "output_sha256": {
+    "game_definition_files_merged.csv": "F34C9020604DC174ADD3E0E0ECF9D074B2055560040F9D6489F31D06BB55E9F9",
+    "game_definition_keys_merged.csv": "752B9B46ACD0D94997A947EC6051EA1C71E449E4CD342F92E877636089D30EC4",
+    "save_metadata_merged.csv": "43F54FE3AB90B3B976088E559468F4FF028E716BFA87D28B67022709EE157C7F",
+    "country_scalar_fields_merged.csv": "D5A7060BEBC93FA1651C4C6606A5A06C18A00D07F7CA5BA167A495F69AE3215A",
+    "country_trend_values_merged.csv": "B4F7FE852E45349E27C09E2BB78D251BB74297166292CA802471162E0A24A93E",
+    "budget_slots_merged.csv": "8523E93A972C3C020DF788058F57601076243D0E3F160351CAA8A7E1AD0F5519",
+    "pop_records_merged.csv": "E47B2C0D8D57CD3992AA8747E5F1F1D4CB1CD66FEA17C4A2AAD9596C0CEC5251",
+    "building_records_merged.csv": "D7FD4577928A01936778139ECBD1E3993F19BBE6E92316D043D0032DC338E9DC",
+    "state_records_merged.csv": "B9CF331E0649272FF20E391326366D600288FCDC2A51BAC639BA75A5F5BDDDDE",
+    "state_pop_statistics_merged.csv": "BBFBE368B060C834A0E6AE2515AF68990C4FAC569DEC6DE07B6C3A961C84C91C",
+    "institutions_merged.csv": "E90B4159AA66656D1D483450A8A43CD3FA63EDFCBA1B545BE8EE84EE9990059E",
+    "laws_merged.csv": "6DE2CC0B946D96CD18B59E2AB1DBACAFB7AEDA0D67DD8567EB61EB9E392D3AE5",
+    "construction_queue_merged.csv": "BB973652ADCA69E4986C2DE34806D411AB1A542030E2D3C78010C66572296134"
+  },
+  "formal_sample_ready": false
+}

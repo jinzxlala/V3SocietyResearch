@@ -1,6 +1,7 @@
 """Small synthetic regression cases; never modifies research input packages."""
 import copy
 import csv
+import hashlib
 import json
 import tempfile
 import unittest
@@ -21,7 +22,9 @@ class MergeTests(unittest.TestCase):
         self.rules["tables"] = {name: full["tables"][name] for name in ("save_metadata_raw.csv", "building_records_raw.csv")}
         self.rules["required_nonempty_per_save"] = list(self.rules["tables"])
 
-    def package(self, run="SL_01", folder="one", day="1837.1.1", version_match=True, fingerprint="A" * 64, failed=0, save_hash="B" * 64):
+    def package(self, run="SL_01", folder="one", day="1837.1.1", version_match=True, fingerprint="A" * 64, failed=0, save_hash=None):
+        if save_hash is None:
+            save_hash = hashlib.sha256(f"{run}|{day}".encode()).hexdigest().upper()
         package = self.raw / run / folder
         (package / "raw_data").mkdir(parents=True)
         entry = dict(name="autosave.v3", sha256=save_hash, bytes=100, status="success",
@@ -34,6 +37,8 @@ class MergeTests(unittest.TestCase):
         write_json(package / "manifest.json", dict(files=entries, successful_files=1, failed_files=failed,
                    data_contract="raw_only", tool_version=self.rules["tool_version"], country_tag="BEL", game_environment=environment))
         write_json(package / "game_environment.json", environment)
+        write_csv(package / "raw_data/errors.csv", ["source_file", "error"],
+                  [{"source_file": "broken.v3", "error": "synthetic extraction failure"}] if failed else [])
         for name, spec in self.rules["tables"].items():
             row = dict.fromkeys(spec["columns"], "")
             row.update(source_file=entry["name"], game_date=day, game_version="1.13.10", country_id="25", country_tag="BEL")
@@ -94,6 +99,54 @@ class MergeTests(unittest.TestCase):
         with self.assertRaisesRegex(MergeError, "fingerprints differ"):
             self.run_merge()
         self.assertEqual(read_json(self.root / "result/merge_summary.json")["status"], "failed")
+
+    def test_duplicate_cannot_hide_definition_conflict(self):
+        self.package()
+        self.package(folder="two", fingerprint="D" * 64)
+        with self.assertRaisesRegex(MergeError, "fingerprints differ"):
+            self.run_merge()
+
+    def test_same_save_cannot_claim_different_dates(self):
+        self.package(save_hash="B" * 64)
+        self.package(folder="two", day="1838.1.1", save_hash="B" * 64)
+        with self.assertRaisesRegex(MergeError, "conflicting metadata"):
+            self.run_merge()
+
+    def test_non_baseline_save_cannot_belong_to_two_runs(self):
+        self.package(save_hash="B" * 64)
+        self.package(run="FL_01", save_hash="B" * 64)
+        with self.assertRaisesRegex(MergeError, "non-baseline.*different runs"):
+            self.run_merge()
+
+    def test_shared_baseline_is_allowed_and_identified(self):
+        self.package(day="1836.1.1", save_hash="B" * 64)
+        self.package(run="FL_01", day="1836.1.1", save_hash="B" * 64)
+        self.assertEqual(self.run_merge()["save_count"], 2)
+        with (self.root / "result/merge_warnings.csv").open(encoding="utf-8-sig", newline="") as stream:
+            self.assertIn("shared_baseline", {row["code"] for row in csv.DictReader(stream)})
+
+    def test_error_csv_must_agree_with_success_manifest(self):
+        package = self.package()
+        write_csv(package / "raw_data/errors.csv", ["source_file", "error"],
+                  [{"source_file": "autosave.v3", "error": "unexpected failure"}])
+        self.package(run="FL_01")
+        self.assertEqual(self.run_merge()["saves_by_run"], {"FL_01": 1})
+
+    def test_missing_error_csv_is_not_assumed_success(self):
+        package = self.package()
+        (package / "raw_data/errors.csv").unlink()
+        self.package(run="FL_01")
+        self.assertEqual(self.run_merge()["saves_by_run"], {"FL_01": 1})
+
+    def test_explicit_run_in_filename_must_match_directory(self):
+        package = self.package()
+        manifest = read_json(package / "manifest.json")
+        manifest["files"][0]["name"] = "Belgium_1837-01-01_FL_01.v3"
+        write_json(package / "manifest.json", manifest)
+        for table in (package / "raw_data").glob("*.csv"):
+            table.write_text(table.read_text(encoding="utf-8-sig").replace("autosave.v3", "Belgium_1837-01-01_FL_01.v3"), encoding="utf-8-sig")
+        self.package(run="FL_01")
+        self.assertEqual(self.run_merge()["saves_by_run"], {"FL_01": 1})
 
     def test_schema_change_stops(self):
         p = self.package() / "raw_data/building_records_raw.csv"
