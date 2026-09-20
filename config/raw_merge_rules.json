@@ -1,0 +1,379 @@
+{
+  "rules_version": "step04-pilot-1",
+  "tool_version": "vic3-student-raw-export-1.2.0",
+  "game_version": "1.13.10",
+  "planned_dates": [
+    "1836-12-31",
+    "1837-12-31",
+    "1838-12-31",
+    "1839-12-31",
+    "1840-12-31",
+    "1841-12-31",
+    "1842-12-31",
+    "1843-12-31",
+    "1844-12-31",
+    "1845-12-31",
+    "1846-12-31",
+    "1847-12-31",
+    "1848-12-31",
+    "1849-12-31",
+    "1850-12-31",
+    "1851-12-31",
+    "1852-12-31",
+    "1853-12-31",
+    "1854-12-31",
+    "1855-12-31",
+    "1856-12-31",
+    "1857-12-31",
+    "1858-12-31",
+    "1859-12-31",
+    "1860-12-31"
+  ],
+  "schedule_note": "Annual December 31 schedule from the existing protocol. Pilot retains actual dates and does not relabel January 1. Reconfirm schedule before formal use.",
+  "required_nonempty_per_save": [
+    "save_metadata_raw.csv",
+    "building_records_raw.csv",
+    "pop_records_raw.csv",
+    "state_records_raw.csv"
+  ],
+  "tables": {
+    "game_definition_files_raw.csv": {
+      "columns": [
+        "definition_group",
+        "relative_path",
+        "source_bytes",
+        "source_sha256",
+        "definition_key_count",
+        "parse_status",
+        "parse_error"
+      ],
+      "key": [
+        "definition_group",
+        "relative_path"
+      ],
+      "numeric": [
+        "source_bytes",
+        "definition_key_count"
+      ]
+    },
+    "game_definition_keys_raw.csv": {
+      "columns": [
+        "definition_group",
+        "definition_key",
+        "relative_path"
+      ],
+      "key": [
+        "definition_group",
+        "relative_path",
+        "definition_key"
+      ],
+      "numeric": []
+    },
+    "save_metadata_raw.csv": {
+      "columns": [
+        "source_file",
+        "source_sha256",
+        "source_bytes",
+        "source_format",
+        "game_version",
+        "game_date",
+        "save_game_version",
+        "save_name",
+        "rank",
+        "achievement_eligibility",
+        "ironman",
+        "number_of_players",
+        "country_id",
+        "country_tag"
+      ],
+      "key": [
+        "country_id"
+      ],
+      "numeric": [
+        "source_bytes"
+      ]
+    },
+    "country_scalar_fields_raw.csv": {
+      "columns": [
+        "source_file",
+        "game_version",
+        "game_date",
+        "country_id",
+        "country_tag",
+        "source_section",
+        "field_name",
+        "raw_value"
+      ],
+      "key": [
+        "country_id",
+        "source_section",
+        "field_name"
+      ],
+      "numeric": []
+    },
+    "country_trend_values_raw.csv": {
+      "columns": [
+        "source_file",
+        "game_version",
+        "game_date",
+        "country_id",
+        "country_tag",
+        "trend_name",
+        "channel",
+        "channel_date",
+        "stored_index",
+        "value_position",
+        "raw_value"
+      ],
+      "key": [
+        "country_id",
+        "trend_name",
+        "channel",
+        "value_position"
+      ],
+      "numeric": [
+        "raw_value"
+      ]
+    },
+    "budget_slots_raw.csv": {
+      "columns": [
+        "source_file",
+        "game_version",
+        "game_date",
+        "country_id",
+        "country_tag",
+        "direction",
+        "slot_index",
+        "raw_value"
+      ],
+      "key": [
+        "country_id",
+        "direction",
+        "slot_index"
+      ],
+      "numeric": [
+        "raw_value"
+      ]
+    },
+    "pop_records_raw.csv": {
+      "columns": [
+        "source_file",
+        "game_version",
+        "game_date",
+        "country_id",
+        "country_tag",
+        "pop_id",
+        "location_state_id",
+        "pop_type",
+        "workforce",
+        "dependents",
+        "workplace_building_id",
+        "has_workplace",
+        "culture_id",
+        "religion",
+        "num_literate",
+        "wealth",
+        "previous_quality_of_life",
+        "loyalists_and_radicals",
+        "political_strength",
+        "job_satisfaction",
+        "partial_growth_wa",
+        "partial_growth_dn",
+        "social_class",
+        "food_security_value",
+        "food_security_starvation",
+        "food_security_state"
+      ],
+      "key": [
+        "country_id",
+        "pop_id"
+      ],
+      "numeric": [
+        "workforce",
+        "dependents",
+        "num_literate",
+        "wealth",
+        "previous_quality_of_life",
+        "loyalists_and_radicals",
+        "political_strength",
+        "job_satisfaction",
+        "partial_growth_wa",
+        "partial_growth_dn",
+        "food_security_value",
+        "food_security_starvation"
+      ]
+    },
+    "building_records_raw.csv": {
+      "columns": [
+        "source_file",
+        "game_version",
+        "game_date",
+        "country_id",
+        "country_tag",
+        "building_id",
+        "state_id",
+        "state_key",
+        "building_key",
+        "levels",
+        "last_updated_level",
+        "active",
+        "staffing",
+        "previous_staffing",
+        "establishment_date",
+        "throughput",
+        "salary_rate",
+        "cash_reserves",
+        "goods_cost",
+        "goods_sales",
+        "profit_after_reserves",
+        "profit_after_investments",
+        "input_goods_shortage",
+        "production_methods_json",
+        "owners_json",
+        "input_goods_json",
+        "output_goods_json",
+        "raw_record_json"
+      ],
+      "key": [
+        "country_id",
+        "building_id"
+      ],
+      "numeric": [
+        "levels",
+        "last_updated_level",
+        "staffing",
+        "previous_staffing",
+        "throughput",
+        "salary_rate",
+        "cash_reserves",
+        "goods_cost",
+        "goods_sales",
+        "profit_after_reserves",
+        "profit_after_investments",
+        "input_goods_shortage"
+      ]
+    },
+    "state_records_raw.csv": {
+      "columns": [
+        "source_file",
+        "game_version",
+        "game_date",
+        "country_id",
+        "country_tag",
+        "state_id",
+        "state_key",
+        "incorporation",
+        "arable_land",
+        "land",
+        "infrastructure",
+        "infrastructure_usage",
+        "trade_capacity",
+        "trade_capacity_usage",
+        "base_pop_bureaucracy_cost",
+        "raw_record_json"
+      ],
+      "key": [
+        "country_id",
+        "state_id"
+      ],
+      "numeric": [
+        "incorporation",
+        "arable_land",
+        "land",
+        "infrastructure",
+        "infrastructure_usage",
+        "trade_capacity",
+        "trade_capacity_usage",
+        "base_pop_bureaucracy_cost"
+      ]
+    },
+    "state_pop_statistics_raw.csv": {
+      "columns": [
+        "source_file",
+        "game_version",
+        "game_date",
+        "country_id",
+        "country_tag",
+        "state_id",
+        "state_key",
+        "field_name",
+        "raw_value"
+      ],
+      "key": [
+        "country_id",
+        "state_id",
+        "field_name"
+      ],
+      "numeric": []
+    },
+    "institutions_raw.csv": {
+      "columns": [
+        "source_file",
+        "game_version",
+        "game_date",
+        "country_id",
+        "country_tag",
+        "institution_record_id",
+        "institution_key",
+        "investment",
+        "raw_record_json"
+      ],
+      "key": [
+        "country_id",
+        "institution_record_id"
+      ],
+      "numeric": [
+        "investment"
+      ]
+    },
+    "laws_raw.csv": {
+      "columns": [
+        "source_file",
+        "game_version",
+        "game_date",
+        "country_id",
+        "country_tag",
+        "law_record_id",
+        "law_key",
+        "active",
+        "activation_date",
+        "replace",
+        "raw_record_json"
+      ],
+      "key": [
+        "country_id",
+        "law_record_id"
+      ],
+      "numeric": []
+    },
+    "construction_queue_raw.csv": {
+      "columns": [
+        "source_file",
+        "game_version",
+        "game_date",
+        "country_id",
+        "country_tag",
+        "queue_kind",
+        "position",
+        "building_key",
+        "state_id",
+        "state_key",
+        "construction_left",
+        "construction_speed",
+        "base_construction_speed",
+        "identity_json",
+        "raw_record_json"
+      ],
+      "key": [
+        "country_id",
+        "queue_kind",
+        "position"
+      ],
+      "numeric": [
+        "construction_left",
+        "construction_speed",
+        "base_construction_speed"
+      ]
+    }
+  }
+}

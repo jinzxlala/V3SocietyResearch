@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "mode": "pilot",
+  "formal_sample_ready": false,
+  "script_sha256": "4587C4BE5E5317F3A3B916CC278687244261D0BBACBB9FF67BC6AF36DB639D6D",
+  "runs": [
+    "FL_01",
+    "SL_01"
+  ],
+  "save_count": 18,
+  "saves_by_run": {
+    "FL_01": 5,
+    "SL_01": 13
+  },
+  "table_count": 13,
+  "input_files_unchanged": true,
+  "definition_fingerprint": "724D5AAE11087DCB5A241454C3524AF79B2D4E2284DA6B37CE65C5EA82271312",
+  "warning_count": 11
+}

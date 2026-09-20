@@ -1,0 +1,20 @@
+{
+  "replay_identical_tables": 13,
+  "raw_rows_compared": 91072,
+  "table_counts": {
+    "budget_slots_merged.csv": 684,
+    "building_records_merged.csv": 922,
+    "construction_queue_merged.csv": 154,
+    "country_scalar_fields_merged.csv": 658,
+    "country_trend_values_merged.csv": 12870,
+    "game_definition_files_merged.csv": 1377,
+    "game_definition_keys_merged.csv": 66591,
+    "institutions_merged.csv": 25,
+    "laws_merged.csv": 2358,
+    "pop_records_merged.csv": 4644,
+    "save_metadata_merged.csv": 18,
+    "state_pop_statistics_merged.csv": 729,
+    "state_records_merged.csv": 42
+  },
+  "regression_tests_passed": 11
+}
