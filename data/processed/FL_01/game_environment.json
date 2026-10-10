@@ -1,0 +1,30 @@
+{
+  "game_root": "D:\\ProgramsFiles\\Steam\\steamapps\\common\\Victoria 3",
+  "discovery_source": "command_line",
+  "common_directory": "D:\\ProgramsFiles\\Steam\\steamapps\\common\\Victoria 3\\game\\common",
+  "localization_directory": "D:\\ProgramsFiles\\Steam\\steamapps\\common\\Victoria 3\\game\\localization",
+  "definition_groups": {
+    "buildings": "buildings",
+    "building_groups": "building_groups",
+    "goods": "goods",
+    "laws": "laws",
+    "institutions": "institutions",
+    "production_methods": "production_methods",
+    "production_method_groups": "production_method_groups",
+    "technologies": "technology/technologies",
+    "technology_eras": "technology/eras",
+    "defines": "defines",
+    "static_modifiers": "static_modifiers"
+  },
+  "definition_file_count": 153,
+  "definition_key_count": 7399,
+  "definition_fingerprint_sha256": "724D5AAE11087DCB5A241454C3524AF79B2D4E2284DA6B37CE65C5EA82271312",
+  "steam_manifest_path": "D:\\ProgramsFiles\\Steam\\steamapps\\appmanifest_529340.acf",
+  "steam_build_id": "24835584",
+  "steam_beta_key": "1.13.10",
+  "installed_game_version": "1.13.10",
+  "game_branch": "release/1.13.10",
+  "game_revision": "58c9ac0605f52c0fbdd353c1921db0ce08e7b026",
+  "engine_branch": "caligula/release/1.13.10",
+  "engine_revision": "a93467deb3d07433163df1bf541cce7a05dd110e"
+}

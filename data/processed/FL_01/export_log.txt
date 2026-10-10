@@ -1,0 +1,169 @@
+Tool: vic3-student-raw-export-1.2.0
+OS: Windows-11-10.0.26200-SP0
+Python: 3.14.5 (tags/v3.14.5:5607950, May 10 2026, 10:43:50) [MSC v.1944 64 bit (AMD64)]
+Input: D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL
+Files: 26
+Victoria 3 directory: D:\ProgramsFiles\Steam\steamapps\common\Victoria 3
+Game directory source: command_line
+Reading version-matched definitions from game/common ...
+Definitions: 153 files, 7399 top-level keys
+Definition fingerprint: 724D5AAE11087DCB5A241454C3524AF79B2D4E2284DA6B37CE65C5EA82271312
+
+[1/26] Belgium_1836-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1836-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1836-01-01_01_FL_Jin_71F1FD1F01AE (1.6s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1836-01-01_01_FL_Jin_71F1FD1F01AE in 0.31641507148742676 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1836-01-01_01_FL_Jin_71F1FD1F01AE in 0.2729830741882324 seconds
+SUCCESS 1836.1.1 v1.13.10 raw tables written
+
+[2/26] Belgium_1837-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1837-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1837-01-01_01_FL_Jin_6144925489F8 (2.0s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1837-01-01_01_FL_Jin_6144925489F8 in 0.3724689483642578 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1837-01-01_01_FL_Jin_6144925489F8 in 0.48120641708374023 seconds
+SUCCESS 1837.1.1 v1.13.10 raw tables written
+
+[3/26] Belgium_1838-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1838-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1838-01-01_01_FL_Jin_3054BB5C830A (2.1s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1838-01-01_01_FL_Jin_3054BB5C830A in 0.3948667049407959 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1838-01-01_01_FL_Jin_3054BB5C830A in 0.40944433212280273 seconds
+SUCCESS 1838.1.1 v1.13.10 raw tables written
+
+[4/26] Belgium_1839-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1839-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1839-01-01_01_FL_Jin_8C6DF2772F98 (2.2s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1839-01-01_01_FL_Jin_8C6DF2772F98 in 0.3903214931488037 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1839-01-01_01_FL_Jin_8C6DF2772F98 in 0.4086887836456299 seconds
+SUCCESS 1839.1.1 v1.13.10 raw tables written
+
+[5/26] Belgium_1840-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1840-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1840-01-01_01_FL_Jin_5EA4C27DB0F5 (2.3s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1840-01-01_01_FL_Jin_5EA4C27DB0F5 in 0.48149919509887695 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1840-01-01_01_FL_Jin_5EA4C27DB0F5 in 0.4281485080718994 seconds
+SUCCESS 1840.1.1 v1.13.10 raw tables written
+
+[6/26] Belgium_1841-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1841-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1841-01-01_01_FL_Jin_41B841B80B4E (2.2s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1841-01-01_01_FL_Jin_41B841B80B4E in 0.39161157608032227 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1841-01-01_01_FL_Jin_41B841B80B4E in 0.5368940830230713 seconds
+SUCCESS 1841.1.1 v1.13.10 raw tables written
+
+[7/26] Belgium_1842-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1842-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1842-01-01_01_FL_Jin_383DB4E9B912 (2.3s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1842-01-01_01_FL_Jin_383DB4E9B912 in 0.4239475727081299 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1842-01-01_01_FL_Jin_383DB4E9B912 in 0.42839789390563965 seconds
+SUCCESS 1842.1.1 v1.13.10 raw tables written
+
+[8/26] Belgium_1843-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1843-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1843-01-01_01_FL_Jin_D1B06CB5E6CF (2.3s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1843-01-01_01_FL_Jin_D1B06CB5E6CF in 0.4504985809326172 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1843-01-01_01_FL_Jin_D1B06CB5E6CF in 0.45830345153808594 seconds
+SUCCESS 1843.1.1 v1.13.10 raw tables written
+
+[9/26] Belgium_1844-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1844-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1844-01-01_01_FL_Jin_72688C2CEDAF (2.5s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1844-01-01_01_FL_Jin_72688C2CEDAF in 0.5467369556427002 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1844-01-01_01_FL_Jin_72688C2CEDAF in 0.4031810760498047 seconds
+SUCCESS 1844.1.1 v1.13.10 raw tables written
+
+[10/26] Belgium_1845-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1845-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1845-01-01_01_FL_Jin_A1BC3A1741E9 (2.4s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1845-01-01_01_FL_Jin_A1BC3A1741E9 in 0.387070894241333 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1845-01-01_01_FL_Jin_A1BC3A1741E9 in 0.5460920333862305 seconds
+SUCCESS 1845.1.1 v1.13.10 raw tables written
+
+[11/26] Belgium_1846-01-01_01_FL_Jin_Revolution.v3
+./bin/rakaly_windows/vic3-extract.exe: melted output contains a non-ASCII whitespace character at byte 127167750 -- falling back to the Python parser
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1846-01-01_01_FL_Jin_Revolution.v3 is already plain text; copied into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1846-01-01_01_FL_Jin_Revolution_AD055918F37C\save.txt
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1846-01-01_01_FL_Jin_Revolution_AD055918F37C in 0.8261904716491699 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1846-01-01_01_FL_Jin_Revolution_AD055918F37C in 0.8691637516021729 seconds
+SUCCESS 1846.1.1 v1.13.10 raw tables written
+
+[12/26] Belgium_1847-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1847-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1847-01-01_01_FL_Jin_533F0B3AC92E (2.7s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1847-01-01_01_FL_Jin_533F0B3AC92E in 0.4464714527130127 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1847-01-01_01_FL_Jin_533F0B3AC92E in 0.4566967487335205 seconds
+SUCCESS 1847.1.1 v1.13.10 raw tables written
+
+[13/26] Belgium_1848-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1848-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1848-01-01_01_FL_Jin_6C27BE647A2E (2.6s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1848-01-01_01_FL_Jin_6C27BE647A2E in 0.5426568984985352 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1848-01-01_01_FL_Jin_6C27BE647A2E in 0.495699405670166 seconds
+SUCCESS 1848.1.1 v1.13.10 raw tables written
+
+[14/26] Belgium_1849-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1849-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1849-01-01_01_FL_Jin_D2B964BBB344 (2.6s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1849-01-01_01_FL_Jin_D2B964BBB344 in 0.4295988082885742 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1849-01-01_01_FL_Jin_D2B964BBB344 in 0.5794980525970459 seconds
+SUCCESS 1849.1.1 v1.13.10 raw tables written
+
+[15/26] Belgium_1850-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1850-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1850-01-01_01_FL_Jin_DC2C79765F93 (2.6s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1850-01-01_01_FL_Jin_DC2C79765F93 in 0.44948387145996094 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1850-01-01_01_FL_Jin_DC2C79765F93 in 0.46424221992492676 seconds
+SUCCESS 1850.1.1 v1.13.10 raw tables written
+
+[16/26] Belgium_1851-01-01_01_FL_Jin.v3
+./bin/rakaly_windows/vic3-extract.exe: melted output contains a non-ASCII whitespace character at byte 135019426 -- falling back to the Python parser
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1851-01-01_01_FL_Jin.v3 is already plain text; copied into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1851-01-01_01_FL_Jin_639F56EFF413\save.txt
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1851-01-01_01_FL_Jin_639F56EFF413 in 0.8663890361785889 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1851-01-01_01_FL_Jin_639F56EFF413 in 1.1767618656158447 seconds
+SUCCESS 1851.1.1 v1.13.10 raw tables written
+
+[17/26] Belgium_1852-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1852-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1852-01-01_01_FL_Jin_58A7E5FA0610 (2.8s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1852-01-01_01_FL_Jin_58A7E5FA0610 in 0.4786531925201416 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1852-01-01_01_FL_Jin_58A7E5FA0610 in 0.5093555450439453 seconds
+SUCCESS 1852.1.1 v1.13.10 raw tables written
+
+[18/26] Belgium_1852-10-26_01_FL_Jin_governer_ilegal.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1852-10-26_01_FL_Jin_governer_ilegal.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1852-10-26_01_FL_Jin_governer_ilegal_D08C182F505A (2.8s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1852-10-26_01_FL_Jin_governer_ilegal_D08C182F505A in 0.5580389499664307 seconds
+WARNING: filename date 1852-10-26 differs from internal date 1852.10.20.6; retaining both
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1852-10-26_01_FL_Jin_governer_ilegal_D08C182F505A in 0.5322637557983398 seconds
+SUCCESS 1852.10.20.6 v1.13.10 raw tables written
+
+[19/26] Belgium_1853-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1853-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1853-01-01_01_FL_Jin_7D2D4A43E95D (2.8s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1853-01-01_01_FL_Jin_7D2D4A43E95D in 0.43102121353149414 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1853-01-01_01_FL_Jin_7D2D4A43E95D in 0.6181325912475586 seconds
+SUCCESS 1853.1.1 v1.13.10 raw tables written
+
+[20/26] Belgium_1854-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1854-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1854-01-01_01_FL_Jin_01B1C82618ED (2.8s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1854-01-01_01_FL_Jin_01B1C82618ED in 0.4069182872772217 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1854-01-01_01_FL_Jin_01B1C82618ED in 0.4521613121032715 seconds
+SUCCESS 1854.1.1 v1.13.10 raw tables written
+
+[21/26] Belgium_1855-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1855-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1855-01-01_01_FL_Jin_834A63F051DC (2.9s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1855-01-01_01_FL_Jin_834A63F051DC in 0.4763679504394531 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1855-01-01_01_FL_Jin_834A63F051DC in 0.4991002082824707 seconds
+SUCCESS 1855.1.1 v1.13.10 raw tables written
+
+[22/26] Belgium_1856-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1856-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1856-01-01_01_FL_Jin_7806F880D88C (3.0s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1856-01-01_01_FL_Jin_7806F880D88C in 0.5870838165283203 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1856-01-01_01_FL_Jin_7806F880D88C in 0.5584301948547363 seconds
+SUCCESS 1856.1.1 v1.13.10 raw tables written
+
+[23/26] Belgium_1857-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1857-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1857-01-01_01_FL_Jin_87D00678FB81 (2.9s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1857-01-01_01_FL_Jin_87D00678FB81 in 0.47255873680114746 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1857-01-01_01_FL_Jin_87D00678FB81 in 0.6928098201751709 seconds
+SUCCESS 1857.1.1 v1.13.10 raw tables written
+
+[24/26] Belgium_1858-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1858-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1858-01-01_01_FL_Jin_E57E8ACB627F (2.9s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1858-01-01_01_FL_Jin_E57E8ACB627F in 0.467022180557251 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1858-01-01_01_FL_Jin_E57E8ACB627F in 0.5171573162078857 seconds
+SUCCESS 1858.1.1 v1.13.10 raw tables written
+
+[25/26] Belgium_1859-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1859-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1859-01-01_01_FL_Jin_F1F4DE5BFD02 (2.9s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1859-01-01_01_FL_Jin_F1F4DE5BFD02 in 0.47947239875793457 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1859-01-01_01_FL_Jin_F1F4DE5BFD02 in 0.5450317859649658 seconds
+SUCCESS 1859.1.1 v1.13.10 raw tables written
+
+[26/26] Belgium_1860-01-01_01_FL_Jin.v3
+File D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\run_data\FL\Belgium_1860-01-01_01_FL_Jin.v3 extracted into D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1860-01-01_01_FL_Jin_93547A9D7191 (3.6s)
+Finished loading ['country_manager', 'states', 'building_manager', 'meta_data'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1860-01-01_01_FL_Jin_93547A9D7191 in 0.6187372207641602 seconds
+Finished loading ['meta_data', 'country_manager', 'states', 'building_manager', 'institutions', 'laws'] from D:\workshop\学生项目规划\学生后续课程规划\基于Victoria3的计算社会模拟\tmp\raw_export_staging\FL\V3_raw_export_20261010_204800\_temporary_extracted\Belgium_1860-01-01_01_FL_Jin_93547A9D7191 in 0.5281250476837158 seconds
+SUCCESS 1860.1.1 v1.13.10 raw tables written
