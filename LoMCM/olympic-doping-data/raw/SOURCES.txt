@@ -1,0 +1,17 @@
+Downloaded source documents (original, unmodified)
+
+wada_paris2024_io.pdf     WADA Independent Observer Report, Paris 2024
+  https://www.wada-ama.org/sites/default/files/2025-10/io_report_paris_2024_olympic_games_final1.pdf
+wada_tokyo2020_io.pdf     WADA Independent Observer Report, Tokyo 2020
+  https://www.wada-ama.org/sites/default/files/2022-01/IO%20Report_2020%20Tokyo%20Olympic%20Games_Final.pdf
+wada_beijing2022_io.pdf   WADA Independent Observer Report, Beijing 2022
+  https://www.wada-ama.org/sites/default/files/2022-07/2022_beijing_io_report_olympic_winter_games_final_en.pdf
+ita_paris2024_pre.pdf     ITA Paris 2024 Pre-Games Report
+  https://ita.sport/uploads/2024/11/ITA_Paris-2024-pre-Games-Report.pdf
+
+--- added for Rio 2016 ---
+rio_io.pdf               WADA Independent Observer Team Report, Rio 2016
+  https://www.wada-ama.org/sites/default/files/resources/files/rio2016_io_team_report_26102016.pdf
+wada_2016_figures.pdf    WADA 2016 Anti-Doping Testing Figures (323 pp.)
+  https://www.wada-ama.org/sites/default/files/resources/files/2016_anti-doping_testing_figures.pdf
+  (per-sport IOC rows: Testing Authority Report, Table 26-53, pp. 205-247)

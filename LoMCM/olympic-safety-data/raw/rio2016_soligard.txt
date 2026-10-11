@@ -1,0 +1,1418 @@
+   1 of 8
+Soligard T, et al. Br J Sports Med 2017;51:1265–1271. doi:10.1136/bjsports-2017-097956
+Sports injury and illness incidence in the Rio de 
+Janeiro 2016 Olympic Summer Games: A prospective 
+study of 11274 athletes from 207 countries
+Torbjørn Soligard,1,2 Kathrin Steffen,3 Debbie Palmer,4,5 Juan Manuel Alonso,6 
+Roald Bahr,3 Alexandre Dias Lopes,7 Jiri Dvorak,8 Marie-Elaine Grant,9 
+Willem Meeuwisse,2 Margo Mountjoy,10 Leonardo Oliveira Pena Costa,11 
+Natalia Salmina,12 Richard Budgett,1 Lars Engebretsen1,3,13 
+Original article
+To cite: Soligard T, 
+Steffen K, Palmer D, 
+et al. Br J Sports Med 
+2017;51:1265–1271.
+ ► Additional material is 
+published online only. To view 
+please visit the journal online 
+(http://
+ 
+dx.
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1136/
+ 
+bjsports-
+ 
+2017-
+ 
+097956).
+For numbered affiliations see 
+end of article.
+Correspondence to
+Torbjørn Soligard, Medical 
+& Scientific Department, 
+International Olympic 
+Committee, Château de Vidy, 
+1007 Lausanne, Switzerland;  
+ 
+torbjorn.
+ 
+soligard@
+ 
+olympic.
+ 
+org
+Received 19 April 2017
+Revised 28 June 2017
+Accepted 29 June 2017
+Published Online First 
+29 July 2017
+AbsTrACT
+Objective
+ T
+o describe the pattern of injuries and 
+illnesses sustained during the Games of the XXXI 
+Olympiad, hosted by Rio de Janeiro from 5 to 21 August 
+2016.
+Methods
+ W
+e recorded the daily incidence of athlete 
+injuries and illnesses (1) through the reporting of all 
+National Olympic Committee (NOC) medical teams and 
+(2) in the polyclinic and medical venues by the Rio 2016 
+medical staff.
+r
+esults
+ In total
+, 11 274 athletes (5089 women, 45%; 
+6185 men, 55%) from 207 NOCs participated in the 
+study. NOC and Rio 2016 medical staff reported 1101 
+injuries and 651 illnesses, equalling 9.8 injuries and 
+5.4 illnesses per 100 athletes over the 17-day period. 
+Altogether, 8% of the athletes incurred at least one 
+injury and 5% at least one illness. The injury incidence 
+was highest in BMX cycling (38% of the athletes 
+injured), boxing (30%), mountain bike cycling (24%), 
+taekwondo (24%), water polo (19%) and rugby (19%), 
+and lowest in canoe slalom, rowing, shooting, archery, 
+swimming, golf and table tennis (0%–3%). Of the 1101 
+injuries recorded, 40% and 20% were estimated to lead 
+to ≥1
+ and >7 days of absence from sport,
+ respectively. 
+Women suffered 40% more illnesses than men. Illness 
+was generally less common than injury, with the 
+highest incidence recorded in diving (12%), open-water 
+marathon (12%), sailing (12%), canoe slalom (11%), 
+equestrian (11%) and synchronised swimming (10%). 
+Illnesses were also less severe; 18% were expected to 
+result in time loss. Of the illnesses, 47% affected the 
+respiratory system and 21% the gastrointestinal system. 
+The anticipated problem of infections in the Rio Olympic 
+Games did not materialise, as the proportion of athletes 
+with infectious diseases mirrored that of recent Olympic 
+Games (3%).
+Conclusion
+ Over
+all, 8% of the athletes incurred at least 
+one injury during the Olympic Games, and 5% an illness, 
+which is slightly lower than in the Olympic Summer 
+Games of 2008 and 2012.
+In
+T
+r
+O
+du
+CTIO
+n
+Routine physical activity elicits a number of 
+health benefits, including a reduction in the risk 
+of numerous chronic diseases and premature 
+death.1 2  Compared with the general population, 
+elite athletes seem to reap additional health bene-
+fits in the form of greater life expectancy and lower 
+risk of disease and hospital admission.3–7 However, 
+concomitantly, they run a higher risk of musculo-
+skeletal disorders and long-term disability after the 
+end of their careers.4 8–11
+Systematic injury and illness surveillance is a 
+prerequisite to effective protection of the health 
+of the athletes. Epidemiological data contribute 
+to better planning and provision of athlete health-
+care and, importantly, inform the development of 
+measures to prevent injury and illness.12 13
+Some International Sports Federations or 
+research institutes have set up injury and illness 
+surveillance systems either longitudinally, over one 
+or more seasons, or in certain main events.14–76 For 
+Beijing 2008, the IOC developed the IOC injury 
+surveillance system 77 78  which, to account for all 
+health aspects, was expanded for Vancouver 2010 
+to also include illnesses. 79 Since then, the surveil-
+lance system has been implemented in London 
+201280 and Sochi 2014. 81 In these Games, the 
+injury and illness incidences have ranged from 9.6 
+to 14.0 injuries and from
+ 
+7.2 to 8.9 illnesses per 
+100 athletes.
+Our aim was to describe the incidence and 
+characteristics of the sports injuries and illnesses 
+occurring during the Rio 2016 Olympic Summer 
+Games.
+MeThOds
+We employed the IOC injury and illness surveillance 
+system for multi-sport events in this prospective 
+cohort study. 77 We asked all National Olympic 
+Committee (NOC) medical teams to report the daily 
+occurrence (or non-occurrence) of athlete injuries 
+and illnesses on a standardised medical report form 
+(online appendix 1). Concurrently, we retrieved the 
+same information on all athletes treated for injuries 
+and illnesses in the polyclinic and all other medical 
+venues operated by the Organizing Committee 
+of the Olympic and Paralympic Games Rio 2016 
+(Rio 2016) medical staff. These data were collected 
+through an electronic medical record system (GE 
+Centricity Practice Solution), which was used for 
+the first time in the Games.
+We used the athlete accreditation number to 
+control for duplicates resulting from athletes being 
+treated for the same condition by both NOC and 
+Rio 2016 medical staff. In such cases, we retained 
+the NOC data.
+ on 20 July 2018 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2017-097956 on 29 July 2017. Downloaded from 
+2 of 8
+Soligard T, et al. Br J Sports Med 2017;51:1265–1271. doi:10.1136/bjsports-2017-097956
+Original article
+Implementation
+Four months in advance, we informed the NOCs about the study 
+by letter. The day before the opening of the Games, we organ-
+ised an information meeting for all NOC medical staff, where we 
+also distributed the daily injury and illness report forms, as well 
+as an instructional booklet detailing the study protocol (online 
+appendix 2).
+Throughout the data collection, we actively followed up the 
+NOCs
+ 
+comprising more than 10 participating athletes with 
+frequent visits to address any questions and encourage contin-
+uous reporting during the games. We recorded the response rate 
+of all the 207 NOCs.
+definition of injury and illness
+We defined injuries and illnesses as new (ie,  pre-existing, not 
+fully 
+rehabilitated conditions were not recorded) or recurring 
+(athletes having returned to full participation after a previous 
+condition) musculoskeletal complaints, concussions or other 
+medical conditions (injuries) or illnesses incurred in competition 
+or training during the Rio Olympic Games (5–21 August 2016) 
+receiving medical attention, regardless of the consequences 
+with respect to absence from competition or training. 77 In cases 
+where a single incident caused multiple injury types, we retained 
+only the most severe diagnosis, as determined by our research 
+team based on all available clinical data, for analysis. 80 Severe 
+injuries and illnesses were defined as injuries or illnesses esti-
+mated to lead to absence from training or competition of more 
+than 1
+ 
+week.
+Injury and illness report form
+Our NOC injury and illness report form (online appendix 1) was 
+identical 
+to the one we used in the Vancouver
+ 
+2010, London
+ 2012 
+and Sochi
+ 2014 Olympic 
+Games.79–81 With respect to injuries, 
+we recorded the following data: accreditation number, sport and 
+event, whether the injury occurred in competition or training, 
+date and time, body part, type, cause and estimated time lost 
+from competition or training. We recorded data on illnesses in 
+a similar fashion: accreditation number, sport and event, date, 
+affected system, main symptom(s), cause and estimated time loss.
+We provided instructions and examples on how to complete 
+the form correctly in the instructional booklet. Furthermore, we 
+distributed the injury and illness report form in English, French, 
+Arabic, Chinese, German, Japanese, Russian and Spanish.
+Confidentiality and ethical approval
+We used the athlete accreditation number to query the IOC 
+athlete database for the age, gender and nationality of the 
+injured or ill athlete. We treated all information confidentially 
+and deidentified our database after the Games.
+The study was reviewed by the Medical Research Ethics 
+Committee of the South-Eastern Norway Regional Health 
+Authority (2011/388).
+data analysis
+We calculated the summary measures of injury and illness  inci-
+dences 
+(i) according to the formula i=n/e, where n is the number 
+of injuries or illnesses in competition, training or in total during 
+the study period and e is
+ 
+the respective number of exposed 
+(participating) athletes, with incidence proportions presented 
+as injuries/illnesses per 100 athletes. We also calculated the 
+summary measures of injury and illnesses per 1000 athlete-days, 
+where athlete-days correspond to the total number of athletes 
+multiplied by 17 days. We calculated CIs of the risk ratio (RR) 
+of the number of injuries or illnesses between two groups by a 
+simple Poisson model, assuming constant hazard per group. We 
+present injury and illness incidences as means and RRs with 95% 
+CIs. We regarded two-tailed p values
+ 
+<0.05 as significant.
+resulT s
+In total, 11 274 athletes took part in the Rio Olympic Games. 
+Of these, 5089 were women (45%) and 6185 men (55%). There 
+were eight double-starters, meaning athletes who participated in 
+two different sports, giving a total of 11 289 athlete exposures 
+to injury or illness.
+Throughout the 17 days of the Rio Games, the 207 NOCs 
+submitted 1590 of a maximum of 3519 forms (45%; 97 coun-
+tries did not submit any data) (table
+ 1
+). The response rate of 
+Table 1 Response rates , injuries and illnesses in NOCs of different sizes (measured by number of athletes)
+<10 10–49 50–99 >99 All
+NOCs (athletes) 93 (502) 56 (1341) 24 (1635) 34 (7796) 207 (11 274*)
+Injuries (injuries per 100 
+athletes)
+61 (12.2) 191 (14.2) 139 (8.5) 679 (8.7) 1101† (9.8)
+Illnesses (illnesses per 100 
+athletes)
+27 (5.4) 90 (6.7) 51 (3.1) 429 (5.5) 613† (5.4)
+Report forms submitted (%) 151 (10.0) 584 (61.3) 337 (82.6) 518 (89.6) 1590 (45.2)
+Recorded by both NOC and 
+Rio 2016
+Injuries (%) 2 (3.2) 12 (6.3) 16 (11.4) 36 (5.3) 66‡ (6.0)
+Illnesses (%) – 1 (1.0) 2 (3.8) 7 (1.5) 10‡ (1.5)
+Recorded only by NOCs
+Injuries (%) 12 (19.7) 120 (62.8) 72 (51.4) 422 (62.2) 654‡ (59.3)
+Illnesses (%) 6 (22.2) 57 (63.3) 34 (66.6) 313 (73.0) 426‡ (69.5)
+Recorded only by Rio 2016
+Injuries (%) 47 (75.8) 53 (27.6) 48 (34.3) 145 (21.2) 293‡ (26.6)
+Illnesses (%) 21 (77.8) 24 (24.2) 13 (24.5) 37 (8.1) 95‡ (14.5)
+*15 double-starters excluded.
+†NOC is missing for 31 injuries and 16 illnesses.
+‡Test for duplicate not possible for 88 injuries and 82 illnesses where accreditation number was missing.
+NOC, National Olympic Committee.
+ on 20 July 2018 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2017-097956 on 29 July 2017. Downloaded from 
+3 of 8
+Soligard T, et al. Br J Sports Med 2017;51:1265–1271. doi:10.1136/bjsports-2017-097956
+Original article
+the 114 NOCs with  >10 participating athletes (accounting for 
+10
+ 772/96% of all the athletes) was 74% (1439 of 1938 forms).
+Injuries overall, by sport and gender
+We recorded a total of 1101 injuries, equalling 9.8 injuries 
+(95%
+ CI 9.2 to 10.3) per 100 
+participating athletes. This corre-
+sponds to 5.7 injuries per 1000 athlete-days. On average, 8% 
+(n=931) of the athletes sustained at least one injury. In addition, 
+there were 70 and 10 athletes with two and three injuries each, 
+respectively.
+Figure
+ 
+1 shows the incidence
+ 
+proportion of injured athletes 
+in each sport (additional details are available in online appendix 
+3). The incidence of injury was highest in BMX cycling (37.5 
+injuries (95%
+ CI 20.2 to 54.8) per 100 athletes), 
+boxing (30.1 
+(23.7–36.4)), mountain bike cycling (23.8 (13.1–34.4)), 
+taekwondo (23.6 (15.2–32.1)), water polo (19.4 (14.0–24.8)) 
+and rugby (18.6 (13.6–23.5)), and lowest in canoe slalom, 
+rowing, shooting, archery, swimming, golf and table tennis 
+(ranging from 0 to 3 injuries per 100 athletes).
+The injury incidences for women (9.3 injuries (95%
+ CI 8.4 
+to 10.1) per 100 athletes) and men
+ 
+(9.4 (8.6–10.1), RR=0.99 
+(0.87–1.11)) were nearly identical (online appendix 4). 
+However, women were at significantly higher risk of injury in 
+sailing (RR=5.33 (1.78–15.93)), shooting (RR=5.14 (1.67–
+15.78)) and mountain bike cycling (RR=3.61 (1.37–9.50)).
+There was no statistical difference in the incidence of injury 
+between the NOCs that did not report any NOC data (ie, Rio 
+2016 data only) and the NOCs that reported data (7.9 vs 9.8 
+injuries per 100 athletes; RR=1.24 (0.72–2.14)).
+severity of injuries
+While almost two thirds of the injuries were estimated to result 
+in 
+no time loss from sport (n=662, 60%), 40% of the injuries 
+(n=438) were expected to prevent the athlete from participating 
+in competition or training (online appendix 3). Figure
+ 
+1 shows 
+the incidence of injuries estimated to lead to
+ ≥1
+ day 
+and
+ >7 
+days 
+of absence in each sport. It was estimated that 14% of the inju-
+ries (n=153) would result in an absence from sports from 1 to 3 
+days, 6% (n=64) in an absence from 4 to 7 days, 10% (n=106) 
+in an absence from 8 to 28 days and 10% (n=115) in an absence 
+for more than 28 days. Information on severity was missing for 
+one injury.
+A total of 221 injuries (20%) were classified as severe, with 
+an estimated absence from training or competition of more than 
+1
+ 
+week 
+(box 1,
+ 
+online appendix 3).
+location and type of injuries
+The most commonly injured anatomical locations were the knee 
+(n=130), thigh (n=108), ankle (n=103), face (n=94) and lower 
+leg (n=90). The most common injury types were sprain/ligament 
+rupture (n=187), contusion/haematoma/bruise (n=178), strain/
+muscle rupture/tear (n=168), laceration/abrasion/skin lesion 
+(n=152) and tendinosis/tendinopathy (n=112). The distribution 
+Figure 1 Proportions of athletes (%) in each sport with injury,  injury 
+with estimated time loss ≥1
+ day,
+ and injury with estimated time loss >7 
+days.
+box 1 Information on the 221 sever e injuries (estimated 
+absence >7
+ days),
+ with the sports with the highest 
+numbers in brackets (unadjusted for athlete exposures in 
+each sport).
+ ► 65 muscle strains (33 in athletics, six in football, six in 
+weightlifting)
+ ► 57 ligament sprains/ruptures (eight in wrestling, six in 
+athletics, six in judo, five in artistic gymnastics, five in 
+weightlifting)
+ ► 24 fractures (three in hockey, three in rugby, two in boxing, 
+two in artistic gymnastics, two in mountain bike cycling, two 
+in road cycling, two in water polo)
+ ► 15 dislocations or subluxations (four in wrestling, three in 
+judo, two in boxing)
+ ► 12 lesions of meniscus or cartilage
+ ► nine concussions (out of 12 in total: seven in boxing, two in 
+rugby, one each in BMX cycling, mountain bike cycling, and 
+handball)
+ ► seven stress fractures (three in athletics, two in tennis, one 
+each in boxing and triathlon)
+ ► six tendon ruptures
+ ► five contusions, haematomas or bruises
+ ► five lacerations, abrasions or other skin lesions (three in 
+boxing, two in triathlon)
+ ► four nerve or spinal cord injuries
+ ► four tendinopathies (three in athletics)
+ ► two arthritis, synovitis or bursitis injuries
+ ► two impingements
+ ► two ’other bone injuries
+Injury type was missing for two of the severe injuries.
+ on 20 July 2018 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2017-097956 on 29 July 2017. Downloaded from 
+4 of 8
+Soligard T, et al. Br J Sports Med 2017;51:1265–1271. doi:10.1136/bjsports-2017-097956
+Original article
+of injury locations and injury types per sport are presented in 
+online appendices 5 and 6, respectively.
+Causes, mechanisms and onset of injury
+While 71% (n=781) of the injuries were reported to occur 
+acutely, 27% (n=301) were reported to be caused by overuse 
+(information missing for 19 injuries). The three most commonly 
+reported injury causes/mechanisms were contact with another 
+athlete (28%), non-contact trauma (21%) and overuse with 
+gradual onset (19%). The distribution of injury causes/mech -
+anisms in each sport is
+ 
+detailed in online appendix 7. Of all 
+overuse injuries (gradual and sudden onset) occurring in the 
+Games, 72% were recorded with no estimated absence from 
+competition or training.
+In terms of onset, 59% of the injuries were sustained in compe-
+tition (5.8 (5.3–6.2) injuries per 100 athletes) and 37% during 
+training (3.6 (3.2–3.9) injuries per 100 athletes; RR=1.61 
+(1.42–1.82)) (information on training/competition was missing 
+for 45 injuries; online appendix 3). However, when analysing 
+only the severe injuries, those estimated to result in at least 7
+ days 
+of absence, the difference was greater (RR=2.22 (1.69–2.96)).
+Injuries in training and in competition differed significantly in 
+characteristics (location, type, mechanism and subsequent time 
+loss from sport) 
+and in terms of incidence
+ in different sports 
+(online appendix 3). The injury incidence
+ 
+was higher in compe-
+tition than in training in boxing (RR=7.50 (3.88–14.51)), tennis 
+(RR=6.00 (1.77–20.37)), hockey (RR=5.71 (2.56–12.76)), 
+rugby (RR=5.38 (2.53–11.43)), handball (RR=3.90 (1.95–
+7.81)), football (RR=3.63 (2.08–6.31)), water polo (RR=3.56 
+(1.70–7.45)), BMX cycling (RR=3.50 (1.15–10.63)), basketball 
+(RR=3.40 (1.25–9.22)), fencing (RR=3.25 (1.06–9.97)) and 
+judo (RR=2.91 (1.47–5.77)). Swimming was the only sport in 
+which the incidence of injury was significantly higher in training 
+than in competition (RR=0.29 (0.11–0.80)).
+Illnesses overall, by gender, sport and severity
+Among the 11 289 exposed athletes, a total of 613 illnesses were 
+reported, resulting in 5.4 illnesses (95%
+ CI 5.0 to 5.9) per 100 
+athletes. This corresponds 
+to 3.2 illnesses per 1000 athlete-days. 
+On average, 5% (n=587) of the athletes incurred an illness, 
+as there were 26 athletes with two illnesses each. Women
+ 
+(5.7 
+illnesses (5.0–6.3) per 100 athletes) were at significantly higher 
+risk of contracting an illness than men (4.0 (3.5–4.5), RR=1.41 
+(1.19–1.67)).
+Figure
+ 
+2 shows the incidence
+ proportion 
+of ill athletes in 
+each sport (additional details are available in online appendix 
+3). Diving was the sport with the highest illness
+ incidence 
+(11.9 
+illnesses (95%
+ CI 6.0 to 17.7) per 100 
+athletes), followed 
+by open-water marathon (11.8 (2.4–21.2)), sailing (11.8 
+(8.4–15.3)), canoe slalom (10.8 (3.8–17.9)), equestrian (10.5 
+(6.0–15.0)) and synchronised swimming (9.6 (3.7–15.6)). The 
+illness
+ 
+incidence was low in a number of sports, with the lowest 
+incidences
+ 
+recorded in trampoline and artistic gymnastics, golf 
+and handball (ranging from 0 to 2 illnesses per 100 athletes).
+One in five illnesses (n=113, 18%) were expected to result 
+in absence from training or competition. Of these, two illnesses 
+(0.3%) were expected to result in an estimated time loss of more 
+than 7
+ days (chickenpo
+x and conjunctivitis).
+Affected system, main symptoms and causes of illness
+A total of 292 illnesses (47%) affected the respiratory system. The 
+second, third and fourth most frequently affected systems were 
+the digestive system (n=131, 21%, 1% of the athletes affected), 
+skin and subcutaneous tissue (n=53, 9%), nervous system 
+(n=38, 6%) and genitourinary system (n=27, 4%), respectively. 
+Infection was the most common cause of illness (n=346, 56% 
+of the illnesses; 3% of the athletes incurred an infection). Of the 
+292 respiratory illnesses, 223 (76%) were caused by an infec-
+tion. The distribution of affected systems, main symptoms and 
+causes of illness per sport are presented in online appendices 8, 
+9 and 10, respectively.
+data sources, and injuries and illnesses per nOC size
+Only 6% of the injuries and 2% of the illnesses were captured by 
+both the NOCs and the Rio 2016 staff. While 59% of the inju-
+ries and 70% of the illnesses were recorded solely by the NOCs, 
+27% and 15% of the injuries and illnesses, respectively, were 
+recorded only by the Rio 2016 staff.
+Whereas the majority of injured and ill athletes from the 
+larger NOCs were seen internally by the NOC medical staff, 
+athletes from small NOCs were to a greater extent relying 
+on diagnosis and treatment from the Rio 2016 medical staff 
+(table
+ 
+1).
+There was also an inverse relationship between NOC size 
+(measured in number of participating athletes) and the risk inju-
+ries, with athletes from smaller NOCs suffering more injuries 
+(NOCs with
+ 
+<10 athletes: 12.2 (9.1–15.2) injuries per 100 
+athletes versus NOCs with
+ 
+>99 athletes: 8.7 (8.1–9.4) injuries 
+per 100 athletes, injury RR=1.40 (1.07–1.81)).
+Figure 2 Proportions of athletes (%) in each sport with illness , illness 
+with estimated time loss ≥1
+ day and illness with estimated time loss >7 
+days
+.
+ on 20 July 2018 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2017-097956 on 29 July 2017. Downloaded from 
+5 of 8
+Soligard T, et al. Br J Sports Med 2017;51:1265–1271. doi:10.1136/bjsports-2017-097956
+Original article
+dIsCussIOn
+The aim of the present paper was to describe and analyse the 
+incidence and characteristics of the sports injuries and illnesses 
+in the Rio 2016 Olympic Games. The main findings of this 
+17-day-long prospective cohort study were that 8% and 5% of 
+all the 11 274 athletes suffered from at least one injury or illness, 
+with overall incidences
+ of 9.8 injuries and 5.4 illnesses per 100 
+athletes, respectively
+.
+Injury incidences
+ varied from high to low 
+across sports, with 
+the highest incidences
+ 
+found in BMX cycling, boxing, mountain 
+bike cycling, taekwondo, water polo and rugby. Illness inci-
+dences
+ 
+were generally lower, with the highest incidences
+ seen in 
+diving, open-water marathon, sailing, canoe slalom, equestrian 
+and synchronised swimming.
+Injuries in the Olympic sports
+The incidence of injury in the Rio Games (8%) was lower than 
+those in Beijing 2008 (10%),78 Vancouver 2010 (11%),79 London 
+2012 (11%)80 and Sochi 2014 (12%).81 It was also lower than the 
+injury incidences reported from recent Paralympic Games.33–36 38
+When comparing each sport in Rio 2016 with Beijing 2008, 
+higher injury incidences
+ 
+were found in diving (9% vs 2% of the 
+athletes injured), water polo (19% vs 10%), boxing (30% vs 
+15%), fencing (8% vs 2%) and sailing (6% vs 1%), while the 
+injury incidences were lower in basketball (8% vs 13%), football 
+(15% vs 32%) and hockey (12% vs 20%).
+Likewise, when doing a similar comparison with London 
+2012, the injury incidences
+ 
+in Rio were higher in boxing (30% 
+vs 9%) but lower in athletics (11% vs 18%), football (15% vs 
+35%), handball (15% vs 22%), sailing (6% vs 15%), swimming 
+(3% vs 5%) and taekwondo (24% vs 39%).
+Some sports have collected and published data on injury inci-
+dences
+ 
+in their world championships or other main events. The 
+incidence
+ 
+of football injury in Rio 2016 was similar to those in 
+the 2014 World Cup, 20 200429 and 2008 31 European champi-
+onships, but half of that in the 2010 World Cup. 19 In athletics, 
+as well as in diving, swimming and synchronised swimming, the 
+injury incidences
+ 
+in Rio were similar to those reported from 
+recent world championships.40–47 In contrast, the Rio injury inci-
+dences
+ 
+in open-water marathon and water polo were lower and 
+higher, respectively, than previously reported from the aquatics 
+world championships.46 47 In rugby sevens, the injury incidence 
+in Rio was less than half than previously found in the Rugby 
+Sevens World Cup and World Series.23 Similarly, the proportions 
+of injured athletes in the beach volleyball tournaments in the 
+three latest summer Olympic Games constitute about one third 
+of that reported earlier in the beach volleyball world champion-
+ships.14 In handball, the incidence of injuries in Rio was about 
+half of that found in the men’s world championship in 2015. 64 
+Interestingly, and in contrast, the BMX cycling injury incidence 
+in Rio was about six times higher than that documented in the 
+1989 BMX European championships.70
+A change in injury incidence can be the result of changes in the 
+composition of the Olympic Games programme (eg, two new 
+sports in Rio), environmental factors, venue or track design, 
+competition rules or changes in equipment. Recorded
+ 
+injury 
+frequencies are also likely to be influenced by the response rate 
+and reporting accuracy by the NOC and organising committee 
+medical staff. However, our analysis comparing the injury inci-
+dences of the NOCs that reported data and those that did not 
+(other than the data recorded by the Rio 2016 staff) indicated no 
+significant difference between the two. In addition, in Rio 2016, 
+a new electronic medical record was used for the first time by the 
+organising committee medical staff. Also, incidence differences 
+(lower or higher) may simply be the result of a natural variability 
+of athletes’ exposure to risk, an observation that emphasises the 
+value of ongoing surveillance to monitor trends over time, for 
+example, the effect of venue design, rule or equipment changes 
+in the period between major sports events.
+severity of injuries
+In major sports events, like the Olympic Games, injuries or 
+illnesses of even minor severity with or without time loss have 
+the potential to be both participation
+ limiting 
+and perfor -
+mance
+ 
+inhibiting, and thus prevent athletes from possibly 
+fulfilling their potential and reaching their life-time achieve-
+ment. In the Rio Games, 40% of the injuries were estimated 
+to result in time loss from competition or training of at least 
+1
+ day
+. This places Rio 2016 between London 2012 and Beijing 
+2008, in which the equivalent numbers were 35% and 50%, 
+respectively. In contrast, athletes in Rio incurred more injuries 
+of higher severity (20% of the injuries estimated to result in 
+absence greater than 7
+ days) than the athletes in London 
+2012 
+and Beijing 2008 (both 13%).
+The sports with the highest incidences
+ of injuries 
+entailing a 
+prolonged absence from training or competition (>7 days) were 
+BMX cycling (10% of the athletes), wrestling (5%), weightlifting 
+(5%) and triathlon (5%), which is similar to the data from the 
+London Games.
+Causes, mechanisms and onset of injury
+The causes, mechanisms and circumstances of injuries in compe-
+tition and training differed significantly between the different 
+sports. Overall, the distribution of injuries in competition and 
+training (59% vs 37%) was similar to that of London 2012, 80 
+the 2009 and 2013 Aquatics World Championships, 46 47  the 
+2010 men’s Football World Cup, 19 and the 2011 Athletics 
+World Championships,42 but not Beijing 2008, 78 the 2007 or 
+2009 Athletics World Championships, 40 41  or the 2015 men’s 
+Handball World Championships, 64 where the incidence  of 
+competition injuries was higher
+. In Rio 2016, the majority of 
+injuries were reported to be acute, whereas overuse injuries 
+with either a gradual or sudden onset accounted for a quarter of 
+the injuries. Although similar distributions were reported from 
+London 2012 and Beijing 2008, these numbers should be inter -
+preted with caution, due to the limitations in the recording of 
+overuse injuries in the current methodology.82–86
+Illness risk during the Olympics
+In the lead up to the Rio Games, there were concerns about 
+the risk of gastroenteritis and other infections from various 
+water-borne viruses and bacteria, as well as the mosquito-borne 
+Zika virus, with some calling for the Games to be cancelled. 87 
+However, the overall proportion of athletes with illness in the 
+Rio Games (5%) was actually lower than those reported from 
+London 2012 (7%), 80 Vancouver 2010 (7%) 79 and Sochi 2014 
+(8%).81 While the majority of illnesses in Rio (56%) were caused 
+by an infection, the proportion of athletes contracting an infec-
+tion (3%) was identical to London 2012 (3%) and lower than 
+Sochi 2014 (5%). Similarly, the incidence
+ of digestive system 
+illness (1%) was identical 
+to London 2012 (also 1%). In terms 
+of the Zika virus, no cases were reported among either athletes 
+or the general population during the Olympic Games in Rio.88
+As in previous Olympic Games,79–81 female athletes contracted 
+more illnesses than male athletes. The same disproportion has 
+previously been reported in the 2009 Athletics 41 and Aquatics46 
+ on 20 July 2018 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2017-097956 on 29 July 2017. Downloaded from 
+6 of 8
+Soligard T, et al. Br J Sports Med 2017;51:1265–1271. doi:10.1136/bjsports-2017-097956
+Original article
+World Championships, but not in the 2011 Athletics 42 or 2013 
+Aquatics47 World Championships, in the 1994–2009 US Open 
+T ennis Championships,89 or in the Winter or Summer Paralympic 
+Games.37 39
+Methodological considerations
+In studies on sports injury, it is usually recommended to express 
+incidences using a measure of time exposed to risk as the denom-
+inator.35–37 90 91  However, considering the inherent complexity 
+and size of the Olympic Games, this was not feasible in the 
+present study. Instead, we expressed the injuries or illnesses 
+by means of absolute risk: the number of new cases per 100 
+registered athletes (incidence
+ 
+proportion). This approach erro-
+neously assumes that the frequencies and lengths of exposure 
+are identical in all sports and that the number of athletes at risk 
+in each NOC is constant throughout the Games. Interpretation 
+of differences in injury incidences
+ 
+or patterns should therefore 
+be made with caution.
+In the current study, we defined injuries and illnesses as 
+new or recurring injuries or illnesses receiving medical atten-
+tion, regardless of the consequences with respect to absence 
+from competition or training. By using such a definition, less 
+serious injuries may be overlooked, since such injuries do not 
+always require medical attention. 92 93 Nonetheless, our results 
+show that the majority of reported injuries were not estimated
+ 
+to involve any absence from the sport. Also,
+ 
+in the Olympic 
+Games, all athletes can get healthcare through the athletes’ 
+village polyclinic and the venue medical clinics. However, the 
+availability, size and quality of the NOCs’ own medical teams 
+vary among
+ 
+countries, meaning that not all athletes benefit 
+from identical healthcare, which may bias the injury and illness 
+recording.
+Throughout the 17 days of data collection in the Olympic 
+Games, we collected 45% of all the NOC injury and illness 
+report forms. If including only the NOCs
+ 
+which we actively 
+followed up (those with more than 10 athletes), as done in 
+previous Olympic Games, the response rate was 74%, which is 
+lower than in previous Games (99.7% in Sochi; 96% in London). 
+It is difficult to speculate as to what the potential causes are. In 
+the future, transitioning to an electronic data collection system, 
+similar to that used in the Paralympics, 35 may help to improve 
+the response rate among the NOCs, as well as the accuracy of 
+the data.
+A mere 6% of the injuries and 2% of the illnesses were 
+captured by both the NOC and the Rio 2016 medical personnel, 
+underlining the importance of both recorder groups. Our study 
+also shows that in particular athletes from smaller NOCs benefit 
+from diagnosis and treatment from the local organising commit-
+tee’s medical staff, whereas the majority of athletes from larger 
+NOCs are seen by their own NOC medical staff. More impor -
+tantly, we once again identified an inverse relationship between 
+NOC size and the risk of health problems, with athletes from 
+the smallest NOCs experiencing significantly more injuries 
+compared with the largest NOCs. It is difficult not to see this 
+finding in light of distinct differences in resources available 
+to the NOC. Large delegations usually come from countries 
+with well-developed exercise physiology and sports medicine 
+communities and are generally able to offer their athletes more 
+comprehensive healthcare and closer medical follow-up both in 
+the lead up to and during the Games, potentially giving them a 
+competitive advantage.
+Practical implications
+The continuously accumulating evidence that injuries and 
+illnesses vary substantially between sports demonstrates the need 
+for tailoring preventive measures to the specific context of each 
+sport. Sport bodies such as the IOC, International Paralympic 
+Committee, International Sports Federations (IFs) and NOCs 
+have the responsibility to protect the health of their athletes. The 
+Olympic Movement Medical Code encourages all stakeholders 
+to take measures to ensure that sport is practised with minimal 
+risks of physical injury and illness or psychological harm. 94 For 
+IFs, a critical component of this responsibility is the implementa-
+tion of a scientifically sound injury and illness surveillance system 
+in all major events. Some sports federations have put increasing 
+effort into working systematically and scientifically to protect 
+their athletes’ health. 15–20 22–47 49–61 68  We encourage other IFs 
+and sports organisations to follow their example.
+COnClusIOn
+In summary, 8% of the athletes had a reported medical encounter 
+for a new or recurrent injury and 5% an illness during the Rio 
+Olympic Summer Games. The incidences
+ and characteristics 
+of 
+injuries and illnesses in training and competition varied substan-
+tially between sports and gender.
+What are the findings?
+ ► Overall, 8% and 5% of the athletes incurred at least one 
+injury or illness, respectively, during the Rio 2016 Olympic 
+Games.
+ ► BMX cycling (38%), boxing (30%), mountain bike cycling 
+(24%), taekwondo (24%), water polo (19%) and rugby 
+(19%) were the sports with the highest incidence of injury.
+ ► Diving (12%), open-water marathon (12%), sailing (12%), 
+canoe slalom (11%), equestrian (11%) and synchronised 
+swimming (10%) were the sports with the highest 
+illness incidence.
+ ► The rate of infectious diseases in Rio was low and consistent 
+with previous Olympic Games.
+how might it impact on clinical practice in the near 
+futur
+e?
+ ► These injury and illness data can help inform policy and 
+planning of major multi-sport events (eg, Asian Games, 
+Commonwealth Games, Pan American Games, European 
+Games).
+ ► These data can directly inform the focus and development of 
+injury prevention measures in sport.
+Author affiliations
+1Medical and Scientific Department, International Olympic Committee, Lausanne, 
+Switzerland
+2Sport Injury Prevention Research Centre, Faculty of Kinesiology, University of 
+Calgary, Calgary, Alberta, Canada
+3Oslo Sports Trauma Research Center, Department of Sports Medicine, Norwegian 
+School of Sport Sciences, Oslo, Norway
+4School of Applied Sciences, Edinburgh Napier University, Edinburgh, UK
+5Division of Rheumatology, Orthopaedics and Dermatology, School of Medicine, 
+University of Nottingham, Nottingham, UK
+6Department of Sports Medicine, Aspetar Qatar Orthopedics and Sports Medicine 
+Hospital, Doha, Qatar
+7Department of Physical Therapy, University of Massachusetts Lowell, Lowell, 
+Massachusetts, USA
+8Department of Neurology, Spine Unit, Schulthess Clinic, Zurich, Switzerland
+9Institute of Sport and Health, University College Dublin, Dublin, Ireland
+ on 20 July 2018 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2017-097956 on 29 July 2017. Downloaded from 
+7 of 8
+Soligard T, et al. Br J Sports Med 2017;51:1265–1271. doi:10.1136/bjsports-2017-097956
+Original article
+10Fédération International de Natation (FINA), Lausanne, Switzerland
+11Masters and Doctoral Programs in Physical Therapy, Universidade Cidade de São 
+Paulo, São Paulo, Brazil
+12GE Healthcare, Moscow, Russia
+13Department of Orthopaedic Surgery, University of Oslo, Oslo, Norway
+Acknowledgements
+ T
+he authors would like to acknowledge the contribution 
+and support of the Rio 2016 staff throughout the different stages of this study. 
+The authors also sincerely thank all the NOC medical staff contributing to the data 
+collection: Dr Loughraieb Mok Amine (ALG), Dr Maria Stella Cristiano (ANG), Dr 
+Hugo Rodriques Papini (ARG), Dr Davit Mosinyan (ARM), Dr Carolyn Broderick 
+(AUS), Dr Alfred Engel (AUT), Dr Guliyeva Ludmila (AZE), Dr Virgil Rene Best (BAR), 
+Dr Johan Bellemans (BEL), Dr Henadzi Zaharodny (BLR), Dr Roberto Nahon (BRA), 
+Dr André Pedrinelli (BRA), Dr Stefan Strugarov (BUL), Dr Bob McCormack (CAN), Dr 
+Joshua Ferguson (CAN), Dr Jaques Ngouonimba Goulou (CGO), Dr Alejandro Orizola 
+(CHI), Dr Minhao Xie (CHN), Dr Ngiebe Mubiala (COD), Dr Juan Carlos Quiceno 
+(COL), Dr Karen Nuit Cifuentes Rodríguez (COL), Dr Humberto Evora (CPV), Dr Max 
+Moreira (CRC), Dr Damir Jemmendzic (CRO), Dr Dinko Pivvalica (CRO), Dr Miroslav 
+Smerdej (CRO), Dr Pablo Castillo Diaz (CUB), Dr Constantinos Schizas (CYP), Dr 
+Petr Sikora (CZE), Dr Lars Juel Andersen (DEN), Dr Francis Sanchez (DOM), Dr Pablo 
+Sarmiento Panchana (ECU), Dr Haile Ghirmasion (ERI), Dr Rosario Urena Duran 
+(ESP), Dr Mihkel Mardua (EST), Dr Ayalew Tilahun Beshahe (ETH), Dr Maarit Valtonen 
+(FIN), Dr Philippe Le Van (FRA), Dr Fabrice Bryand (FRA), Dr Niall Elliott (GBR), Dr 
+Mike Rossiter (GBR), Dr Zurab Kakhabrishvili (GEO), Dr Bernd Wolfarth (GER), Dr 
+Odysseas Paxinos (GRE), Dr Georgios Marinos (GRE), Dr Greg Varigos (GRN), Dr Luis 
+Cruz (GUM), Dr Mukkuaka Oda (HAI), Dr Julian Wai Chang (HKG), Dr Eva Vinalti 
+(HON), Dr Peter Barlogh (HUN), Dr Antonius Andi Kurniawan (INA), Dr Leane Suniar 
+Manuruna (INA), Dr Pawanddeep Singh Kohli (IND), Dr Gholamreza Norouzi (IRI), Dr 
+Rod McLoughlin (IRL), Dr Ghaleb Abbas Salih (IRQ), Dr Örnolfur Valoimarsson (ISL), 
+Dr Lubov Galitskaya (ISR), Dr Antonio Spataro (ITA), Dr Derrick McDowell (JAM), Dr 
+Kohei Nakajima (JPN), Dr Tomohiro Manabe (JPN), Dr Shuichi Nakayama (JPN), Dr 
+Hiroshi Takagi (JPN), Dr Serikkazy Mazenhov (KAZ), Dr Natalia Kudashova (KAZ), Dr 
+Elena Galtis (KAZ), Dr Daniel Langat (KEN), Dr Baktygul Alisheva (KGZ), Dr Jungjoong 
+Yoon (KOR), Dr Liga Circule (LAT), Dr Axel Urhausen (LIE), Dr Dalius Barkauskas 
+(LTU), Dr Axel Urhausen (LUX), Dr Christian Nührenbörger (LUX), Dr Semmar Sahar 
+(MAR), Dr Arshad Bin Puji (MAS), Dr Balmus Dorin (MDA), Dr Viridiana Silva Quiroz 
+(MEX), Dr Chuluun Nasanbat (MGL), Dr Bayartuya Bayarsaikhan (MGL), Dr Licienne 
+Attard (MLT), Dr Predrag Dabovic (MNE), Dr Flezer Tomadote (MOZ), Dr Jürgen 
+Hofmann (NAM), Dr Aniya-Mart Kruger (NAM), Dr Cees-Rein van den Hoogenband 
+(NED), Dr Sarub Shrestha (NEP), Dr Abdulkadir Mu’azu (NGR), Dr Thomas Torgalsen 
+(NOR), Dr Lars Haugvad (NOR), Dr Anne Froholdt (NOR), Dr Bruce Hamilton (NZL), 
+Dr Mark Fulcher (NZL), Dr Victor Carpio Quintana (PER), Dr Bernie Amof (PNG), Dr 
+Hubert Krysztofiak (POL), Dr Maria Joao Cascascais (POR), Dr Kim Yumi (PRK), Dr 
+Rebecca Rodriquez (PUR), Dr Juan Manuel Alonso (QAT), Dr Carlo Bagutti (ROT), Dr 
+Tanase Dan (ROU), Dr Kevin Subban (RSA), Dr Andrej Sereda (RUS), Dr Seydina Omar 
+Diagne (SEN), Dr Darren Leong (SIN), Dr Matjaz Vogrin (SLO), Dr Martin Zorko (SLO), 
+Dr Katja Azman Juvan (SLO), Dr Dragan Radovanovic (SRB), Dr Goran Vasic (SRB), 
+Dr Patrick Noack (SUI), Dr Branislav Delej (SVK), Dr Per Andersson (SWE), Dr Fredrik 
+Bergström (SWE), Dr Mats Börjesson (SWE), Dr Nassoro Matuzya (TAN), Dr Hilary 
+Meechai Inwood (THA), Dr Lin Yzn Chou (TPE), Dr Tonya Welch (TTO), Dr Ayachi 
+Saida (TUN), Dr Tugba Kocahan (TUR), Dr Hassan Kamal (TUR), Dr Abdulhameed 
+Alattar (UAE), Dr Robert Zavuga (UGA), Dr Oleksandr Varvinskyi (UKR), Dr Daniel 
+Zarrillo (URU), Dr Bill Moreau (USA), Dr Svetlana Suyatskaya (UZB), Dr Joze German 
+Medina (VEN), Dr Phu Nguyen Van (VIE), Dr Mulenga Davie (ZAM), Dr Austin Jeans 
+(ZIM), Dr Dorothy Masawi (ZIM) and Dr Nicholas Munyonga (ZIM).
+Contributors
+ All authors contributed to the study conception and design,
+ data 
+collection and interpretation. TS analysed the data and drafted the paper. All authors 
+provided revisions and contributed to the final manuscript. TS is the guarantor.
+Funding
+ T
+he study was funded by the International Olympic Committee.
+Competing interests
+ None declared.
+e
+thics approval
+ T
+he study was reviewed by the Medical Research Ethics 
+Committee of the South-Eastern Norway Regional Health Authority (2011/388).
+Provenance and peer review
+ Not commissioned;
+ externally peer reviewed.
+© Article author(s) (or their employer(s) unless otherwise stated in the text of the 
+article) 2017. All rights reserved. No commercial use is permitted unless otherwise 
+expressly granted.
+RefeRences
+ 1  W orld Health Organization. Global recommendations on physical activity for health. 
+2010 http://www.
+ 
+who.
+ 
+int/
+ 
+dietphysicalactivity/
+ 
+publications/
+ 
+9789241599979/
+ 
+en/.
+ 2
+ Centers for Disease Control and Prevention.
+ Physical activity and health - the benefits 
+of physical activity. http://www.
+ 
+cdc.
+ 
+gov/
+ 
+physicalactivity/
+ 
+everyone/
+ 
+health/
+ 
+index.
+ 
+html.
+ 3
+ Sarna S
+, Sahi T, Koskenvuo M, et al. Increased life expectancy of world class male 
+Athletes. Med Sci Sports Exerc 1993;25:237–244.
+ 4
+ K
+ujala UM, Sarna S, Kaprio J, et al. Hospital care in later life among former world-class 
+finnish Athletes. JAMA 1996;276:216–20.
+ 5
+ T
+eramoto M, Bungum TJ. Mortality and longevity of elite Athletes. J Sci Med Sport 
+2010;13:410–6.
+ 6
+ Clark
+e PM, Walter SJ, Hayen A, et al. Survival of the fittest: retrospective cohort study 
+of the longevity of Olympic medallists in the modern era. BMJ 2012;345:e8308.
+ 7
+ Zwiers R,
+ Zantvoord FW, Engelaer FM, et al. Mortality in Former Olympic Athletes: 
+retrospective cohort analysis. BMJ 2012;345:e7456.
+ 8
+ Dr
+awer S, Fuller CW. Propensity for osteoarthritis and lower limb joint pain in retired 
+professional soccer players. Br J Sports Med 2001;35:402–8.
+ 9
+ Dr
+awer S, Fuller CW. Evaluating the level of injury in English professional football 
+using a risk based assessment process. Br J Sports Med 2002;36:446–51.
+ 10
+ Lohmander LS
+, Ostenberg A, Englund M, et al. High prevalence of knee osteoarthritis, 
+pain, and functional limitations in female soccer players twelve years after anterior 
+cruciate ligament injury. Arthritis Rheum 2004;50:3145–52.
+ 11
+ von P
+orat A, Roos EM, Roos H. High prevalence of osteoarthritis 14 years after an 
+anterior cruciate ligament tear in male soccer players: a study of radiographic and 
+patient relevant outcomes. Ann Rheum Dis 2004;63:269–73.
+ 12
+ v
+an Mechelen W, Hlobil H, Kemper HC, . Incidence, severity, aetiology and prevention 
+of sports injuries. A review of concepts. Sports Med 1992;14:82–99.
+ 13
+ Finch C
+. A new framework for research leading to sports injury prevention. J Sci Med 
+Sport 2006;9(1-2):3–9.
+ 14
+ Bahr R,
+ Reeser JC; . Injuries among world-class professional beach volleyball players. 
+The Fédération Internationale de Volleyball beach volleyball injury study. Am J Sports 
+Med 2003;31:119–25.
+ 15
+ Junge 
+A, Dvorak J, Graf-Baumann T, et al. Football injuries during FIFA tournaments 
+and the Olympic Games, 1998-2001: development and implementation of an injury-
+reporting system. Am J Sports Med 2004;32:80S–9.
+ 16
+ Junge 
+A, Dvorak J, Graf-Baumann T. Football injuries during the World Cup 2002. Am J 
+Sports Med 2004;32:23S–7.
+ 17
+ Dvor
+ak J, Junge A, Grimm K, et al. Medical report from the 2006 FIFA World Cup 
+Germany. Br J Sports Med 2007;41:578–81.
+ 18
+ Junge 
+A, Dvorak J. Injuries in female football players in top-level international 
+tournaments. Br J Sports Med 2007;41 Suppl 1(Suppl 1):i3–i7.
+ 19
+ Dvor
+ak J, Junge A, Derman W, et al. Injuries and illnesses of football players during the 
+2010 FIFA World Cup. Br J Sports Med 2011;45:626–30.
+ 20
+ Junge 
+A, Dvořák J. Football injuries during the 2014 FIFA World Cup. Br J Sports Med 
+2015;49:599–602.
+ 21
+ Best JP
+, McIntosh AS, Savage TN, . Rugby World Cup 2003 injury surveillance project. 
+Br J Sports Med 2003;:39:812–7.
+ 22
+ Fuller CW
+, Laborde F , Leather RJ, et al. International Rugby Board Rugby World Cup 
+2007 injury surveillance study. Br J Sports Med 2008;42:452–9.
+ 23
+ Fuller CW
+, Taylor A, Molloy MG. Epidemiological study of injuries in International 
+Rugby Sevens. Clin J Sport Med 2010;20:179–84.
+ 24
+ T
+aylor AE, Fuller CW, Molloy MG. Injury surveillance during the 2010 IRB Women’s 
+Rugby World Cup. Br J Sports Med 2011;45:1243–5.
+ 25
+ Fuller CW
+, Sheerin K, Targett S, et al. International Rugby Board injury surveillance 
+study. Br J Sports Med 20112013;47:1184–91;47:1184–91.
+ 26
+ Fuller CW
+, Taylor A, Raftery M. 2016 Rio Olympics: an epidemiological study of the 
+men’s and women’s Rugby-7s tournaments. Br J Sports Med 2017.
+ 27
+ Hägglund M,
+ Waldén M, Bahr R, et al. Methods for epidemiological study of injuries 
+to professional football players: developing the UEFA model. Br J Sports Med 
+2005;39:340–6.
+ 28
+ W
+aldén M, Hägglund M, Ekstrand J. UEFA Champions League study: a prospective 
+study of injuries in professional football during the 2001-2002 season. Br J Sports 
+Med 2005;39:542–6.
+ 29
+ W
+aldén M, Hägglund M, Ekstrand J. Football injuries during european championships 
+2004-2005. Knee Surg Sports Traumatol Arthrosc 2007;15:1155–62.
+ 30
+ Ekstr
+and J, Hägglund M, Waldén M. Injury incidence and injury patterns in 
+professional football: the UEFA injury study. Br J Sports Med 2011;45.
+ 31
+ Hägglund M,
+ Waldén M, Ekstrand J. UEFA injury study--an injury audit of european 
+championships 2006 to 2008. Br J Sports Med 2009;43:483–9.
+ 32
+ Hägglund M,
+ Waldén M, Magnusson H, et al. Injuries affect team performance 
+negatively in professional football: an 11-year follow-up of the UEFA Champions 
+League injury study. Br J Sports Med 2013;47:738–42.
+ 33
+ W
+ebborn N, Willick S, Reeser JC. Injuries among disabled Athletes during the 2002 
+Winter Paralympic Games. Med Sci Sports Exerc 2006;38:811–5.
+ 34
+ W
+ebborn N, Willick S, Emery CA. The injury experience at the 2010 winter paralympic 
+games. Clin J Sport Med 2012;22:1–9.
+ 35
+ Derman 
+W, Schwellnus M, Jordaan E, et al. Illness and injury in Athletes during 
+the competition period at the London 2012 Paralympic Games: development and 
+implementation of a web-based surveillance system (WEB-IISS) for team medical staff. 
+Br J Sports Med 2013;47:420–5.
+ 36
+ Willick SE,
+ Webborn N, Emery C, et al. The epidemiology of injuries at the London 
+2012 Paralympic Games. Br J Sports Med 2013;47:426–32.
+ 37
+ Schwellnus M,
+ Derman W, Jordaan E, et al. Factors associated with illness in Athletes 
+participating in the London 2012 Paralympic Games: a prospective cohort study 
+involving 49,910 athlete-days. Br J Sports Med 2013;47:433–40.
+ on 20 July 2018 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2017-097956 on 29 July 2017. Downloaded from 
+8 of 8
+Soligard T, et al. Br J Sports Med 2017;51:1265–1271. doi:10.1136/bjsports-2017-097956
+Original article
+ 38 Derman W, Schwellnus MP , Jordaan E, et al. High incidence of injury at the Sochi 2014 
+Winter Paralympic Games: a prospective cohort study of 6564 athlete days. Br J Sports 
+Med 2016;50:1069–74.
+ 39
+ Derman 
+W, Schwellnus MP , Jordaan E, et al. The incidence and patterns of illness at 
+the Sochi 2014 Winter Paralympic Games: a prospective cohort study of 6564 athlete 
+days. Br J Sports Med 2016;50:1064–8.
+ 40
+ Alonso JM,
+ Junge A, Renström P , et al. Sports injuries surveillance during the 2007 
+IAAF World Athletics Championships. Clin J Sport Med 2009;19:26–32.
+ 41
+ Alonso JM,
+ Tscholl PM, Engebretsen L, et al. Occurrence of injuries and 
+illnesses during the 2009 IAAF World Athletics Championships. Br J Sports Med 
+2010;44:1100–5.
+ 42
+ Alonso JM,
+ Edouard P , Fischetto G, et al. Determination of future prevention strategies 
+in elite track and field: analysis of Daegu 2011 IAAF championships injuries and 
+illnesses surveillance. Br J Sports Med 2012;46:505–14.
+ 43
+ Alonso JM,
+ Jacobsson J, Timpka T, et al. Preparticipation injury complaint is a risk 
+factor for injury: a prospective study of the Moscow 2013 IAAF championships. Br J 
+Sports Med 2015;49:1118–24.
+ 44
+ F
+eddermann-Demont N, Junge A, Edouard P , et al. Injuries in 13 International Athletics 
+championships between 2007-2012. Br J Sports Med 2014;48:513–22.
+ 45
+ T
+impka T, Jacobsson J, Bargoria V , et al. Preparticipation predictors for 
+championship injury and illness: cohort study at the Beijing 2015 International 
+Association of Athletics Federations World Championships. Br J Sports Med 
+2017;51:271–6.
+ 46
+ Mountjoy M,
+ Junge A, Alonso JM, et al. Sports injuries and illnesses in the 2009 FINA 
+World Championships (Aquatics). Br J Sports Med 2010;44:522–7.
+ 47
+ Mountjoy M,
+ Junge A, Benjamen S, et al. Competing with injuries: injuries prior to 
+and during the 15th FINA World Championships 2013 (aquatics). Br J Sports Med 
+2015;49:37–43.
+ 48
+ Prien 
+A, Mountjoy M, Miller J, et al. Injury and illness in aquatic sport: how high is the 
+risk? A comparison of results from three FINA World Championships. Br J Sports Med 
+2017;51:277–82.
+ 49
+ Flørenes 
+TW, Bere T, Nordsletten L, et al. Injuries among male and female world Cup 
+alpine skiers. Br J Sports Med 2009;43:973–8.
+ 50
+ Flørenes 
+TW, Heir S, Nordsletten L, et al. Injuries among World Cup freestyle skiers. Br 
+J Sports Med 2010;44:803–8.
+ 51
+ Flørenes 
+TW, Nordsletten L, Heir S, et al. Recording injuries among World Cup 
+skiers and snowboarders: a methodological study. Scand J Med Sci Sports 
+2011;21:196–205.
+ 52
+ Flørenes 
+TW, Nordsletten L, Heir S, et al. Injuries among World Cup ski and snowboard 
+Athletes. Scand J Med Sci Sports 2012;22:58–66.
+ 53
+ Bakk
+en A, Bere T, Bahr R, et al. Mechanisms of injuries in World Cup Snowboard 
+Cross: a systematic video analysis of 19 cases. Br J Sports Med 2011;45:1315–22.
+ 54
+ Bere 
+T, Flørenes TW, Nordsletten L, et al. Sex differences in the risk of injury in World 
+Cup alpine skiers: a 6-year cohort study. Br J Sports Med 2014;48:36–40.
+ 55
+ Major DH,
+ Steenstrup SE, Bere T, et al. Injury rate and injury pattern among elite world 
+Cup snowboarders: a 6-year cohort study. Br J Sports Med 2014;48:18–22.
+ 56
+ Randjelovic S
+, Heir S, Nordsletten L, et al. Injury situations in Freestyle Ski Cross (SX): a 
+video analysis of 33 cases. Br J Sports Med 2014;48:29–35.
+ 57
+ Steenstrup SE,
+ Bere T, Bahr R. Head injuries among FIS World Cup alpine and freestyle 
+skiers and snowboarders: a 7-year cohort study. Br J Sports Med 2014;48:41–5.
+ 58
+ T
+uominen M, Stuart MJ, Aubry M, et al. Injuries in men’s international ice hockey: a 
+7-year study of the International Ice Hockey Federation Adult World Championship 
+Tournaments and Olympic Winter Games. Br J Sports Med 2015;49:30–6.
+ 59
+ T
+uominen M, Stuart MJ, Aubry M, et al. Injuries in women’s international ice hockey: 
+an 8-year study of the World Championship tournaments and Olympic Winter Games. 
+Br J Sports Med 2016;50:1406–12.
+ 60
+ T
+uominen M, Hänninen T, Parkkari J, et al. Concussion in the international ice hockey 
+world championships and olympic Winter Games between 2006 and 2015. Br J Sports 
+Med 2017;51:244–52.
+ 61
+ T
+uominen M, Stuart MJ, Aubry M, et al. Injuries in world junior ice hockey 
+championships between 2006 and 2015. Br J Sports Med 2017;51:36–43.
+ 62
+ P
+ark KJ, Brian Byung S. Injuries in elite korean fencers: an epidemiological study. Br J 
+Sports Med 2017;51:220–5.
+ 63
+ L
+ystad RP , Graham PL, Poulos RG. Exposure-adjusted incidence rates and severity of 
+competition injuries in australian amateur taekwondo Athletes: a 2-year prospective 
+study. Br J Sports Med 2013;47:441–6.
+ 64
+ Bere T
+, Alonso JM, Wangensteen A, et al. Injury and illness surveillance during 
+the 24th men’s Handball World Championship 2015 in Qatar. Br J Sports Med 
+2015;49:1151–6.
+ 65  Loosemore M,  Lightfoot J, Palmer-Green D, et al. Boxing injury epidemiology in the 
+Great Britain team: a 5-year surveillance study of medically diagnosed injury incidence 
+and outcome. Br J Sports Med 2015;49:1100–7.
+ 66
+ Siewe J
+, Rudat J, Zarghooni K, et al. Injuries in competitive boxing. A prospective 
+study. Int J Sports Med 2015;36:249–53.
+ 67
+ W
+estermann RW, Giblin M, Vaske A, et al. Evaluation of men’s and Women’s 
+Gymnastics Injuries: A 10-Year Observational Study. Sports Health 2015;7:161–5.
+ 68
+ T
+heilen TM, Mueller-Eising W, Wefers Bettink P , et al. Injury data of Major international 
+field hockey tournaments. Br J Sports Med 2016;50:657–60.
+ 69
+ Kim KS
+, Park KJ, Lee J, et al. Injuries in national olympic level judo Athletes: an 
+epidemiological study. Br J Sports Med 2015;49:1144–50.
+ 70
+ Brøgger
+-Jensen T, Hvass I, Bugge S. Injuries at the BMX Cycling European 
+Championship, 1989. Br J Sports Med 1990;24:269–70.
+ 71
+ J
+ayanthi NA, O’Boyle J, Durazo-Arvizu RA. Risk factors for medical withdrawals in 
+United States tennis association junior national tennis tournaments: a descriptive 
+epidemiologic study. Sports Health 2009;1:231–5.
+ 72
+ L
+ynall RC, Kerr ZY , Djoko A, et al. Epidemiology of National Collegiate Athletic 
+Association men’s and women’s tennis injuries, 2009/2010-2014/2015. Br J Sports 
+Med 2016;50:1211–6.
+ 73
+ Maquirriain J
+, Baglione R. Epidemiology of tennis injuries: an eight-year review of 
+Davis Cup retirements. Eur J Sport Sci 2016;16:266–70.
+ 74
+ McCurdie I,
+ Smith S, Bell PH, et al. Tennis injury data from the championships, 
+Wimbledon, from 2003 to 2012. Br J Sports Med 2017;51.
+ 75
+ Pluim BM,
+ Loeffen FG, Clarsen B, et al. A one-season prospective study of injuries and 
+illness in elite junior tennis. Scand J Med Sci Sports 2016;26:564–71.
+ 76
+ Pluim BM,
+ Clarsen B, Verhagen E. Injury rates in recreational tennis players 
+do not differ between different playing surfaces. Br J Sports Med 2017:bjsp
+orts-2016-097050.
+ 77
+ Junge 
+A, Engebretsen L, Alonso JM, et al. Injury surveillance in multi-sport events: the 
+International Olympic Committee approach. Br J Sports Med 2008;42:413–21.
+ 78
+ Junge 
+A, Engebretsen L, Mountjoy ML, et al. Sports injuries during the Summer 
+Olympic Games 2008. Am J Sports Med 2009;37:2165–72.
+ 79
+ Engebretsen L,
+ Steffen K, Alonso JM, et al. Sports injuries and illnesses during the 
+Winter Olympic Games 2010. Br J Sports Med 2010;44:772–80.
+ 80
+ Engebretsen L,
+ Soligard T, Steffen K, et al. Sports injuries and illnesses during the 
+London Summer Olympic Games 2012. Br J Sports Med 2013;47:407–14.
+ 81
+ Soligard 
+T, Steffen K, Palmer-Green D, et al. Sports injuries and illnesses in the Sochi 
+2014 Olympic Winter Games. Br J Sports Med 2015;49:441–7.
+ 82
+ Bahr R.
+ No injuries, but plenty of pain? on the methodology for recording overuse 
+symptoms in sports. Br J Sports Med 2009;43:966–72.
+ 83
+ Clarsen B
+, Myklebust G, Bahr R. Development and validation of a new method for 
+the registration of overuse injuries in sports injury epidemiology: the Oslo Sports 
+Trauma Research Centre (OSTRC) overuse injury questionnaire. Br J Sports Med 
+2013;47:495–502.
+ 84
+ Clarsen B
+, Rønsen O, Myklebust G, et al. The Oslo Sports Trauma Research Center 
+questionnaire on health problems: a new approach to prospective monitoring of 
+illness and injury in elite Athletes. Br J Sports Med 2014;48:754–60.
+ 85
+ Clarsen B
+, Bahr R. Matching the choice of injury/illness definition to study setting. 
+purpose and design: one size does not fit all! Br J Sports Med 2014;48:510–2.
+ 86
+ Mountjoy M,
+ Junge A, Alonso JM, et al. Consensus statement on the methodology 
+of injury and illness surveillance in FINA (aquatic sports). Br J Sports Med 
+2016;50:590–6.
+ 87
+ Attar
+an A. Off the Podium: why Public Health concerns for global spread of Zika virus 
+means that Rio de Janeiro’s 2016 Olympic Games Must Not Proceed. Harvard Public 
+Health Review 2016 ht
+ 
+tp://
+ 
+harvardpublichealthreview.
+ 
+org/
+ 
+off-
+ 
+the-
+ 
+podium-
+ 
+why-
+ 
+rios-
+ 
+2016-
+ 
+olymp
+ 
+ic-
+  
+game
+ 
+s-
+ 
+m
+ 
+ust-
+  
+not-
+ 
+proceed/.
+ 88
+ W
+orld Health Organization. Zika situation report. 2016. http://www.
+ who
+.
+ int/
+ 
+emergencies/
+ 
+zika-
+ 
+virus/
+ 
+situation-
+ 
+report/
+ 
+25-
+ 
+august-
+ 
+2016/
+ 
+en/.
+ 89
+ Sell K,
+ Hainline B, Yorio M, et al. Illness data from the US open tennis championships 
+from 1994 to 2009. Clin J Sport Med 2013;23:25–32.
+ 90
+ Fuller CW
+, Ekstrand J, Junge A, et al. Consensus statement on injury definitions and 
+data collection procedures in studies of football (soccer) injuries. Br J Sports Med 
+2006;40:193–201.
+ 91
+ Bahr R,
+ Holme I. Risk factors for sports injuries--a methodological approach. Br J 
+Sports Med 2003;37:384–92.
+ 92
+ Inklaar H,
+ injuries S. I: incidence and severity. Sports Med 1994;18:55–73.
+ 93
+ Finch CF
+. An overview of some definitional issues for sports injury surveillance. Sports 
+Med 1997;24:157–63.
+ 94
+ T
+he Olympic Movement Medical Code. International Olympic Committee 2016 http://
+www.
+ 
+olympic.
+ 
+org/
+ 
+PageFiles/
+ 
+61597/
+ 
+Olympic_
+ 
+Movement_
+ 
+Medical_
+ 
+Code_
+ 
+eng.
+ 
+pdf.
+ on 20 July 2018 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2017-097956 on 29 July 2017. Downloaded from 

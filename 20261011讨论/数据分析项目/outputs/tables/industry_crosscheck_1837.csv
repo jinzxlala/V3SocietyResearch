@@ -1,0 +1,5 @@
+﻿run_id,date,scope,basket_levels_observed,industrial_employment,working_workforce_including_subsistence,subsistence_employment_excluded,non_subsistence_employment_denominator,no_workplace_workforce_excluded,industrial_employment_share,basket_types_without_records,matches_existing_outputs
+FL_01,1837-01-01,national_actual,38,184537,1028211,614033,414178,24452,0.4455499809260753,,True
+FL_01,1837-01-01,common_states,38,184537,987611,574033,413578,22981,0.4461963644100992,,True
+SL_01,1837-01-01,national_actual,40,183870,1027327,613190,414137,25225,0.44398351270231834,building_motor_industry,True
+SL_01,1837-01-01,common_states,40,183870,986727,573190,413537,23878,0.4446276874862467,building_motor_industry,True

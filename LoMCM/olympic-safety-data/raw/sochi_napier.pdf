@@ -1,0 +1,879 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js ie9 lt-ie10"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js gb" lang="en">
+<!--<![endif]-->
+<head id="pageHeader"><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--Social sharing meta details-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta property="og:site_name" content="Napier" /><meta name="facebook-domain-verification" content="tkd3166urn6c9hs2x9ni6sa0sdbwtb" />
+    <!--[if IE]><link rel="shortcut icon" href="/theme/assets/img/design/favicon.ico" /><![endif]-->
+    
+    <script>
+        var __dispatched__ = {};
+
+        var __i__ = self.postMessage && setInterval(function () {
+            if (self.PrivacyManagerAPI && __i__) {
+                var apiObject = {
+                    PrivacyManagerAPI:
+                        { action: "getConsentDecision", timestamp: new Date().getTime(), self: self.location.host }
+                }; self.top.postMessage(JSON.stringify(apiObject), "*"); __i__ = clearInterval(__i__);
+            }
+        }, 50);
+
+        self.addEventListener("message", function (e, d) {
+            try {
+                if (e.data && (d = JSON.parse(e.data)) &&
+                    (d = d.PrivacyManagerAPI) && d.capabilities &&
+                    d.action == "getConsentDecision") {
+                    var newDecision =
+                        self.PrivacyManagerAPI.callApi("getGDPRConsentDecision",
+                            self.location.host).consentDecision;
+                    newDecision && newDecision.forEach(function (label) {
+                        if (!__dispatched__[label]) {
+                            self.dataLayer && self.dataLayer.push({ "event": "GDPRPref Allows " + label });
+                            __dispatched__[label] = 1;
+                        }
+                    });
+                }
+            } catch (xx) { }
+        });
+    </script>
+
+
+
+    <link rel="icon" type="image/png" href="/theme/assets/img/design/favicon.png" /><link rel="apple-touch-icon-precomposed" href="/theme/assets/img/design/favicon.png" />
+
+    <!--[if !IE 8]><!-->
+    <link rel="stylesheet" type="text/css" href="/theme/assets/css/style.css" media="all" /><link rel="stylesheet" type="text/css" href="/theme/assets/css/style-replaceH1.css" media="all" /><link rel="stylesheet" type="text/css" href="/theme/assets/css/style-courseheaders.css" media="all" />
+    <!--<![endif]-->
+    <!--[if gte IE 9]>
+            <link rel="stylesheet" type="text/css" href="/theme/assets/css/style.css" media="all" />
+        <![endif]-->
+    <!--[if lt IE 9]>
+            <link rel="stylesheet" type="text/css" href="/theme/assets/css/style-legacy.css" media="all" />
+        <![endif]-->
+
+    <link href="https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600" rel="stylesheet" type="text/css" />
+    
+
+    <script src="/theme/assets/js/vendor/modernizr-2.6.2.min.js"></script>
+
+    <script type="text/javascript" src="/theme/assets/js/vendor/handlebars-v4.7.8.js"></script>
+    
+    <script>window.jQuery || document.write('<script src="/theme/assets/js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+    
+    <!--TrustArc Consent Manager codebase-->
+     
+      <script async="async" src="//consent.trustarc.com/notice?domain=napier.ac.uk&c=teconsent&js=nj&noticeType=bb&gtm=1&text=true" crossorigin></script>
+      <!--<script async="async" src="//consent.trustarc.com/notice?domain=dev-napier.ac.uk&c=teconsent&js=nj&noticeType=bb&gtm=1&text=true" crossorigin></script>-->
+    
+<meta name="VIcurrentDateTime" content="639260036556044212" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+    <script>
+
+</script>
+    <link href="webedit.css" rel="stylesheet" />
+
+    <!-- Clearing Scripts -->
+    <link href="/theme/assets/css/form-messages.napier.min.css" rel="stylesheet" /><link href="/theme/assets/css/opaqueoverlaystyles.css" rel="stylesheet" /><link href="/theme/assets/css/style-august22.css" rel="stylesheet" />
+    <script src="/theme/assets/js/accesability%20issues/accessability%20Tab%20issues%20and%20Mega%20Navigation.js"></script>
+    <script src="/theme/assets/js/accesability%20issues/accessability%20H%20tag%20issues.js"></script>
+
+    <script src="/theme/assets/js/vendor/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">
+            (function ($) {
+                $(document).ready(function () {
+                    $('.enu-checkparentlink').each(function () {
+                        var parentLink = $(this).parent().attr("href");
+
+                        if (!parentLink) {
+                            $(this).unwrap();
+                            $(this).wrap("<span></span>");
+                        }
+                    })
+                });
+            })(jQuery);
+    </script>
+
+    <!-- Google Tag Manager  live environmentt -->
+    <script>
+        $(function () {
+            var gtmCode = document.getElementById('gtmcode').value;
+            console.log(gtmCode);
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                }); var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', gtmCode);
+        });
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <link rel="stylesheet" type="text/css" href="/theme/assets/css/applybuttonoverride.css" media="all" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><link rel="canonical" href="https://www.napier.ac.uk/page-not-found" /><meta name="language" content="English" /><meta property="og:title" content="404 - page not found" /><meta name="twitter:title" content="404 - page not found" /><meta property="og:url" content="https://www.napier.ac.uk/page-not-found/" /><meta name="twitter:url" content="https://www.napier.ac.uk/page-not-found/" /><meta property="og:description" content="At Edinburgh Napier University, we nurture talent and create knowledge that shapes communities all around the world." /><meta name="twitter:description" content="At Edinburgh Napier University, we nurture talent and create knowledge that shapes communities all around the world." /><title>
+	404 - page not found
+</title></head>
+
+<body class="no-sidebars pink page-not-found standard-content-page ENU">
+    <form method="post" action="/page-not-found" id="mainLayout">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['mainLayout'];
+if (!theForm) {
+    theForm = document.mainLayout;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A09A2030" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="m1h+N0OxrefK90fmjU81lu/WMQt+MYYOJ1KN0UndUJUvZyyTSR/PCgLumfG5mSEiasaJMj+coO79oVW2fCvxC5qssocMtthVbIAPO9S/h+reykfzUsolTlHRtDqdQf6JI/Q/hvboi9kgtZ8d46TGwgWu6Ncuq9HAleYdtmtmsToTGpGAhwSA3uyi0s3OD2UXBSSLEk4Aq5f5VoHtf+p+95DKZFTTb/ox1OtRupQXA4ViLex7JQgSF2BT7p9pEW5jNejaXPMQmSsOoZl8fSIitTk1nCxx/CEs1NK8ZC3qQZ826qQttRjFKMVxLkKTidmiIxsieyzUJgqR/DKW/iWR4A==" />
+</div>
+        
+
+<script>
+    // after page load not images etc
+    window.addEventListener("DOMContentLoaded", function () {
+        document.getElementsByClassName("large-logo")[0].removeAttribute("height");
+        document.getElementsByClassName("large-logo")[0].removeAttribute("width");
+    });
+</script>
+<img src="/-/media/images/logos/harrietenu_logo_866x245.png?h=245&amp;iar=0&amp;w=866&amp;hash=1A2477F530570AE294C81D932FC4EDCB" class="PrintLogo" alt="Edinburg Napier University logo" width="866" height="245" responsive="1" />
+
+
+<div class="mastheadLinks" role="navigation" aria-label="Masthead Navigation Links">
+    <div class="mastheadLinkHolder">
+        <a tab-index="0" href="#mainContentArea" class="screenreader tabindex">Skip to main content</a>
+        <div class="set-backGround-for-accesability">
+            <ul class="u-StructureWrapper u-resetUL create-angle ">
+                <li>
+                    <a target="_blank" rel="noopener noreferrer" href="https://my.napier.ac.uk">
+                        My Napier
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" rel="noopener noreferrer" href="https://intranet.napier.ac.uk">
+                        Intranet
+                    </a>
+                </li>
+                <li>
+                    <a href="/about-us/work-with-us">
+                        Jobs
+                    </a>
+                </li>
+                <li>
+                    <a title="People " href="/about-us/our-location/our-campuses/libraries-and-heritage-collections">
+                        Libraries
+                    </a>
+                </li>
+                <li>
+                    <a>
+                        
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="headerWrapper">
+    <header class="headerArea u-StructureWrapper">
+        <div class="headerNav">
+            <div class="innerHeaderNav">
+                <a class="MainLogo" href="/" aria-label="Edinburgh Napier University Home Page">
+                    <img src="/-/media/images/logos/harrietenu_logo_866x245.png?h=245&amp;iar=0&amp;w=866&amp;hash=1A2477F530570AE294C81D932FC4EDCB" class="large-logo" alt="Edinburg Napier University logo" width="866" height="245" responsive="1" />
+                    <img src="/theme/assets/img/design/small-Logo.jpg" class="small-logo" alt="Edinburgh Napier University Logo" />
+                </a>
+                
+
+                <div id="ctl19_pnlRegularLogo">
+	
+                    
+                    <span class="logoHeader screenreader">Edinburgh Napier University
+                    </span>
+                    
+</div>
+
+                
+
+<nav class="primaryNavigation" aria-label="Primary Navigation">
+
+    
+            <ul class="u-resetUL">
+        
+            <li id="liPrimary_63405c6f-831e-4311-b9cc-c2a7dde850cd" class="primaryMain coursesmenu">
+                <div class="primary">
+                    <a id="primaryNavHyperLink_2bdcf437-897e-4a25-9095-25d6c2a918c0" class="nav-item" aria-label="open menu" onclick="location.href=this.href;" href="/courses">Courses</a>
+                    <span class="toggle icon-triangle-down initial-state"></span>
+                </div>
+                
+                        <div class="secondary">
+                            <ul>
+                    
+                        <li>
+                            <a id="secNavHyperLink_47bcec8a-a9fa-4088-a45f-1e19a74ed8b2" tabindex="-1" class="secondary-open" href="/courses/study-areas">Study areas</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_50938d7f-d2ef-42af-9fb2-2acd28f73db8" tabindex="-1" class="secondary-open" href="/courses/study-areas/accounting-and-finance">Accounting and Finance</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_e9ca93b3-d270-410c-83e6-cd410f2ecfca" tabindex="-1" class="secondary-open" href="/courses/study-areas/acting">Acting</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_2a4cf3a5-baf9-4cfc-b7d1-badac39875fe" tabindex="-1" class="secondary-open" href="/courses/study-areas/biological-sciences">Biological Sciences</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_75c77b8c-5a88-4527-8882-8dfbe49d9dcb" tabindex="-1" class="secondary-open" href="/courses/study-areas/building-and-surveying">Building and Surveying</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_7a4b7d5d-82a9-46ed-8965-cd72a91c65fb" tabindex="-1" class="secondary-open" href="/courses/study-areas/business-and-management">Business and Management</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_2c32736f-f0f1-4f67-9508-06c71343fc38" tabindex="-1" class="secondary-open" href="/courses/study-areas/computing">Computing</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_93de9e2f-38c4-499e-9195-82ccf2d503e2" tabindex="-1" class="secondary-open" href="/courses/study-areas/criminology-psychology-and-sociology">Criminology Psychology and Sociology</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_41035213-33da-480b-a0d1-7e4e293666dc" tabindex="-1" class="secondary-open" href="/courses/study-areas/design-photography-and-advertising">Design, Photography & Advertising</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_b97967bd-6ab2-48c6-a4d3-c8a0eeca3c63" tabindex="-1" class="secondary-open" href="/courses/study-areas/engineering">Engineering</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_5ea67a10-875e-4602-a823-494d6a9d49f1" tabindex="-1" class="secondary-open" href="/courses/study-areas/english-creative-writing-and-publishing">English, Creative Writing and Publishing</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_990adb47-806c-4c20-b1bd-7a64a4580d2a" tabindex="-1" class="secondary-open" href="/courses/study-areas/film-journalism-and-media">Film, Journalism and Media</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_f012f002-22fe-4a1e-8d1c-290d871aba6e" tabindex="-1" class="secondary-open" href="/courses/study-areas/health-and-social-care">Health and Social Care</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_3aab8398-59fe-4c40-8e9f-4f8879b25a05" tabindex="-1" class="secondary-open" href="/courses/study-areas/law">Law</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_6851666d-2d41-4584-b61d-a0ca55002dbc" tabindex="-1" class="secondary-open" href="/courses/study-areas/marketing">Marketing</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_09a4e643-41f7-4a36-b1e6-7dc558b4b2fd" tabindex="-1" class="secondary-open" href="/courses/study-areas/music">Music</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_0b3de716-ebc2-44f6-9449-f2d9d23a3784" tabindex="-1" class="secondary-open" href="/courses/study-areas/nursing-and-midwifery">Nursing and Midwifery</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_24327c5b-b5ef-4aaf-9402-2dac6fd2ee52" tabindex="-1" class="secondary-open" href="/courses/study-areas/sport-and-exercise-sciences">Sport and Exercise Sciences</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_af7fdead-ff7b-47c7-b339-1d82364fca9c" tabindex="-1" class="secondary-open" href="/courses/study-areas/teaching">Teaching</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_a505dbe7-ebe1-40ef-a4ef-25abeb021e1b" tabindex="-1" class="secondary-open" href="/courses/study-areas/tourism-hospitality-festival-and-events-management">Tourism Hospitality Festival and Events Management</a>
+                        </li>
+                    
+                        </ul>
+                        </div>
+                    
+            </li>
+        
+            <li id="liPrimary_59a99ba5-b384-4b93-b4a8-9252e0165c42" class="primaryMain">
+                <div class="primary">
+                    <a id="primaryNavHyperLink_8a354110-7060-4573-ac95-6c3afd62421b" class="nav-item" aria-label="open menu" onclick="location.href=this.href;" href="/study-with-us">Study with us</a>
+                    <span class="toggle icon-triangle-down initial-state"></span>
+                </div>
+                
+                        <div class="secondary">
+                            <ul>
+                    
+                        <li>
+                            <a id="secNavHyperLink_94a467a6-51e0-4642-bd95-d74da1f9eada" tabindex="-1" class="secondary-open" href="/study-with-us/undergraduate">Undergraduate</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_d603ca6b-10fe-4108-a3bc-0a69366533f0" tabindex="-1" class="secondary-open" href="/study-with-us/postgraduate">Postgraduate</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_cbd4671c-b15d-46c3-b0cb-8428525cd933" tabindex="-1" class="secondary-open" href="/study-with-us/international-students">International students</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_fbe3a126-eb0d-4909-ad36-146736897393" tabindex="-1" class="secondary-open" href="/study-with-us/apprenticeships">Graduate apprenticeships</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_daf189b3-e1d3-4d48-917d-87e4bc894d7f" tabindex="-1" class="secondary-open" href="/study-with-us/online">Online study</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_ed08645c-d073-4631-9e7a-f75b1e37b3b8" tabindex="-1" class="secondary-open" href="/study-with-us/short-courses">Short courses</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_20f90910-392c-4b9b-8088-89c2f4e4f79e" tabindex="-1" class="secondary-open" href="/study-with-us/why-choose-edinburgh-napier">Why choose Edinburgh Napier</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_176c6c50-38a9-4e7a-894c-dd9d7328c2a9" tabindex="-1" class="secondary-open" href="/study-with-us/bursaries">Funding your studies</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_cc229843-a30b-43d5-ad87-4cc4b32cca04" tabindex="-1" class="secondary-open" href="/study-with-us/student-life">Student life</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_efe5b978-7a25-4303-811b-ec793d8c2b62" tabindex="-1" class="secondary-open" href="/study-with-us/accommodation">Accommodation</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_71076adb-81c3-408d-8e8a-b27ab2068750" tabindex="-1" class="secondary-open" href="/study-with-us/graduation">Celebrating success</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_845b25d5-56c4-46a0-96a1-71b281d3f15d" tabindex="-1" class="secondary-open" href="/study-with-us/widening-participation">Widening Participation</a>
+                        </li>
+                    
+                        </ul>
+                        </div>
+                    
+            </li>
+        
+            <li id="liPrimary_85fd7d75-d843-4c05-ab92-1454e345e6b9" class="primaryMain">
+                <div class="primary">
+                    <a id="primaryNavHyperLink_b61c5202-97b9-422d-986c-53e30e43d05e" class="nav-item" aria-label="open menu" onclick="location.href=this.href;" href="/research-and-innovation">Research and innovation</a>
+                    <span class="toggle icon-triangle-down initial-state"></span>
+                </div>
+                
+                        <div class="secondary">
+                            <ul>
+                    
+                        <li>
+                            <a id="secNavHyperLink_abf90f17-9fa6-4cd3-859f-f7136726c0a9" tabindex="-1" class="secondary-open" href="/research-and-innovation/business-and-innovation-hub">Business & Innovation Hub</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_abc51782-fd02-4d00-a7d1-417100727db5" tabindex="-1" class="secondary-open" href="/research-and-innovation/doctoral-college">Doctoral College</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_59f135cc-bb5e-4262-a1aa-93040d8e21c0" tabindex="-1" class="secondary-open" href="/research-and-innovation/explore-our-research">Explore our research</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_0ef2c207-05b6-4db7-9f76-f4485faa85e1" tabindex="-1" class="secondary-open" href="/research-and-innovation/our-research-centres">Our research centres</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_3d5e8041-0bc6-4eae-a22c-530063d98155" tabindex="-1" class="secondary-open" href="/research-and-innovation/meet-our-researchers">Meet our researchers</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_d0320ed3-eb75-426b-a972-d13e404d3299" tabindex="-1" class="secondary-open" href="/research-and-innovation/research-environment">Our research environment</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_5cf92db2-8cb4-4c57-b736-84ca268b8667" tabindex="-1" class="secondary-open" href="/research-and-innovation/public-engagement">Public engagement</a>
+                        </li>
+                    
+                        </ul>
+                        </div>
+                    
+            </li>
+        
+            <li id="liPrimary_34f2107b-2b08-42aa-b296-9444c8327f00" class="primaryMain">
+                <div class="primary">
+                    <a id="primaryNavHyperLink_90a45c08-c2aa-4fde-8ef0-36e582ed274b" class="nav-item" aria-label="open menu" onclick="location.href=this.href;" href="/global">Global</a>
+                    <span class="toggle icon-triangle-down initial-state"></span>
+                </div>
+                
+                        <div class="secondary">
+                            <ul>
+                    
+                        <li>
+                            <a id="secNavHyperLink_d9997126-c2d7-4c4e-b3fd-d984c3586fbf" tabindex="-1" class="secondary-open" href="/global/enuic">International College</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_0398e125-b4ea-411f-80cb-d5fd3fe89523" tabindex="-1" class="secondary-open" href="/global/international-partners">International partners</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_3095c133-9b47-4227-b3d0-f581fa5c299b" tabindex="-1" class="secondary-open" href="/global/exchange-programmes">Exchange programmes</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_09640c46-2a0e-45da-9dc2-a2606d858615" tabindex="-1" class="secondary-open" href="/global/joint-college">Joint College</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_8cabad94-c0e0-4ad1-80c8-2f35a72e11bb" tabindex="-1" class="secondary-open" href="/global/transnational-education">Transnational education</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_88db3d40-3a38-4990-ba42-a313ff8187dc" tabindex="-1" class="secondary-open" href="/global/global-research">Global research</a>
+                        </li>
+                    
+                        </ul>
+                        </div>
+                    
+            </li>
+        
+            <li id="liPrimary_9c7d5a56-d460-42be-80b9-08e65c509c5d" class="primaryMain">
+                <div class="primary">
+                    <a id="primaryNavHyperLink_f07fa569-643e-40e8-ac5e-15294bba5844" class="nav-item" aria-label="open menu" onclick="location.href=this.href;" href="/alumni">Alumni</a>
+                    <span class="toggle icon-triangle-down initial-state"></span>
+                </div>
+                
+                        <div class="secondary">
+                            <ul>
+                    
+                        <li>
+                            <a id="secNavHyperLink_ec0fcad0-4f18-4309-b2a5-0fd949029a43" tabindex="-1" class="secondary-open" href="/alumni/alumni-news">Alumni news</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_5a1defdf-90e7-4d1f-851a-53a9f484a1df" tabindex="-1" class="secondary-open" href="/alumni/big-alumni-weekend">Big alumni weekend</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_a1beae83-4407-4b52-9137-c5f363105257" tabindex="-1" class="secondary-open" href="/alumni/benefits-and-services">Benefits and Services</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_983522e1-f154-41e6-80d5-23b17f4c57b3" tabindex="-1" class="secondary-open" href="/alumni/get-involved">Get involved</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_59aa8837-0225-4175-90ec-d5ce12fb109c" tabindex="-1" class="secondary-open" href="/about-us/support-the-university">Support the University</a>
+                        </li>
+                    
+                        </ul>
+                        </div>
+                    
+            </li>
+        
+            <li id="liPrimary_b6c0d475-0f9e-4f13-a539-6aba1907b315" class="primaryMain">
+                <div class="primary">
+                    <a id="primaryNavHyperLink_619ffd5c-ecf1-48d2-8b26-1a7e3eaa501e" class="nav-item" aria-label="open menu" onclick="location.href=this.href;" href="/about-us">About us</a>
+                    <span class="toggle icon-triangle-down initial-state"></span>
+                </div>
+                
+                        <div class="secondary">
+                            <ul>
+                    
+                        <li>
+                            <a id="secNavHyperLink_cac3edbc-3943-4a51-b18d-d9bfd985cb23" tabindex="-1" class="secondary-open" href="/about-us/work-with-us">Working at Edinburgh Napier</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_d76e075f-09ec-4d8d-9eef-308604120685" tabindex="-1" class="secondary-open" href="/about-us/term-dates">Term dates</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_a88d09d8-0f92-4353-b0e2-7c08bacd26ed" tabindex="-1" class="secondary-open" href="/about-us/events">Events</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_04a06ebf-ea9d-4c8f-8e44-6db104cb0b45" tabindex="-1" class="secondary-open" href="/about-us/our-location">Our location</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_78e3af5e-f3cc-438e-a18e-cf79f517b1d7" tabindex="-1" class="secondary-open" href="/about-us/official-merchandise">Official merchandise</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_c770e35a-155d-40d8-ac85-e82b91b261f6" tabindex="-1" class="secondary-open" href="/about-us/our-schools">Our schools</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_a85fbe11-d22b-4687-9f4f-1490fd189fa0" tabindex="-1" class="secondary-open" href="/about-us/news">News</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_de3d4366-a181-449b-88d4-fd4711fcf703" tabindex="-1" class="secondary-open" href="/about-us/university-leadership">University leadership</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_136c2da7-f0be-41c1-ba9b-9aefcf9401b2" tabindex="-1" class="secondary-open" href="/about-us/support-the-university">Support the University</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_e5c37250-b035-4df5-a0e3-978faffd44d5" tabindex="-1" class="secondary-open" href="/about-us/contact-us">Contact us</a>
+                        </li>
+                    
+                        <li>
+                            <a id="secNavHyperLink_06999f6f-e8a3-4c1f-8e43-a4a8683c5a6e" tabindex="-1" class="secondary-open" href="/about-us/conferences-and-hospitality">Conferences and hospitality</a>
+                        </li>
+                    
+                        </ul>
+                        </div>
+                    
+            </li>
+        
+</nav>
+<style>
+
+    .coursesmenu .secondary {
+        background: #fff;
+    }
+
+        .coursesmenu .secondary ul {
+            -webkit-column-count: 3;
+            -moz-column-count: 3;
+            column-count: 3;
+            -webkit-column-gap: 20px;
+            column-gap: 20px;
+            -moz-column-gap: 20px;
+            -webkit-column-rule: 1px solid #cbd3d5; /* Chrome, Safari, Opera */
+            -moz-column-rule: 1px solid #cbd3d5; /* Firefox */
+            column-rule: 1px solid #cbd3d5;
+            margin-top: 20px
+        }
+
+            .coursesmenu .secondary ul li {
+                display: inline-block !important;
+                width: 100%;
+            }
+
+                .coursesmenu .secondary ul li a {
+                    padding: 0.50em 0 !important;
+                }
+
+    .coursesmenu .secondary {
+        width: 900px;
+        left: 0px;
+    }
+
+    .mainNavSearch {
+        right: 0em;
+    }
+
+    @media only screen and (max-width: 768px) {
+        .coursesmenu .secondary ul {
+            -webkit-column-count: 1;
+            -moz-column-count: 1;
+            column-count: 1;
+            -webkit-column-gap: 0px;
+            column-gap: 0px;
+            -moz-column-gap: 0px;
+        }
+    }
+
+    @media only screen and (max-width: 400px) {
+        .coursesmenu .secondary ul {
+            -webkit-column-count: 1;
+            -moz-column-count: 1;
+            column-count: 1;
+        }
+    }
+
+    @media only screen and (max-width: 1215px) {
+        h3.menu-page-summary {
+            display: none;
+        }
+    }
+</style>
+
+                <a id="ctl19_ctl02_searchLink" class="icon-search mainNavSearch" role="button" aria-label="Toggle Search Visibility" href="/search"><span class="toggle icon-triangle-down initial-state searchdown"></span></a>
+<div id="ctl19_ctl02_search" class="headerSearch" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ctl19_ctl02_searchButtonHeader&#39;)">
+	
+    <div>
+        <input name="ctl19$ctl02$searchTextbox" type="text" id="ctl19_ctl02_searchTextbox" tabindex="-1" class="searchHeaderTextBox" title="Search Term" placeholder="Enter a search term e.g. Latest news" aria-label="Search Term" />
+        <select name="ctl19$ctl02$searchDropdown" id="ctl19_ctl02_searchDropdown" tabindex="-1" class="searchHeaderTextBox2" title="Search Area" aria-label="Search Area">
+		<option value=" ">All</option>
+		<option value="{EC5F263E-5378-49D3-9D7B-565B708C82C1}@@{C96574E3-8520-4AC3-A223-95C0595425A3}">Courses</option>
+		<option value="{CCD24A73-7667-4798-81CD-675B7564DBE0}">Staff</option>
+		<option value="{00446B21-85AD-461B-880E-683248CA1508}">News</option>
+		<option value="{FC804D55-3660-4C82-9186-37EBE5197FA3}">Events</option>
+		<option value="url:/research-and-innovation/research-search">Research</option>
+		<option value="{4E5C7D79-799F-4864-8679-3543F50094F1}">Bursaries</option>
+
+	</select>
+        <input type="submit" name="ctl19$ctl02$searchButtonHeader" value="Search" id="ctl19_ctl02_searchButtonHeader" disabled="disabled" class="aspNetDisabled searchHeaderButton" aria-label="Search Submit" />
+    </div>
+
+</div>
+
+            </div>
+        </div>
+        <div class="header-wbg"></div>
+        <a class="openMenu icon-menu" aria-label="open menu" href="#"></a>
+    </header>
+</div>
+
+        
+            <section role="main">
+        
+        <div id="ctl22_pageTitleDiv" class="pageTitle backgroundImage backgroundImage-mobile" data-bg="/-/media/1200x327/campuses/craiglockhart_glitch.png" data-bgsmall="" aria-label="craiglockhaer glitch" role="img">
+    <div id="ctl22_bgImage" class="innerContainer" aria-label="craiglockhaer glitch" role="region">
+        <div id="ctl22_leftbg" class="left-bg"></div>
+        <div class="u-StructureWrapper red innerWrapper">
+            <div id="ctl22_centerdiv" class="center">
+                <div class="titleWrapper">
+
+                    <div class="h1Tag largeTitle" class='largeTitle'>
+
+
+                        
+
+                        <div id="ctl22_pnlPageTitle">
+	
+                            <h1 class="course-title">
+                                404 - page not found
+                            </h1>
+                        
+</div>
+                    </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        
+        
+            <div class=" u-StructureWrapper u-overflow">
+        
+
+        
+        
+
+        </div>
+        
+
+        
+        
+        
+
+        <div class="contentWrapper">
+                    
+
+<div class="introText u-StructureWrapper paddingRight">
+	Sorry, we couldn't find that page.
+    
+</div>
+                    <div id="mainContentArea"></div> 
+                    
+
+<style>
+    .tabHeader {
+        padding: 0.2%;
+    }
+
+    .tabHeaderP {
+        padding-left: 3%;
+        margin: 0px;
+    }
+
+    .tabHeaderTitle {
+        float: left;
+        width: 33%;
+        background-color: #f7f7f7;
+        text-align: right;
+        padding-right: 10px;
+    }
+
+    .tabHeaderContent {
+        float: left;
+        width: 66%;
+        background-color: lightgrey;
+        padding-left: 10px;
+    }
+
+    .tabHeaderClear {
+        clear: both;
+    }
+
+    .wtImage {
+        float: left;
+    }
+
+        .wtImage img {
+            margin: 20px 0px 20px 0px;
+        }
+
+    .wtRelatedWrapper {
+        margin: 20px 0px 0px 0px;
+    }
+
+   
+</style>
+
+<section class="mainBodyText u-StructureWrapper sidePadding50 paddingRight">
+    <p>We've recently relaunched our website, so some things may not be where they used to be.</p>
+<p>Try <a href="/search">searching</a>&nbsp;for what you're looking for.</p>
+<p>If you think we're missing something, click "Send us feedback" below and our Web Team will get back to you as soon as possible.</p>
+
+<a href="#" onclick="clickme()" class="formCTA CTABanner formToggleButton">Send us feedback</a>
+<script>
+function clickme() {
+   var element = document.getElementById("feedback");
+    element.classList.toggle("hide-show");
+}
+</script>
+<style>
+ #feedback{
+    border:none;
+ }
+.hide-show{
+display:none;
+}
+.CTABanner{
+   color:white!important;
+}
+</style>
+<div  >
+   <iframe width="100%" height="1200px" class="hide-show" id="feedback" title="Feedback form" name="Feedback form" scrolling="no" src="/About us/Contact us/Forms/Web Feedback Form"></iframe>
+</div>
+
+    
+
+    <div>
+        
+    </div>
+
+    
+
+</section>
+
+                </div>
+            
+
+        </section>
+        
+
+        <footer id="ctl20_footerSection" role="contentinfo" aria-label="edinburgh skyline during the day." data-bg="/-/media/2403002-1200x311.jpg" class="mainFooter backgroundImage u-StructureWrapper">
+    <div id="ctl20_footerSectionInnerDiv" class="innerContainer"></div>
+
+    <div class="footer-left">
+        
+                <ul class="links u-resetUL u-overflow">
+            
+                <li>
+                    <a id="ctl20_bottomLeftTopRowRepeater_topRowHyperLink_2cbfd151-74cb-4d36-b78d-7705555edf6e_0" href="/about-us/contact-us">Contact us</a>
+                </li>
+            
+                <li>
+                    <a id="ctl20_bottomLeftTopRowRepeater_topRowHyperLink_977c64a1-a09a-4a53-8812-09fa8794056e_1" href="/accessibility-statement">Accessibility statement</a>
+                </li>
+            
+                <li>
+                    <a id="ctl20_bottomLeftTopRowRepeater_topRowHyperLink_ff775e44-fc9a-40e8-924d-bec1a32ea677_2" href="/privacy-policy">Privacy policy</a>
+                </li>
+            
+                <li>
+                    <a id="ctl20_bottomLeftTopRowRepeater_topRowHyperLink_77abe80f-5164-43b7-b298-e62fbc2e086d_3" href="/cookie-policy">Cookie policy</a>
+                </li>
+            
+                <li>
+                    <a id="ctl20_bottomLeftTopRowRepeater_topRowHyperLink_3f460513-ff75-48e5-ac20-6d84a76c5641_4" href="/document-centre">Document Centre</a>
+                </li>
+            
+                </ul>
+            
+        
+                <ul class="links u-resetUL u-overflow">
+            
+                <li>
+                    <a id="ctl20_bottomLeftBottomRowRepeater_bottomTRowHyperlink_f8f501f0-04cd-4b8e-ac13-304287cd4140_0" href="/about-us/university-governance/freedom-of-information">Freedom of information</a>
+                </li>
+            
+                <li>
+                    <a id="ctl20_bottomLeftBottomRowRepeater_bottomTRowHyperlink_1a1dfd53-37d5-4f3e-ad75-254c4269a175_1" href="/about-us/university-governance/modern-slavery-statement">Modern Slavery statement</a>
+                </li>
+            
+                <li>
+                    <a id="ctl20_bottomLeftBottomRowRepeater_bottomTRowHyperlink_aa256b3d-fcf0-4c5f-ac77-075ec8d8a013_2" href="/about-us/university-governance/making-a-complaint">Making a complaint</a>
+                </li>
+            
+                <li>
+                    <a id="ctl20_bottomLeftBottomRowRepeater_bottomTRowHyperlink_8cd0c9eb-0ea8-4103-8086-f382ce87679c_3" href="/service-status">Service status</a>
+                </li>
+            
+                </ul>
+            
+        <p>
+            Edinburgh Napier University is a registered Scottish charity. Registration SC018373
+        </p>
+        
+    </div>
+    <div class="footer-right">
+        <a href="/">
+            <img src="/-/media/images/logos/enu_logo_white_240_60_nico.png?h=60&amp;iar=0&amp;w=240&amp;hash=A8B741051DC7482AF537E9EDC101B1C8" alt="Edinburgh Napier University logo in white" width="240" height="60" responsive="1" />
+        </a>
+        <p>
+            © 2026 Edinburgh Napier University
+        </p>
+    </div>
+</footer>
+
+        <div id="ctl21_cookieDiv" class="cookieMessage">
+            <div>
+                <a id="ctl21_closeCookieMessage" class="icon-cross-small u-floatRight close_button closeBanner" aria-label="Close cookie banner" href="javascript:__doPostBack(&#39;ctl21$closeCookieMessage&#39;,&#39;&#39;)"></a>
+                <p>
+                    
+                    
+                </p>
+                <a id="ctl21_acceptCookiesButton" class="cta lexiaRegular cookie_agree" href="javascript:__doPostBack(&#39;ctl21$acceptCookiesButton&#39;,&#39;&#39;)">Accept Cookies</a>
+            </div>
+</div>
+        <script src="/theme/assets/js/plugins.js?1=1"></script>
+        <script src="/theme/assets/js/main.js?1=1"></script>
+
+
+        <div id="teconsent"></div>
+        <div id="consent_blackbar"></div>
+    
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZIYMSwm-fJzrCXWVKdMwj4eDrl9XeA6ktAfPaL7VqtmSAj6sWvma6IsVORsBrfkg6A2&amp;t=639190869332169432" type="text/javascript"></script>
+</form>
+
+    <input id="gtmcode" name="gtmcode" type="hidden" value="GTM-PL6QT8" />
+
+  <footer>
+   <script defer src="https://jscloud.net/x/48317/inlinks.js"></script>
+  </footer>
+</body>
+</html>

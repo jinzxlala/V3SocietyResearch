@@ -1,0 +1,382 @@
+[
+ {
+  "y_top": 41,
+  "y_bot": 62,
+  "y_center": 51.5,
+  "all": 37.6,
+  "ge1d": 18.8,
+  "gt7d": 10.3,
+  "h": 22,
+  "sport": "Cycling - BMX"
+ },
+ {
+  "y_top": 75,
+  "y_bot": 96,
+  "y_center": 85.5,
+  "all": 30.1,
+  "ge1d": 11.0,
+  "gt7d": 0.7,
+  "h": 22,
+  "sport": "Boxing"
+ },
+ {
+  "y_top": 109,
+  "y_bot": 131,
+  "y_center": 120.0,
+  "all": 23.8,
+  "ge1d": 5.0,
+  "gt7d": 3.8,
+  "h": 23,
+  "sport": "Cycling - MTB"
+ },
+ {
+  "y_top": 144,
+  "y_bot": 165,
+  "y_center": 154.5,
+  "all": 23.6,
+  "ge1d": 9.4,
+  "gt7d": 3.1,
+  "h": 22,
+  "sport": "Taekwondo"
+ },
+ {
+  "y_top": 178,
+  "y_bot": 199,
+  "y_center": 188.5,
+  "all": 19.4,
+  "ge1d": 6.8,
+  "gt7d": 1.6,
+  "h": 22,
+  "sport": "Water polo"
+ },
+ {
+  "y_top": 212,
+  "y_bot": 234,
+  "y_center": 223.0,
+  "all": 18.6,
+  "ge1d": 5.5,
+  "gt7d": 3.1,
+  "h": 23,
+  "sport": "Rugby"
+ },
+ {
+  "y_top": 247,
+  "y_bot": 268,
+  "y_center": 257.5,
+  "all": 14.9,
+  "ge1d": 7.7,
+  "gt7d": 2.4,
+  "h": 22,
+  "sport": "Football"
+ },
+ {
+  "y_top": 281,
+  "y_bot": 302,
+  "y_center": 291.5,
+  "all": 14.6,
+  "ge1d": 6.0,
+  "gt7d": 2.6,
+  "h": 22,
+  "sport": "Handball"
+ },
+ {
+  "y_top": 315,
+  "y_bot": 337,
+  "y_center": 326.0,
+  "all": 13.4,
+  "ge1d": 7.2,
+  "gt7d": 4.0,
+  "h": 23,
+  "sport": "Gymnastics - Artistic"
+ },
+ {
+  "y_top": 349,
+  "y_bot": 371,
+  "y_center": 360.0,
+  "all": 13.3,
+  "ge1d": 8.6,
+  "gt7d": 4.6,
+  "h": 23,
+  "sport": "Weightlifting"
+ },
+ {
+  "y_top": 384,
+  "y_bot": 405,
+  "y_center": 394.5,
+  "all": 12.6,
+  "ge1d": 6.9,
+  "gt7d": 5.4,
+  "h": 22,
+  "sport": "Wrestling"
+ },
+ {
+  "y_top": 418,
+  "y_bot": 439,
+  "y_center": 428.5,
+  "all": 12.2,
+  "ge1d": 3.9,
+  "gt7d": 1.2,
+  "h": 22,
+  "sport": "Hockey"
+ },
+ {
+  "y_top": 452,
+  "y_bot": 474,
+  "y_center": 463.0,
+  "all": 11.3,
+  "ge1d": 5.0,
+  "gt7d": 3.1,
+  "h": 23,
+  "sport": "Judo"
+ },
+ {
+  "y_top": 486,
+  "y_bot": 508,
+  "y_center": 497.0,
+  "all": 11.0,
+  "ge1d": 5.6,
+  "gt7d": 4.5,
+  "h": 23,
+  "sport": ""
+ },
+ {
+  "y_top": 521,
+  "y_bot": 542,
+  "y_center": 531.5,
+  "all": 10.6,
+  "ge1d": 5.1,
+  "gt7d": 3.5,
+  "h": 22,
+  "sport": ""
+ },
+ {
+  "y_top": 555,
+  "y_bot": 576,
+  "y_center": 565.5,
+  "all": 10.5,
+  "ge1d": 4.4,
+  "gt7d": 2.3,
+  "h": 22,
+  "sport": ""
+ },
+ {
+  "y_top": 589,
+  "y_bot": 611,
+  "y_center": 600.0,
+  "all": 8.9,
+  "ge1d": 0.0,
+  "gt7d": 0.0,
+  "h": 23,
+  "sport": ""
+ },
+ {
+  "y_top": 623,
+  "y_bot": 645,
+  "y_center": 634.0,
+  "all": 8.7,
+  "ge1d": 1.7,
+  "gt7d": 1.2,
+  "h": 23,
+  "sport": ""
+ },
+ {
+  "y_top": 658,
+  "y_bot": 679,
+  "y_center": 668.5,
+  "all": 8.3,
+  "ge1d": 2.5,
+  "gt7d": 1.0,
+  "h": 22,
+  "sport": ""
+ },
+ {
+  "y_top": 692,
+  "y_bot": 713,
+  "y_center": 702.5,
+  "all": 7.7,
+  "ge1d": 2.9,
+  "gt7d": 1.4,
+  "h": 22,
+  "sport": "Basketball"
+ },
+ {
+  "y_top": 726,
+  "y_bot": 748,
+  "y_center": 737.0,
+  "all": 7.3,
+  "ge1d": 2.8,
+  "gt7d": 1.7,
+  "h": 23,
+  "sport": "Volleyball"
+ },
+ {
+  "y_top": 760,
+  "y_bot": 782,
+  "y_center": 771.0,
+  "all": 7.3,
+  "ge1d": 3.1,
+  "gt7d": 2.1,
+  "h": 23,
+  "sport": "Beach volleyball"
+ },
+ {
+  "y_top": 795,
+  "y_bot": 816,
+  "y_center": 805.5,
+  "all": 6.3,
+  "ge1d": 2.2,
+  "gt7d": 0.0,
+  "h": 22,
+  "sport": "Gymnastics - Rhythmic"
+ },
+ {
+  "y_top": 829,
+  "y_bot": 850,
+  "y_center": 839.5,
+  "all": 5.8,
+  "ge1d": 4.0,
+  "gt7d": 1.9,
+  "h": 22,
+  "sport": "Synchronised swimming"
+ },
+ {
+  "y_top": 863,
+  "y_bot": 885,
+  "y_center": 874.0,
+  "all": 5.6,
+  "ge1d": 2.9,
+  "gt7d": 0.9,
+  "h": 23,
+  "sport": "Cycling - Road"
+ },
+ {
+  "y_top": 898,
+  "y_bot": 919,
+  "y_center": 908.5,
+  "all": 5.5,
+  "ge1d": 0.5,
+  "gt7d": 0.5,
+  "h": 22,
+  "sport": "Sailing"
+ },
+ {
+  "y_top": 932,
+  "y_bot": 953,
+  "y_center": 942.5,
+  "all": 5.3,
+  "ge1d": 2.2,
+  "gt7d": 0.5,
+  "h": 22,
+  "sport": "Cycling - Track"
+ },
+ {
+  "y_top": 966,
+  "y_bot": 987,
+  "y_center": 976.5,
+  "all": 4.4,
+  "ge1d": 1.5,
+  "gt7d": 0.5,
+  "h": 22,
+  "sport": "Equestrian"
+ },
+ {
+  "y_top": 1001,
+  "y_bot": 1022,
+  "y_center": 1011.5,
+  "all": 4.2,
+  "ge1d": 1.6,
+  "gt7d": 0.0,
+  "h": 22,
+  "sport": "Modern pentathlon"
+ },
+ {
+  "y_top": 1035,
+  "y_bot": 1056,
+  "y_center": 1045.5,
+  "all": 3.6,
+  "ge1d": 0.8,
+  "gt7d": 0.0,
+  "h": 22,
+  "sport": "Canoe - Sprint"
+ },
+ {
+  "y_top": 1069,
+  "y_bot": 1091,
+  "y_center": 1080.0,
+  "all": 3.1,
+  "ge1d": 0.0,
+  "gt7d": 0.0,
+  "h": 23,
+  "sport": "Gymnastics - Trampoline WIIIII"
+ },
+ {
+  "y_top": 1103,
+  "y_bot": 1125,
+  "y_center": 1114.0,
+  "all": 2.9,
+  "ge1d": 1.2,
+  "gt7d": 0.0,
+  "h": 23,
+  "sport": "Table tennis"
+ },
+ {
+  "y_top": 1138,
+  "y_bot": 1159,
+  "y_center": 1148.5,
+  "all": 2.5,
+  "ge1d": 0.6,
+  "gt7d": 0.0,
+  "h": 22,
+  "sport": "Swimming -WI"
+ },
+ {
+  "y_top": 1172,
+  "y_bot": 1193,
+  "y_center": 1182.5,
+  "all": 2.5,
+  "ge1d": 0.8,
+  "gt7d": 0.0,
+  "h": 22,
+  "sport": "VITAA"
+ },
+ {
+  "y_top": 1206,
+  "y_bot": 1228,
+  "y_center": 1217.0,
+  "all": 2.3,
+  "ge1d": 0.0,
+  "gt7d": 0.0,
+  "h": 23,
+  "sport": "Open-water marathon -WIII"
+ },
+ {
+  "y_top": 1240,
+  "y_bot": 1262,
+  "y_center": 1251.0,
+  "all": 2.3,
+  "ge1d": 0.0,
+  "gt7d": 0.0,
+  "h": 23,
+  "sport": "Archery TIIIT"
+ },
+ {
+  "y_top": 1275,
+  "y_bot": 1296,
+  "y_center": 1285.5,
+  "all": 2.1,
+  "ge1d": 0.6,
+  "gt7d": 0.5,
+  "h": 22,
+  "sport": "Shooting VIlh"
+ },
+ {
+  "y_top": 1309,
+  "y_bot": 1330,
+  "y_center": 1319.5,
+  "all": 1.6,
+  "ge1d": 0.4,
+  "gt7d": 0.0,
+  "h": 22,
+  "sport": "Rowing"
+ }
+]

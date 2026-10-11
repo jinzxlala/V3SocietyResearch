@@ -1,0 +1,56 @@
+﻿检查ID,类别,对象,预期,实际,结果,说明
+RUN-01,运行元数据,data/raw 下的 4 个导出包,每个包都能解析出 manifest 与 run_id,"解析出 2 个 run: ['FH_02', 'SL_01']",PASS,"扫描到: ['FH_02', 'SL_02', 'V3_raw_export_20260920_151142', 'V3_raw_export_20260920_163945']"
+RUN-02,运行元数据,各 run 的 tool_version,全部为 vic3-student-raw-export-1.2.0,vic3-student-raw-export-1.2.0,PASS,工具版本不一致会导致字段含义变化，不可直接合并
+RUN-03,运行元数据,各 run 的 data_contract,全部为 raw_only,raw_only,PASS,raw_only 表示工具只导出原始记录，未代算研究变量
+RUN-04,运行元数据,各 run 的 failed_files,全部为 0,"{""FH_02"": 0, ""SL_01"": 0}",PASS,出现失败文件则该 run 的记录不完整
+RUN-05,运行元数据,每份存档的 definition_version_match,全部为 True,不匹配 0 份,PASS,存档游戏版本与本机 game/common 一致
+RUN-06,运行元数据,各 run 的定义指纹,全部相同,1 个不同指纹: ['724D5AAE1108…'],PASS,指纹不同说明用了不同版本的游戏规则，跨 run 解释存档会失真
+RUN-07,运行元数据,run 是否登记在 config/runs.toml,"['FH_02', 'SL_01'] 全部登记","已登记 ['FH_02', 'SL_01']",PASS,未登记的 run 拿不到 speed/protection 标签
+RUN-08,运行元数据,各 run 的 speed_assignment,全部非空,"{""FH_02"": """", ""SL_01"": """"}",FAIL,无法从数据推断，必须人工填写；留空会让该列在 interim 里全为空字符串
+RUN-09,运行元数据,各 run 的 protection_assignment,全部非空,"{""FH_02"": ""high"", ""SL_01"": ""none""}",PASS,社会保护分组标签
+RUN-10,运行元数据,protection_assignment 与 institutions/laws 是否自洽,配置值与数据反查结果一致,"全部自洽: {""FH_02"": ""high"", ""SL_01"": ""none""}",PASS,从 law_no_social_security / institution_social_security 等字段反查
+RUN-11,运行元数据,replicate 与文件名编号是否一致,"{""FH_02"": 2, ""SL_01"": 1}","{""FH_02"": 2, ""SL_01"": 1}",PASS,取自存档文件名里的 _NN_ 片段
+RUN-12,运行元数据,每个 run 对应的导出包数,每个 run 恰好 1 个包,"{""FH_02"": [""FH_02"", ""V3_raw_export_20260920_163945""], ""SL_01"": [""SL_02"", ""V3_raw_export_20260920_151142""]}",FAIL,重复包不影响合并结果（已按 run_id 去重），但会浪费磁盘并让来源难以辨认
+TBL-01,表级,13 张规范表是否齐备,13 张全部存在,存在 13 张,PASS,缺失的表说明合并不完整
+TBL-02.01,表级,country_scalar_fields_raw.csv,interim 行数 = Σ 各 run 行数,"interim={'FH_02': 188, 'SL_01': 299} 预期={'FH_02': 188, 'SL_01': 299}",PASS,合计 487 行
+TBL-02.02,表级,country_trend_values_raw.csv,interim 行数 = Σ 各 run 行数,"interim={'FH_02': 2340, 'SL_01': 5625} 预期={'FH_02': 2340, 'SL_01': 5625}",PASS,合计 7965 行
+TBL-02.03,表级,budget_slots_raw.csv,interim 行数 = Σ 各 run 行数,"interim={'FH_02': 190, 'SL_01': 304} 预期={'FH_02': 190, 'SL_01': 304}",PASS,合计 494 行
+TBL-02.04,表级,pop_records_raw.csv,interim 行数 = Σ 各 run 行数,"interim={'FH_02': 1250, 'SL_01': 2128} 预期={'FH_02': 1250, 'SL_01': 2128}",PASS,合计 3378 行
+TBL-02.05,表级,building_records_raw.csv,interim 行数 = Σ 各 run 行数,"interim={'FH_02': 313, 'SL_01': 496} 预期={'FH_02': 313, 'SL_01': 496}",PASS,合计 809 行
+TBL-02.06,表级,state_records_raw.csv,interim 行数 = Σ 各 run 行数,"interim={'FH_02': 15, 'SL_01': 24} 预期={'FH_02': 15, 'SL_01': 24}",PASS,合计 39 行
+TBL-02.07,表级,state_pop_statistics_raw.csv,interim 行数 = Σ 各 run 行数,"interim={'FH_02': 255, 'SL_01': 411} 预期={'FH_02': 255, 'SL_01': 411}",PASS,合计 666 行
+TBL-02.08,表级,institutions_raw.csv,interim 行数 = Σ 各 run 行数,"interim={'FH_02': 15, 'SL_01': 8} 预期={'FH_02': 15, 'SL_01': 8}",PASS,合计 23 行
+TBL-02.09,表级,laws_raw.csv,interim 行数 = Σ 各 run 行数,"interim={'FH_02': 655, 'SL_01': 1048} 预期={'FH_02': 655, 'SL_01': 1048}",PASS,合计 1703 行
+TBL-02.10,表级,construction_queue_raw.csv,interim 行数 = Σ 各 run 行数,"interim={'FH_02': 279, 'SL_01': 206} 预期={'FH_02': 279, 'SL_01': 206}",PASS,合计 485 行
+TBL-02.11,表级,save_metadata_raw.csv,interim 行数 = Σ 各 run 行数,"interim={'FH_02': 5, 'SL_01': 8} 预期={'FH_02': 5, 'SL_01': 8}",PASS,合计 13 行
+TBL-02.12,表级,game_definition_files_raw.csv,interim 行数 = Σ 各 run 行数,"interim={'FH_02': 153, 'SL_01': 153} 预期={'FH_02': 153, 'SL_01': 153}",PASS,合计 306 行
+TBL-02.13,表级,game_definition_keys_raw.csv,interim 行数 = Σ 各 run 行数,"interim={'FH_02': 7399, 'SL_01': 7399} 预期={'FH_02': 7399, 'SL_01': 7399}",PASS,合计 14798 行
+TBL-03,表级,13 张表的前 5 列,"依次为 ['run_id', 'speed_assignment', 'protection_assignment', 'replicate', 'definition_fingerprint']",全部正确,PASS,溯源列必须固定在最前面，便于按 run 筛选
+TBL-04,表级,是否有空表,每张表行数 > 0,"{""budget_slots_raw.csv"": 494, ""building_records_raw.csv"": 809, ""construction_queue_raw.csv"": 485, ""country_scalar_fields_raw.csv"": 487, ""country_trend_values_raw.csv"": 7965, ""game_definition_files_raw.csv"": 306, ""game_definition_keys_raw.csv"": 14798, ""institutions_raw.csv"": 23, ""laws_raw.csv"": 1703, ""pop_records_raw.csv"": 3378, ""save_metadata_raw.csv"": 13, ""state_pop_statistics_raw.csv"": 666, ""state_records_raw.csv"": 39}",PASS,空表说明该 run 未产出对应记录
+PRV-01,溯源列,列 run_id,无空值,无空值,PASS,每行必须能追溯到 run
+PRV-02,溯源列,列 definition_fingerprint,无空值,无空值,PASS,定义指纹用于规则版本溯源
+PRV-03,溯源列,列 replicate,无空值,无空值,PASS,重复号
+PRV-04,溯源列,列 protection_assignment,无空值,无空值,PASS,社会保护分组标签
+PRV-05,溯源列,列 speed_assignment,无空值,"空值分布: {""budget_slots_raw.csv"": 494, ""building_records_raw.csv"": 809, ""construction_queue_raw.csv"": 485, ""country_scalar_fields_raw.csv"": 487, ""country_trend_values_raw.csv"": 7965, ""game_definition_files_raw.csv"": 306, ""game_definition_keys_raw.csv"": 14798, ""institutions_raw.csv"": 23, ""laws_raw.csv"": 1703, ""pop_records_raw.csv"": 3378, ""save_metadata_raw.csv"": 13, ""state_pop_statistics_raw.csv"": 666, ""state_records_raw.csv"": 39}",FAIL,工业化速度分组标签
+PRV-06,溯源列,definition_fingerprint 是否等于 manifest 记录值,逐行一致,全部一致,PASS,确保标签没有错位贴到别的 run 上
+PRV-07,溯源列,replicate 是否与 source_file 里的编号一致,逐行一致,全部一致,PASS,防止 run 标签串行
+CNT-01,内容一致性,各表 source_file 集合是否等于 manifest 存档集合,逐表逐 run 一致,全部一致,PASS,防止漏表或混入别的 run 的存档
+CNT-02,内容一致性,interim 的 game_date 与 manifest 记录,逐行一致,全部一致,PASS,日期是面板数据的时间轴，错位会毁掉整个分析
+CNT-03,内容一致性,"save_metadata 的 (run_id, source_file) 唯一性",无重复,无重复,PASS,每份存档在每个 run 里只能有一行身份记录
+CNT-04,内容一致性,两张全局表不含 source_file 列,不含（它们是与单份存档无关的规则快照）,符合,PASS,全局表按 run 复制，跨 run 内容应完全相同
+DAT-01,日期,所有 game_date 是否可解析,全部可解析为 年.月.日,0 份无法解析,PASS,格式统一为 YYYY.M.D[.tick]
+DAT-02,日期,文件名日期与存档内 game_date 是否相符,逐份相符,1 份不符,FAIL,比利时_1836_12_31_SL_01_Serena.v3: 文件名 1836-12-31 vs 存档内 1837-01-01
+DAT-03,日期,每个 run 内年度是否连续,无缺口,FH_02: 1836-1840; SL_01: 1837-1843,PASS,年度缺口会让面板出现断点
+DAT-04,日期,每个 run 内按文件名排序后日期是否递增,严格递增,全部递增,PASS,顺序异常通常意味着文件命名与内容错位
+DAT-05,日期,两个 run 的观察点是否覆盖同一时间轴,起止年份一致,FH_02: 1836-1840; SL_01: 1837-1843（长度不同）,SKIP,FH_02 有 5 个点、SL_01 有 8 个点，做组间对比时需截齐或说明
+FLD-01,字段,关键原始字段是否齐全,各表关键列全部存在,齐全,PASS,关键列缺失会让后续 join 与变量构造无法进行
+FLD-02,字段,关键列是否整列为空,无整列为空的关键列,无,PASS,整列为空通常是导出或合并出错，而非存档本身缺值
+FLD-03,字段,pop.workplace_building_id 的负值,仅出现 -1（哨兵值 = 无工作场所）,"{""-1"": 830}",PASS,-1 不是建筑 ID，做 join 前必须先剔除，否则会误连
+FLD-04,字段,building_records 建筑类型多样性,含非工业篮子建筑（证明未按篮子过滤）,34 种建筑类型，其中非篮子类 8 种,PASS,"样例: building_barrack, building_livestock_ranch, building_manor_house, building_port, building_subsistence_farm, building_trade_center"
+FLD-05,字段,construction_queue 是否区分政府/私人队列,queue_kind 同时含 government 与 private,"{""government"": 463, ""private"": 22}",PASS,私人队列默认不产出，出现说明记录了非政府投资
+FLD-06,字段,每份存档的生效法律数,各存档一致（说明法律库完整导出）,"{""24"": 13}",PASS,不一致可能是存档推进程度不同，也可能是导出缺漏，需人工确认
+FLD-07,字段,是否有整列被填成 0,无（空值不得改写为 0）,无,PASS,整列 0 是人为填充的典型特征
+REF-01,引用完整性,pop.workplace_building_id → building.building_id（同 run 同日期）,除 -1 外全部能对上,检查 2548 条，悬空 0 条,PASS,悬空说明建筑表漏导或 ID 解读有误；能对上才可做就业 join
+GOV-01,边界,是否出现篮子或派生研究变量列,原始层不得出现 basket_* / radicals_share / growth_rate 等,未出现,PASS,出现即越过 raw_only 契约，会被验收判为不合格
+GOV-02,边界,国家标签是否为比利时,全部为 BEL,"[""BEL""]",PASS,导出默认 --tag BEL，混入别国说明调用参数有误
+GOV-03,边界,合并阶段的 ERROR 级异常,0 条,0 条,PASS,来自 build_interim.py 的 _anomalies.csv

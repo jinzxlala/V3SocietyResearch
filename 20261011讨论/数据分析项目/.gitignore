@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.v3
+
+# 完整原始目录及处理明细默认不推送；老师确认分享范围后再调整。
+/data_raw/
+/data/processed/

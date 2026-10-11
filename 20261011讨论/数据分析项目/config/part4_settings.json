@@ -1,0 +1,13 @@
+{
+  "method_version": "2026-10-11-v1",
+  "analysis_runs": ["FL_01", "SL_01"],
+  "standardization_reference_runs": ["FL_01", "SL_01"],
+  "industrial_window": ["1836-01-01", "1860-01-01"],
+  "baseline_date": "1836-01-01",
+  "y_window": ["1837-01-01", "1860-01-01"],
+  "weights": {"building_growth": 0.5, "employment_share_change": 0.5},
+  "standard_deviation_ddof": 1,
+  "reference_includes_baseline": true,
+  "extra_snapshots_in_mean": false,
+  "scope": "national_actual"
+}

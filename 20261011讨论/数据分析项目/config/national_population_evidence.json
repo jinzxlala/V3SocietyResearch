@@ -1,0 +1,34 @@
+{
+  "verification_date": "2026-10-11",
+  "game_version": "1.13.10",
+  "evidence_status": "同版本本地游戏文档与定义已核对；CSV逐存档一致性仍由程序重检",
+  "classification_rule": "每个pop归入唯一social class；每个class属于lower/middle/upper之一",
+  "social_class_to_strata": {
+    "upper_class": "upper",
+    "middle_class": "middle",
+    "lower_class": "lower"
+  },
+  "sources": [
+    {
+      "relative_reference": "game/common/social_classes/readme.md",
+      "sha256": "f861a9f7953b59e6daafad72da526ace79243e47a47785c8d179ff4c56456458"
+    },
+    {
+      "relative_reference": "game/common/social_classes/00_default.txt",
+      "sha256": "cef1b21c99752d04523139dba1a3519804fff690b204c42c98e5be85e347e8d8"
+    },
+    {
+      "relative_reference": "game/common/social_hierarchies/00_social_hierarchies.txt",
+      "sha256": "792c51c15d7239a39879d285fff07ddb7df9d1b0ceb06f05e503b47551780808"
+    }
+  ],
+  "exporter_reference": "student_export.py:scalar_rows and export_save country.pop_statistics",
+  "exporter_sha256": "70187f7778e58fc867423d1a7865fad79fc93dfbade22c4dea266e3144d6f9bd",
+  "exporter_rule": "直接展开指定国家country.pop_statistics标量，无加权、无跨国家拼接",
+  "limits": [
+    "社会分类结构与国家/州统计一致性验证，不证明缓存更新时点等同于人口实体快照。",
+    "国家统计与逐人口汇总差异原因尚未验证。",
+    "革命后操控对象身份连续性未由本次核验解决。",
+    "无游戏安装路径依赖；此证据只适用于1.13.10及本批已观察到的三类。"
+  ]
+}

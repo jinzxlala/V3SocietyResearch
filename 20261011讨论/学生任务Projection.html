@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Victoria 3｜数据分析讨论 · 2026.10.11</title><style>
+:root{--bg:#071722;--panel:#102b3b;--line:#294858;--ink:#eef6f9;--muted:#aac1ce;--cyan:#5ce0ce;--orange:#ffb16b}
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#040f17;color:var(--ink);font-family:"Microsoft YaHei","PingFang SC",system-ui,sans-serif}button,summary,a{font:inherit}button{cursor:pointer}button:focus-visible,a:focus-visible,summary:focus-visible{outline:3px solid var(--orange);outline-offset:4px}
+#stage{width:1600px;height:900px;position:absolute;left:50%;top:50%;transform-origin:center;background:radial-gradient(ellipse at 95% 5%,#16394c 0,transparent 48%),var(--bg)}
+#stages{position:absolute;z-index:3;top:22px;left:48px;right:48px;display:grid;grid-template-columns:repeat(7,1fr);gap:8px}
+#stages button{background:#112938;color:var(--muted);border:1px solid var(--line);padding:12px 6px;border-radius:9px;font-size:19px}
+#stages button.active{background:var(--cyan);color:#08222a;font-weight:700}
+.slide{display:none;position:absolute;inset:99px 72px 89px}.slide.active{display:flex;flex-direction:column}
+.eyebrow{font-size:19px;letter-spacing:.07em;color:var(--cyan);margin:0 0 14px}
+h1{font-size:49px;letter-spacing:-.025em;line-height:1.18;margin:0 0 25px;font-weight:750}
+h3{font-size:29px;line-height:1.35;margin:0 0 13px}
+p{margin:0 0 16px;line-height:1.55}p:last-child{margin-bottom:0}
+.body{flex:1;min-height:0;font-size:25px;overflow-y:auto;scrollbar-color:var(--line) transparent;padding-right:8px}
+.lead{font-size:32px;max-width:1280px;color:var(--muted);margin-bottom:30px}.smaller{font-size:28px;margin-top:24px;margin-bottom:20px}
+.cards{display:grid;gap:24px;margin:22px 0}.cards.three{grid-template-columns:repeat(3,1fr)}.cards.two{grid-template-columns:repeat(2,1fr)}
+article{background:var(--panel);border:1px solid var(--line);border-top:4px solid var(--cyan);border-radius:16px;padding:27px 30px}
+article:nth-child(2){border-top-color:var(--orange)}article:nth-child(3){border-top-color:#b5a3ef}article p{font-size:25px;color:var(--muted)}
+.num{display:block;color:var(--cyan);font-size:43px;margin-bottom:18px}.muted{color:var(--muted)}.note{font-size:23px;color:var(--muted);margin-top:22px}
+.questions{display:grid;gap:20px;margin:10px 0 26px}.questions p{font-size:31px;margin:0;border-left:4px solid var(--cyan);padding:12px 24px;background:#102b3b88}
+.rows{display:grid;gap:14px}.rows>div{display:grid;grid-template-columns:240px 1fr;gap:26px;padding:21px 24px;border:1px solid var(--line);background:#102b3b;border-radius:12px}
+.rows b{color:var(--cyan);font-size:26px}.rows p{font-size:25px}
+details{background:#102b3b;border:1px solid var(--line);border-radius:10px;padding:16px 24px;margin:14px 0}
+summary{cursor:pointer;color:var(--orange);font-size:25px}details p{margin-top:15px;font-size:24px;color:var(--muted)}
+.callout{padding:23px 27px;background:#143b43;border-left:5px solid var(--cyan);font-size:28px;margin:24px 0}
+.flow{display:flex;align-items:center;gap:22px;margin:28px 0}.flow>div{flex:1;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:26px;text-align:center;font-size:28px}.flow span{font-size:38px;color:var(--cyan)}small{display:block;color:var(--muted);font-size:21px;margin-top:9px}
+.deliver{font-size:21px;color:var(--orange);border-top:1px solid var(--line);padding-top:17px;margin-top:20px;line-height:1.45}
+footer{position:absolute;bottom:22px;left:48px;right:48px;display:flex;align-items:center;gap:12px;height:46px;color:var(--muted);font-size:18px}
+footer button{color:var(--ink);background:#163040;border:1px solid var(--line);border-radius:8px;padding:8px 13px;font-size:18px}
+footer button:disabled{opacity:.35;cursor:default}.spacer{flex:1}#counter{font-variant-numeric:tabular-nums}#timer{color:var(--cyan);font-family:Consolas,monospace;font-size:24px;min-width:76px}#timer.over{color:var(--orange)}#progress{position:absolute;bottom:0;left:0;height:4px;background:var(--cyan);transition:width .12s}
+#overview{position:absolute;inset:88px 48px 85px;background:#0a2030fa;border:1px solid var(--line);border-radius:16px;padding:24px;z-index:6;overflow:auto;box-shadow:0 20px 70px #0009}
+#overview[hidden]{display:none}#overview h2{font-size:30px;margin:0 0 22px}#overviewGrid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+#overviewGrid button{background:#143044;color:var(--ink);border:1px solid var(--line);padding:17px;text-align:left;border-radius:9px;font-size:21px;line-height:1.4}#overviewGrid button small{font-size:16px}#closeOverview{float:right;background:none;border:1px solid var(--line);color:var(--ink);border-radius:8px;padding:5px 15px;font-size:22px}
+@media print{html,body{height:auto;overflow:visible;background:white;color:black}#stage{position:static;transform:none!important;width:auto;height:auto;background:white}#stages,footer,#progress,#overview{display:none!important}.slide{display:flex;position:static;min-height:95vh;break-after:page;padding:20px}.body{overflow:visible}.eyebrow,.rows b,.deliver{color:#126d67}article,.rows>div,.questions p,.callout,details,.flow>div{background:#f4f7f8;color:black;border-color:#aab7c0}p,article p,.note,.lead,.muted,details p,small{color:#263f4d}details{display:block}}
+
+.task-intro{font-size:26px;line-height:1.5;color:var(--muted);margin-bottom:18px}
+.task-steps{padding-left:36px;margin:15px 0 20px;display:grid;gap:16px}
+.task-steps li{padding-left:10px;font-size:25px;line-height:1.55;overflow-wrap:anywhere}
+.task-steps li::marker{color:var(--cyan);font-weight:700}
+.task-example{padding:16px 22px;border-left:4px solid var(--orange);background:#17313d;font-size:23px;line-height:1.5;color:#dae8ee;margin:18px 0}
+.task-table{width:100%;border-collapse:collapse;table-layout:fixed;font-size:23px;line-height:1.45;margin:12px 0 18px}
+.task-table th,.task-table td{padding:12px 16px;border:1px solid var(--line);text-align:left;vertical-align:top;overflow-wrap:anywhere}
+.task-table th{color:var(--cyan);background:#13313f}.task-table td{background:#102b3b66}
+.task-table th:first-child,.task-table td:first-child{width:22%}
+.slide[aria-label="合成分析表：一行是一个 run 的一个日期"] .task-table th,.slide[aria-label="合成分析表：一行是一个 run 的一个日期"] .task-table td{padding-top:7px;padding-bottom:7px}
+.slide[aria-label="合成分析表：一行是一个 run 的一个日期"] .task-intro{margin-bottom:10px}
+.task-body details{margin:12px 0}.task-body details p{overflow-wrap:anywhere}
+@media print{.task-table td,.task-table th,.task-example{color:#263f4d;background:#f4f7f8}}
+</style></head>
+<body><main id="stage"><nav id="stages" aria-label="讨论阶段"></nav>
+<section class="slide active" data-part="0" aria-label="今天把 FL、SL 做成第一版分析">
+<p class="eyebrow">开始前 · 准备好再计时</p><h1>今天把 FL、SL 做成第一版分析</h1><div class="body task-body">
+<p class="task-intro">你们拿到的是存档拆出的原始表，还不是可以直接画研究结果的表。今天先把它们整理成“一个 run、一个日期一行”，再比较变化。</p>
+
+<ol class="task-steps"><li>打开「数据分析项目 / 01_研究分析.ipynb」。所有讨论与结果留在对应 Part，不另建一份记录文档。</li><li>先读「当前研究进展背景.md」；打开两组数据目录，检查内核能读 CSV。环境安装和预读不占课堂的 120 分钟。</li><li>顶部 7 个按钮对应 Notebook 的 7 个 Part。同一 Part 的几页是操作说明，共用一段时间；不用逐页汇报。</li></ol>
+
+
+
+</div><div class="deliver">完成后检查 → 准备好 Notebook 和原始目录。今天交：分析表、比较图、run 汇总、一次复核，以及能从头运行的代码。</div></section>
+<section class="slide" data-part="0" aria-label="先说说：我们原来想研究什么？" hidden>
+<p class="eyebrow">PART 1 · 0–10 分钟</p><h1>先说说：我们原来想研究什么？</h1><div class="body task-body">
+<p class="task-intro">先由一人说研究问题，另一人补充假设。暂时不要让 AI 替你们回答。</p>
+
+<ol class="task-steps"><li>为什么要把工业建设分成快、慢两种安排？你们原来预期政治不稳定会怎样变化？</li><li>为什么还要分高、低社会保护？如果保护真的起到缓冲作用，四组之间应当出现什么差别？</li><li>现在只有 FL、SL 两组数据。今天可以先检查哪一部分，哪一部分还缺数据？</li></ol>
+
+
+<details><summary>两人说完后，再展开核对</summary><p>研究主线：快工业化是否伴随更高的模型内政治不稳定，社会保护是否减弱这种差异？当前只能先比较低保护下的 FL 与 SL，不能回答高保护是否缓冲。</p></details>
+</div><div class="deliver">完成后检查 → Notebook Part 1：用两三句话写出研究问题、原先预期和本次暂不能回答的部分。</div></section>
+<section class="slide" data-part="0" aria-label="F、S 是操作安排；实际快慢还要看数据" hidden>
+<p class="eyebrow">PART 1 · 对齐名称</p><h1>F、S 是操作安排；实际快慢还要看数据</h1><div class="body task-body">
+<p class="task-intro">一个 run 指从起点按一套条件运行的一次实验。FL_01 与 SL_01 是两次运行，不是两张普通样本表。</p>
+
+<ol class="task-steps"><li>F：工业项目建成后不人为等待。S：项目实际建成后等 182 个游戏日再开始下一个。L 表示低社会保护；H 表示高社会保护。</li><li>X_actual 是运行后算出的实际工业化变化。它用来检查预设的快慢安排是否真的拉开了差异；即使 F 没有更快，也不改条件标签。</li><li>Y 是拟用的激进派占比，代表政治不稳定的一个方面；W 是法律与机构的实际保护状态。每年的一行是同一次 run 的记录，不是一次新实验。</li></ol>
+
+
+
+</div><div class="deliver">完成后检查 → Part 1：确认本次只有 FL、SL 各一次；输出中保留预设条件，不按结果重新分组。</div></section>
+<section class="slide" data-part="0" aria-label="“确定口径”，就是把这几件事说清楚" hidden>
+<p class="eyebrow">PART 1 · 两人共同决定</p><h1>“确定口径”，就是把这几件事说清楚</h1><div class="body task-body">
+<p class="task-intro">口径指同一个数字究竟算了什么。先写讨论稿，Part 2 看字段后补齐；双方确认某个指标后，再让 AI 计算它。</p>
+
+<ol class="task-steps"><li>观察窗口：现有共同年度点为 1836-01-01 至 1860-01-01，25 点、24 年跨度。确认是否采用该窗口；均值是否包含基线？FL 额外事件点另存。</li><li>工业化：沿用已定 12 类篮子，查「工业篮子建筑键对照.md」。选主指标与一个替代指标，并说明全国范围还是共同州范围。</li><li>政治结果：先核对人数来源与人口分母。还缺客观证据时写“待核验”，不能靠投票决定字段真假。</li></ol>
+<div class="task-example">口径记录示例（格式示例，不是已选答案）：指标｜来源字段｜国家/州范围｜公式与时间跨度｜单位｜缺失处理｜主/替代｜双方是否确认。</div>
+
+
+</div><div class="deliver">完成后检查 → Part 1：留下简短指标清单。已定项可继续实现，未定项注明需要查什么，别让一个问题卡住全部任务。</div></section>
+<section class="slide" data-part="0" aria-label="三种工业化指标，各自回答什么？" hidden>
+<p class="eyebrow">PART 1 · 选指标时对照</p><h1>三种工业化指标，各自回答什么？</h1><div class="body task-body">
+<p class="task-intro">下面是候选公式，用于讨论，不是替你们选主指标。计算时同时保留建筑等级、工业就业与总就业这些基础量。</p>
+<table class="task-table"><thead><tr><th>候选</th><th>怎么算</th><th>要注意什么</th></tr></thead><tbody><tr><td>建筑净扩张速度</td><td>（期末等级总和 − 基期等级总和）÷ 间隔年数</td><td>等级是存量；减少可能来自拆除或领土变化，不是累计建造量。</td></tr><tr><td>工业就业占比变化</td><td>期末工业就业/总就业 − 基期同一比例</td><td>用百分点表示时乘 100；总就业减少也可能使占比升高。</td></tr><tr><td>工业就业增长率</td><td>（期末工业就业 − 基期工业就业）÷ 基期工业就业</td><td>基期为 0 时不能直接除；先定处理规则。</td></tr></tbody></table>
+
+<div class="task-example">虚构例子：两年内等级从 10 到 16，平均净增 3 级/年；就业占比从 20% 到 30%，增加 10 个百分点，不是增加 10%。</div>
+
+
+</div><div class="deliver">完成后检查 → Part 1：写下主指标与至少一个替代指标的理由；明确基期/相邻期、就业分母及单位。</div></section>
+<section class="slide" data-part="0" aria-label="两人分工，但每个人都处理两组数据" hidden>
+<p class="eyebrow">PART 1 · 开始写代码前</p><h1>两人分工，但每个人都处理两组数据</h1><div class="body task-body">
+
+<table class="task-table"><thead><tr><th>工作线</th><th>负责什么</th><th>第 35 分钟交给对方什么</th></tr></thead><tbody><tr><td>A：工业化与保护</td><td>建筑范围、等级、就业及分母；法律、机构状态</td><td>每个 run、日期一行的工业化/保护中间表与代码</td></tr><tr><td>B：人口、政治结果与事件</td><td>日期清单、人口、政治人数核验、州范围和事件标记</td><td>同样按 run、日期整理的中间表，另附具体冲突</td></tr></tbody></table>
+<ol class="task-steps"><li>自行决定谁负责 A、谁负责 B，记在 Part 1。不要一人只处理 FL、另一人只处理 SL。</li><li>可分别写 scripts/industry.py、scripts/politics.py，再由 Notebook 调用。两人不要同时改同一份 Notebook。</li></ol>
+
+<details><summary>需要 AI 帮忙时，可以这样说明任务</summary><p>先读 AGENTS.md、背景与 Part 1。只处理我负责的当前工作线；先读相关表头，指出未确定的定义。已确认的部分再写代码，并说明输入、输出和一个检查办法，不要替我们填写后续结论。</p></details>
+
+</div><div class="deliver">完成后检查 → Part 1：写明两人分工；两条工作线都保留 run_id、source_file、country_id、date，方便交接。</div></section>
+<section class="slide" data-part="1" aria-label="先找到文件：不用从十几张表里盲找" hidden>
+<p class="eyebrow">PART 2 · 10–35 分钟</p><h1>先找到文件：不用从十几张表里盲找</h1><div class="body task-body">
+<p class="task-intro">两组目录都是 data_raw / FL_01 或 SL_01 / raw_data。先用下面 7 张表；文件夹外层的「数据字典.md」解释字段。</p>
+<table class="task-table"><thead><tr><th>要找什么</th><th>原始文件</th><th>每行是什么</th></tr></thead><tbody><tr><td>日期、国家、源文件</td><td>save_metadata_raw.csv</td><td>一份存档</td></tr><tr><td>建筑类型与等级</td><td>building_records_raw.csv</td><td>一份存档中的一条建筑记录</td></tr><tr><td>人口与工作单位</td><td>pop_records_raw.csv</td><td>一份存档中的一个人口群体，不是一个人</td></tr><tr><td>国家统计人数</td><td>country_scalar_fields_raw.csv</td><td>一个 field_name 对应一个 raw_value</td></tr><tr><td>州范围</td><td>state_records_raw.csv</td><td>一份存档中的一个州记录</td></tr><tr><td>保护状态</td><td>laws_raw.csv / institutions_raw.csv</td><td>一条法律 / 一项机构记录</td></tr></tbody></table>
+
+
+
+
+</div><div class="deliver">完成后检查 → Part 2：让 AI 列出相关表头与少量样例，解释每行含义；原始文件保持不变。</div></section>
+<section class="slide" data-part="1" aria-label="B 先列存档清单，A 用同一份日期规则" hidden>
+<p class="eyebrow">PART 2 · 两条工作线共用的第一步</p><h1>B 先列存档清单，A 用同一份日期规则</h1><div class="body task-body">
+
+
+<ol class="task-steps"><li>读 metadata，目录名作为 run_id；保留 source_file、game_date、country_id、country_tag。内部日期用于分析，文件名日期只用来核对。</li><li>生成 date 和 record_type：年度点、基线、额外事件点分清；四段式日期保留原值，核对后只取年月日建立分析日期。</li><li>按 run 列出日期数、缺失/重复日期、文件名与内部日期不一致的记录。两组各 25 个固定日期，FL 另有事件点；不要删行凑数量。</li></ol>
+
+<details><summary>需要 AI 帮忙时，可以这样说明任务</summary><p>请建立存档清单，不计算研究指标。输出每个 run 的真实日期列表、重复/缺失检查和事件点；发现与约定不一致时展示原值，不改原始 CSV。</p></details>
+
+</div><div class="deliver">完成后检查 → Part 2：两人共用同一份日期清单；明确哪些点进入年度比较，哪些单独记录。</div></section>
+<section class="slide" data-part="1" aria-label="A：建筑规模要加 levels，不是数表格行" hidden>
+<p class="eyebrow">PART 2 · 工业化基础量</p><h1>A：建筑规模要加 levels，不是数表格行</h1><div class="body task-body">
+
+
+<ol class="task-steps"><li>从建筑表保留 source_file、country_id、building_id、state_id、state_key、building_key、levels，补上所属目录的 run_id。</li><li>用建筑键对照表标记 12 类篮子成员。先按 run、存档、州、建筑类型加总 levels，再按已确认范围汇总。别把原始其他建筑删掉。</li><li>抽一类建筑核对：原始行的 levels 相加，是否等于输出？一种建筑缺行时先查该快照是否完整，再决定是否能算 0。</li></ol>
+<div class="task-example">虚构例子：同一日期有两条纺织厂记录，levels 分别为 3、2。总等级是 5，不是“有两条记录，所以有 2 级”。</div>
+
+
+</div><div class="deliver">完成后检查 → Part 2：得到每个 run、日期的篮子等级总和，同时保留分州、分类型的核查依据。</div></section>
+<section class="slide" data-part="1" aria-label="A：就业人数需要把人口和建筑接起来" hidden>
+<p class="eyebrow">PART 2 · 工业就业与分母</p><h1>A：就业人数需要把人口和建筑接起来</h1><div class="body task-body">
+<p class="task-intro">建筑表的 staffing 不是这里直接使用的就业人数。人口表告诉你劳动力在哪个建筑工作，建筑表告诉你那是什么建筑。</p>
+
+<ol class="task-steps"><li>在人口表检查 has_workplace、workplace_building_id、workforce；将工作建筑编号接到建筑表的 building_id，得到 building_key。</li><li>连接时同时限定 run_id、source_file、country_id。同一年不同 run、不同年相同编号都不能串起来。用多对一连接检查建筑键唯一、连接后人口行数不增、工作记录无漏配。</li><li>按已确认篮子汇总匹配人口的 workforce。总就业的分母要另算并写清：是否排除无工作记录、是否包含自给农业？不要把全部劳动力直接称为总就业。</li></ol>
+
+<details><summary>需要 AI 帮忙时，可以这样说明任务</summary><p>先展示一个工作人口如何匹配到建筑类型，再批量连接。报告连接前后行数和未匹配记录；按我们确认的范围和分母输出基础量，别自行决定占比口径。</p></details>
+
+</div><div class="deliver">完成后检查 → Part 2：每个日期的篮子就业、所选总就业分母，以及连接检查结果。</div></section>
+<section class="slide" data-part="1" aria-label="B：政治结果先核对来源，再计算占比" hidden>
+<p class="eyebrow">PART 2 · 这一步已有真实冲突</p><h1>B：政治结果先核对来源，再计算占比</h1><div class="body task-body">
+
+
+<ol class="task-steps"><li>人口候选总量来自 pop 表 workforce＋dependents 的汇总。国家统计表是长表：用 source_section、field_name 找字段，再读 raw_value，不是直接找一个叫 population_radicals 的列。</li><li>比较国家 population_radicals 与逐人口 loyalists_and_radicals 的负值绝对量汇总。后者只是待核验的候选人数；不要把正负相加相互抵消。</li><li>两种来源已发现不一致；部分政治原值还超过对应人口，基线国家字段缺行。列出具体存档、原始行、两种人数及对应分母，向老师索要同日期同国家的界面/字段证据。</li></ol>
+<div class="task-example">只有人数来源、分母和范围核验后，才按共同约定计算 Y＝激进派人数÷总人口。缺字段不等于 0；不取两种来源的平均，也不把异常裁剪到人口上限。</div>
+
+
+</div><div class="deliver">完成后检查 → Part 2：输出来源对照与核验状态。没有证据就保留 Y 待核验；不把学生共识当作字段真实性证据。</div></section>
+<section class="slide" data-part="1" aria-label="A：把“低保护”标签和实际状态分开" hidden>
+<p class="eyebrow">PART 2 · 法律与机构</p><h1>A：把“低保护”标签和实际状态分开</h1><div class="body task-body">
+
+
+<ol class="task-steps"><li>在 laws 表筛选 active=yes，检查社会保障和劳动保护相关 law_key；不要把全部历史/未生效法律当作当前法律。当前两组需核对 law_no_social_security、law_no_workers_rights。</li><li>在 institutions 表查 institution_social_security、institution_workplace_safety，保留 investment 原值。没有记录时写“缺行，待核验”，不自动填等级 0。</li><li>逐日期比较法律及机构是否变化。把条件标签 L、实际法律、实际机构记录各放一列；以后 H 组也用相同方法，不拿目标等级代替实值。</li></ol>
+
+
+
+</div><div class="deliver">完成后检查 → Part 2：每个 run、日期的保护状态记录；有变化或缺行的日期可直接定位。</div></section>
+<section class="slide" data-part="1" aria-label="B：先确认每年统计的是谁、哪些州" hidden>
+<p class="eyebrow">PART 2 · 事件与研究对象</p><h1>B：先确认每年统计的是谁、哪些州</h1><div class="body task-body">
+
+
+<ol class="task-steps"><li>用州表列出每个日期的 state_key 集合。集合变化时标记“首次观察到变化”，不能说这就是事件发生日。</li><li>若发生革命或 tag 切换，核对切换前后存档日期、操控国家 ID/tag 与领土。数据一直写 BEL，只能证明筛选标签一致，不能自动证明跟随了新政府。</li><li>只录有证据的事件：日期、来源、受影响 run、身份/州范围。没有日志就写“未知”，不从曲线拐点猜出战争或革命。</li></ol>
+
+
+
+</div><div class="deliver">完成后检查 → Part 2：保留州范围及事件表。身份未确认期间仅称“导出的 BEL 轨迹”，全国指标的解释注明限制。</div></section>
+<section class="slide" data-part="2" aria-label="第 35 分钟，交换一份可以复算的结果" hidden>
+<p class="eyebrow">PART 3 · 35–50 分钟</p><h1>第 35 分钟，交换一份可以复算的结果</h1><div class="body task-body">
+
+
+<ol class="task-steps"><li>A 把工业化和保护中间表交给 B；B 把人口、政治核验和日期/事件表交给 A。先各说清一行代表什么。</li><li>两人选同一个真实日期，例如 1837-01-01，分别回到原始行复算对方的一个核心值。指出用了哪些行、如何连接、怎样得到分母。</li><li>若政治字段仍需外部证据，把具体样例交给老师，并记录补证责任人；工业化、保护与其他已验证任务继续，不为赶进度填一个政治人数。</li></ol>
+
+
+
+</div><div class="deliver">完成后检查 → Part 3：各留一句抽查结果（日期、指标、复算是否一致、发现的问题）；未核验项有状态和证据需求。</div></section>
+<section class="slide" data-part="2" aria-label="合成分析表：一行是一个 run 的一个日期" hidden>
+<p class="eyebrow">PART 3 · 这张表是后面作图的输入</p><h1>合成分析表：一行是一个 run 的一个日期</h1><div class="body task-body">
+<p class="task-intro">按双方一致的 run_id＋source_file＋country_id 对齐两条工作线，并核对 date。汇总前不要用原始实体 ID 直接拼整个年度面板。</p>
+<table class="task-table"><thead><tr><th>字段组</th><th>至少保留什么</th></tr></thead><tbody><tr><td>身份与时间</td><td>run_id、condition、date、source_file、country_id、record_type</td></tr><tr><td>工业化基础量</td><td>篮子等级、篮子就业、就业分母；派生指标的名称和单位</td></tr><tr><td>人口与政治</td><td>人口、候选/已核验政治人数、Y、来源与核验状态</td></tr><tr><td>保护与范围</td><td>两项有效法律、机构实值/缺行状态、纳入州范围、身份核验状态</td></tr></tbody></table>
+<ol class="task-steps"><li>保存 data/processed/analysis_panel.csv；年度部分验证 run_id＋date 唯一，预计两组各 25 行。事件点写到 event_records.csv，不额外塞进年度均值。</li><li>保留未核验值的状态或缺失，不删掉整年记录来掩盖问题。</li></ol>
+
+
+
+</div><div class="deliver">完成后检查 → Part 3：分析表、事件表和抽查说明。列名可以自行定，但另一人应能读懂每列。</div></section>
+<section class="slide" data-part="3" aria-label="先做 EDA，判断哪些图值得解释" hidden>
+<p class="eyebrow">PART 4 · 50–80 分钟</p><h1>先做 EDA，判断哪些图值得解释</h1><div class="body task-body">
+<p class="task-intro">这里的 EDA 是正式比较前的检查，不另做一份大而全的探索报告。先查已准备好的 analysis_panel。</p>
+
+<ol class="task-steps"><li>查看各指标的缺失数、最小值、最大值和时间趋势。人数/就业/等级突变、占比越界或重复日期，都定位回 source_file。</li><li>用折线把工业基础量和已核验 Y 随日期画出来，两组放在同一尺度。检查所谓“跳变”是否只是不同日期、不同州或数据来源切换。</li><li>挑出一个最影响解释的异常，注明观察事实和待查原因。不要给异常起一个没有证据的事件名称。</li></ol>
+
+
+
+</div><div class="deliver">完成后检查 → Part 4：Notebook 留一小段数据检查与异常记录；通过检查的指标进入后面的比较图。</div></section>
+<section class="slide" data-part="3" aria-label="实际工业化有何不同？看过程，也看终点" hidden>
+<p class="eyebrow">PART 4 · 条件是否形成差异</p><h1>实际工业化有何不同？看过程，也看终点</h1><div class="body task-body">
+
+
+<ol class="task-steps"><li>先画篮子等级与篮子就业的时间曲线，让 FL、SL 使用相同横轴日期和纵轴单位；不要只用一个最后年份的柱状图。</li><li>再画 Part 1 选定的主 X_actual，并把占比的分母一起检查。分母下降导致占比上升，与工业就业增长是不同解释。</li><li>说清哪些年份领先、是否反转、共同窗口首末变化是多少。F 没有更快也如实写，先核对数据与执行，不能重贴标签或删掉 run。</li></ol>
+
+<details><summary>需要 AI 帮忙时，可以这样说明任务</summary><p>只使用已确认指标和共同窗口，生成工业化基础量与主指标的两组趋势比较。请同时输出作图数据；不要代写“快组成功”或显著性结论。</p></details>
+
+</div><div class="deliver">完成后检查 → Part 4：outputs/figures/ 中的工业化比较图；在 Notebook 写一两句有日期和数字的事实。</div></section>
+<section class="slide" data-part="3" aria-label="政治不稳定怎么比？先检查 Y 的核验状态" hidden>
+<p class="eyebrow">PART 4 · 只对已核验结果执行</p><h1>政治不稳定怎么比？先检查 Y 的核验状态</h1><div class="body task-body">
+<p class="task-intro">若 Y 仍待核验，本页不输出正式政治结论。保留来源对照表和补证任务，继续工业化比较与敏感性检查。</p>
+
+<ol class="task-steps"><li>Y 已核验：用同一来源规则、分母、单位与窗口画 FL、SL 两条趋势线。注明 0–1 比例或百分比，不能混用。</li><li>分别求窗口均值、峰值及日期、末期减基期的变化。均值是否含基线按 Part 1；额外事件点不增加该年权重，缺失不填 0。</li><li>输出 run_summary.csv：每个 run 一行，含有效日期数、窗口、工业化变化及已核验政治汇总。若有效日期不同，先对齐再比较；不要把不等覆盖的均值当作同窗口结果。</li></ol>
+
+
+
+</div><div class="deliver">完成后检查 → Part 4：政治趋势图（仅已核验时）、outputs/tables/run_summary.csv，以及每个汇总值的覆盖说明。</div></section>
+<section class="slide" data-part="3" aria-label="两条线一起变，不等于找到了原因" hidden>
+<p class="eyebrow">PART 4 · 给转折寻找证据</p><h1>两条线一起变，不等于找到了原因</h1><div class="body task-body">
+
+
+<ol class="task-steps"><li>选一个图上的转折，查该日期附近的州范围、人口、法律与可核实事件，区分指标变了与统计对象变了。</li><li>写出两种可能解释，例如工业就业变化、领土范围变化；分别说明还需哪条证据才能区分。</li><li>革命/tag 后身份未确认时，不把曲线接起来就宣称是连续同一对象。M 的当前生活水平字段未核验，也不声称已证明中介机制。</li></ol>
+<div class="task-example">虚构写法示例：某年占比升高，但工业就业没有增加，同时总就业减少。这个比例变化不能单独说明工业扩张加速；需进一步检查人口与领土记录。</div>
+
+
+</div><div class="deliver">完成后检查 → Part 4：一个异常说明，写成“观察到什么—可能解释—还缺什么证据”，不必写成长报告。</div></section>
+<section class="slide" data-part="4" aria-label="敏感性检查：只换一个合理做法，再算一次" hidden>
+<p class="eyebrow">PART 5 · 80–100 分钟</p><h1>敏感性检查：只换一个合理做法，再算一次</h1><div class="body task-body">
+<p class="task-intro">它要回答的是：我们的判断是不是依赖某个计算选择？选下面最影响当前结论的一项，实际运行，别只写“以后可以检查”。</p>
+<table class="task-table"><thead><tr><th>可选检查</th><th>只改变什么</th><th>保持什么不变</th></tr></thead><tbody><tr><td>换工业化指标</td><td>用 Part 1 选定的替代 X_actual</td><td>原始数据、条件标签、日期窗口、州范围</td></tr><tr><td>换统计范围</td><td>全国改为共同州；重新计算相关分子与分母</td><td>run、日期、公式、单位和缺失规则</td></tr></tbody></table>
+<ol class="task-steps"><li>把主分析与这一次重算结果并排保存，比较方向、幅度和转折是否改变。若两种指标单位不同，不直接相减，比较各自的组间排序与变化。</li><li>看过结果后新想到的方法标为“探索性”；原结果不覆盖。</li></ol>
+
+
+
+</div><div class="deliver">完成后检查 → Part 5：一张比较图或表，以及两句话：改了什么；原来的判断是否改变、为什么。</div></section>
+<section class="slide" data-part="4" aria-label="如果选共同州，具体要重算什么？" hidden>
+<p class="eyebrow">PART 5 · 按需使用的操作例子</p><h1>如果选共同州，具体要重算什么？</h1><div class="body task-body">
+
+
+<ol class="task-steps"><li>从两组各年度州表求所选窗口内都出现的 state_key 集合，打印出来给两人确认；不是只比较起点和终点。</li><li>人口按 location_state_id 接同存档州表，建筑按 state_id 接州表。都筛到同一共同州集合，再重算等级、就业，以及相同范围的就业分母。</li><li>国家总激进派人数不能直接分摊到共同州。若州/人口层政治人数未验证，就只对能算的工业指标做这次检查。</li></ol>
+<div class="task-example">共同州名一致也不保证控制的全部省份一致，更不能消除全国市场和政治冲击。它只检查一部分统计范围影响，不能写成“已排除所有混淆”。</div>
+
+
+</div><div class="deliver">完成后检查 → Part 5：标明实际采用的州集合和重算指标；若选的是替代 X_actual，可跳过本页。</div></section>
+<section class="slide" data-part="5" aria-label="把分析写成能进入论文的一小段结果" hidden>
+<p class="eyebrow">PART 6 · 100–110 分钟</p><h1>把分析写成能进入论文的一小段结果</h1><div class="body task-body">
+
+
+<ol class="task-steps"><li>先写事实：在哪个窗口、哪个指标、哪组怎样变化，引用图号或表中的数字。至少提到一个不符合原先预期的时期或尚无证据的部分。</li><li>再写解释：说明可能机制，但把已观察事实与推测分开。敏感性检查若改变判断，要写出来。</li><li>最后写限制：目前各条件仅一次、只有低保护、字段或革命身份仍有哪些未核验。另一人逐句问：这个数字来自哪张表？</li></ol>
+<div class="task-example">写作结构示例（不含结果答案）：在［窗口］、［范围］内，［指标］显示……（图/表）。换用［检查方法］后……。这与……解释相符/不符，但由于……，目前不能判断……。</div>
+
+
+</div><div class="deliver">完成后检查 → Part 6：在 Notebook 写一段初步结果和必要方法说明；没有核验的 Y 或 M 就明确不作结论。</div></section>
+<section class="slide" data-part="6" aria-label="从头运行一次，再交给对方" hidden>
+<p class="eyebrow">PART 7 · 110–120 分钟</p><h1>从头运行一次，再交给对方</h1><div class="body task-body">
+
+
+<ol class="task-steps"><li>保存文件，Restart Kernel &amp; Run All。代码从 data_raw 重新读取，不依赖手工改 CSV 或上一次内核里的临时变量。</li><li>核对输出表行数、图表和文字数字。已核验部分应重建成功，未核验部分应明确报告状态，而不是让整个 Notebook 无提示停住。</li><li>另一人复查代码和 Notebook 输出。按文件暂存代码、文档及审核后的汇总图表，再由你们发起向指定 GitHub 仓库推送。</li></ol>
+<div class="task-example">完整 data_raw/、data/processed/ 默认本地保留，分享范围由老师确认；不上传凭据、环境、.v3 或整表打印。已有远程数据不擅自删除。具体规则见 AGENTS.md。</div>
+
+
+</div><div class="deliver">完成后检查 → Part 7：记录重跑结果、提交/待推送状态。未完成项写明具体证据、责任人和补交时间。</div></section>
+<section class="slide" data-part="6" aria-label="其余 run 到齐后，怎样沿用今天的程序？" hidden>
+<p class="eyebrow">PART 7 · 把接入检查写进代码</p><h1>其余 run 到齐后，怎样沿用今天的程序？</h1><div class="body task-body">
+
+
+<ol class="task-steps"><li>按原样导出结构放入新 run 目录，用配置读取目录与条件，保留唯一 run_id。若目录编号与老师/学生原有记录撞名，先确认身份，不覆盖。</li><li>重新运行相同的日期、关联、范围和字段检查。新数据不自动沿用“核验通过”；窗口不足、机构值不同、缺字段都要报告。</li><li>沿用同一指标、单位和窗口构造分析表。数据齐全后再说明重复 run 的汇总及独立性/配对依据，比较 FL−SL、FH−SH，再比较两者；现在缺组就提示缺组，不补假数据。</li></ol>
+
+
+
+</div><div class="deliver">完成后检查 → Part 7：程序能识别不止两个 run，Notebook 记下新数据接入步骤与尚待确认的比较规则。</div></section>
+<section class="slide" data-part="6" aria-label="结束前，打开这些结果给对方看" hidden>
+<p class="eyebrow">本次交付 · 只交真正完成的部分</p><h1>结束前，打开这些结果给对方看</h1><div class="body task-body">
+<p class="task-intro">不另做展示网页。完成了工业化分析但 Y 仍待核验，就如实说明，不把“资料准备完”写成“研究结果已验证”。</p>
+<table class="task-table"><thead><tr><th>打开什么</th><th>对方应当能检查什么</th></tr></thead><tbody><tr><td>Notebook Part 1–3</td><td>指标共识、原始字段出处、两人交叉复算</td></tr><tr><td>data/processed/analysis_panel.csv</td><td>一行一个 run/日期；基础量、来源与核验状态</td></tr><tr><td>outputs/figures/ 与 outputs/tables/</td><td>工业化比较；已核验时的政治比较；run 汇总</td></tr><tr><td>Notebook Part 5–7</td><td>实际运行的敏感性检查、初步结果、从头运行记录</td></tr><tr><td>待补证记录</td><td>具体字段/存档、缺什么证据、谁补、何时补；不只写“数据有问题”</td></tr></tbody></table>
+
+
+
+
+</div><div class="deliver">完成后检查 → 你们应能指着一个结果，说明它从哪张原始表、经过什么计算得到；AI 的解释不能代替这一步。</div></section>
+<div id="overview" role="dialog" aria-modal="true" aria-label="页面目录" hidden><button id="closeOverview" aria-label="关闭目录">关闭 ×</button><h2>选择任务页</h2><div id="overviewGrid"></div></div>
+<footer><button id="prev" aria-label="上一页">← 上一页</button><span id="counter" aria-live="polite"></span><button id="next" aria-label="下一页">下一页 →</button><button id="overviewBtn">目录 O</button><button id="full">全屏 F</button><span class="spacer"></span><span id="timeLabel">本阶段计时</span><span id="timer">10:00</span><button id="startTimer">开始</button><button id="resetTimer">按本阶段重置</button></footer><div id="progress"></div></main>
+<script>
+'use strict';
+const stage=document.getElementById('stage'), slides=[...document.querySelectorAll('.slide')];
+const names=['1 指标共识','2 整理与构造','3 交叉核对','4 比较分析','5 敏感性检查','6 结果文字','7 重跑与提交'], minutes=[10,25,15,30,20,10,10];
+const starts=names.map((_,p)=>slides.findIndex(s=>Number(s.dataset.part)===p));
+let index=0,remaining=600,deadline=null,timerPart=0;
+const $=id=>document.getElementById(id);
+function fit(){stage.style.transform='translate(-50%,-50%) scale('+Math.min(innerWidth/1600,innerHeight/900)+')'}
+function show(n){index=Math.max(0,Math.min(slides.length-1,n));slides.forEach((s,i)=>{s.hidden=i!==index;s.classList.toggle('active',i===index)});document.querySelectorAll('#stages button').forEach((b,i)=>{const active=i===Number(slides[index].dataset.part);b.classList.toggle('active',active);b.setAttribute('aria-current',active?'step':'false')});$('counter').textContent=(index+1)+' / '+slides.length;$('prev').disabled=index===0;$('next').disabled=index===slides.length-1;$('progress').style.width=((index+1)/slides.length*100)+'%';try{localStorage.setItem('v3-eda-20261011-guided-v2-page',String(index))}catch{}}
+names.forEach((name,p)=>{const b=document.createElement('button');b.textContent=name;b.onclick=()=>show(starts[p]);$('stages').append(b)});
+slides.forEach((s,i)=>{const b=document.createElement('button');b.textContent=String(i+1).padStart(2,'0')+' · '+s.querySelector('h1').textContent;const small=document.createElement('small');small.textContent=names[Number(s.dataset.part)];b.append(small);b.onclick=()=>{show(i);closeOverview()};$('overviewGrid').append(b)});
+function openOverview(){$('overview').hidden=false;$('closeOverview').focus()}
+function closeOverview(){$('overview').hidden=true;$('overviewBtn').focus()}
+$('overviewBtn').onclick=openOverview;$('closeOverview').onclick=closeOverview;
+$('prev').onclick=()=>show(index-1);$('next').onclick=()=>show(index+1);
+async function full(){try{if(document.fullscreenElement)await document.exitFullscreen();else await document.documentElement.requestFullscreen()}catch{$('full').textContent='请用 F11 全屏'}}
+$('full').onclick=full;
+function drawTimer(){const seconds=deadline===null?remaining:Math.max(0,Math.ceil((deadline-Date.now())/1000));$('timer').textContent=String(Math.floor(seconds/60)).padStart(2,'0')+':'+String(seconds%60).padStart(2,'0');$('timer').classList.toggle('over',seconds===0);$('timeLabel').textContent='P'+(timerPart+1)+' · '+minutes[timerPart]+' 分钟';if(deadline!==null&&seconds===0){remaining=0;deadline=null;$('startTimer').textContent='开始'}}
+$('startTimer').onclick=()=>{if(deadline!==null){remaining=Math.max(0,Math.ceil((deadline-Date.now())/1000));deadline=null;$('startTimer').textContent='继续'}else{if(remaining===0)return;deadline=Date.now()+remaining*1000;$('startTimer').textContent='暂停'}drawTimer()};
+$('resetTimer').onclick=()=>{timerPart=Number(slides[index].dataset.part);remaining=minutes[timerPart]*60;deadline=null;$('startTimer').textContent='开始';drawTimer()};
+document.addEventListener('keydown',e=>{if(!$('overview').hidden){if(e.key==='Escape')closeOverview();if(e.key==='Tab'){const nodes=[...$('overview').querySelectorAll('button')],first=nodes[0],last=nodes[nodes.length-1];if(e.shiftKey&&document.activeElement===first){last.focus();e.preventDefault()}else if(!e.shiftKey&&document.activeElement===last){first.focus();e.preventDefault()}}return}
+if(e.target.closest('summary,button,input,textarea,select')&&[' ','Enter'].includes(e.key))return;
+if(['ArrowRight','PageDown',' '].includes(e.key)){show(index+1);e.preventDefault()}else if(['ArrowLeft','PageUp'].includes(e.key)){show(index-1);e.preventDefault()}else if(e.key==='Home')show(0);else if(e.key==='End')show(slides.length-1);else if(e.key.toLowerCase()==='o')openOverview();else if(e.key.toLowerCase()==='f')full()});
+addEventListener('resize',fit);try{const saved=Number(localStorage.getItem('v3-eda-20261011-guided-v2-page'));if(Number.isInteger(saved))index=saved}catch{}
+fit();show(index);drawTimer();setInterval(drawTimer,250);
+</script></body></html>

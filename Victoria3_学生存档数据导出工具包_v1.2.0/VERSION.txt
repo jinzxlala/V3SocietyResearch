@@ -1,0 +1,12 @@
+Victoria 3 Student Raw Save Export Toolkit
+Tool version: vic3-student-raw-export-1.2.0
+Prepared: 2026-09-18
+Data contract: raw_only
+Country: Belgium (BEL)
+Game definitions: required from the local Victoria 3/game/common directory
+Definition groups: buildings, building_groups, goods, laws, institutions, production_methods, production_method_groups, technologies, technology_eras, defines, static_modifiers
+Validated saves: Victoria 3 1.13.10 and 1.13.11 Belgium samples
+Windows path: compressed/binary and Debug plain-text saves
+macOS path: Debug plain-text saves only; compressed saves must be preserved and processed on Windows
+Building collection: all Belgium building entities, without basket labels or aggregates
+Derived variables: not calculated during export

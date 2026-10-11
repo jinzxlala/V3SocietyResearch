@@ -1,0 +1,72 @@
+sport,discipline,level,source_page,ic,ooc,grand
+Aquatics,Aquatics,sport,75,480,223,703
+Aquatics,Artistic Swimming,discipline,75,16,5,21
+Aquatics,Diving,discipline,75,32,7,39
+Aquatics,Open Water,discipline,75,20,11,31
+Aquatics,Swimming Long Distance 800m or greater,discipline,75,35,18,53
+Aquatics,Swimming Middle Distance 200-400m,discipline,75,159,60,219
+Aquatics,Swimming Sprint 100m or less,discipline,75,158,84,242
+Aquatics,Water Polo,discipline,75,60,38,98
+Archery,Archery,sport,75,20,7,27
+Athletics,Athletics,sport,75,571,344,915
+Athletics,Combined Events,discipline,75,20,10,30
+Athletics,Jumps,discipline,75,76,45,121
+Athletics,Long Distance 3000m or greater,discipline,75,141,92,233
+Athletics,Middle Distance 800-1500m,discipline,75,58,39,97
+Athletics,Sprint 400m or less,discipline,75,196,112,308
+Athletics,Throws,discipline,75,80,46,126
+Badminton,Badminton,sport,75,37,23,60
+Basketball,Basketball,sport,75,73,49,122
+Basketball,3 on 3,discipline,75,28,11,39
+Basketball,Basketball,discipline,75,45,38,83
+Boxing,Boxing,sport,75,127,52,179
+Canoe,Canoe,sport,75,157,63,220
+Canoe,Canoe Slalom,discipline,76,59,17,76
+Canoe,Long Distance 1000m,discipline,76,20,8,28
+Canoe,Middle Distance 500m,discipline,76,68,35,103
+Canoe,Sprint 200m,discipline,76,10,3,13
+Cycling,Cycling,sport,76,247,99,346
+Cycling,BMX Freestyle Park,discipline,76,14,3,17
+Cycling,BMX Racing,discipline,76,19,9,28
+Cycling,Mountain Bike Endurance,discipline,76,24,10,34
+Cycling,Road,discipline,76,45,43,88
+Cycling,Track Endurance,discipline,76,80,18,98
+Cycling,Track Sprint,discipline,76,65,16,81
+DanceSport - Breaking,DanceSport - Breaking,sport,76,12,4,16
+Equestrian,Equestrian,sport,76,25,8,33
+Equestrian,Dressage,discipline,76,10,2,12
+Equestrian,Eventing,discipline,76,8,4,12
+Equestrian,Jumping,discipline,76,7,2,9
+Fencing,Fencing,sport,76,51,10,61
+Fencing,Epee,discipline,76,17,,17
+Fencing,Foil,discipline,76,15,6,21
+Fencing,Sabre,discipline,76,19,4,23
+Field Hockey,Field Hockey,sport,76,84,56,140
+Football,Football,sport,76,85,68,153
+Golf,Golf,sport,76,8,7,15
+Gymnastics,Gymnastics,sport,76,116,33,149
+Gymnastics,Artistic,discipline,76,92,26,118
+Gymnastics,Rhythmic,discipline,76,16,5,21
+Gymnastics,Trampoline,discipline,76,8,2,10
+Handball,Handball,sport,76,55,46,101
+Judo,Judo,sport,76,106,50,156
+Modern Pentathlon,Modern Pentathlon,sport,76,12,11,23
+Roller Sports - Skateboarding,Roller Sports - Skateboarding,sport,76,17,4,21
+Rowing,Rowing,sport,76,164,96,260
+Rugby Union,Rugby Union,sport,76,81,54,135
+Sailing,Sailing,sport,76,40,16,56
+Shooting,Shooting,sport,76,60,18,78
+Sport Climbing,Sport Climbing,sport,76,36,11,47
+Sport Climbing,Combined,discipline,76,14,6,20
+Sport Climbing,Speed,discipline,77,22,5,27
+Surfing,Surfing,sport,77,14,7,21
+Table Tennis,Table Tennis,sport,77,20,9,29
+Taekwondo,Taekwondo,sport,77,55,18,73
+Tennis,Tennis,sport,77,43,14,57
+Triathlon,Triathlon,sport,77,35,33,68
+Volleyball,Volleyball,sport,77,46,54,100
+Volleyball,Beach,discipline,77,4,14,18
+Volleyball,Volleyball,discipline,77,42,40,82
+Weightlifting,Weightlifting,sport,77,122,46,168
+Wrestling,Wrestling,sport,77,177,74,251
+Wrestling,Grand Total,TOTAL,77,3176,1607,4783

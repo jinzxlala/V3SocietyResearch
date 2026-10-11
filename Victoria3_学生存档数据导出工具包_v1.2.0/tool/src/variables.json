@@ -1,0 +1,18 @@
+{
+    "large_topics": ["country_manager", "pops", "interest_groups", "building_ownership_manager",
+    "building_manager", "states", "character_manager", "journal_entry_manager", "relations", "laws", "new_combat_unit_manager", "provinces"],
+    "default_directories": {
+        "Common Directory":"./common",
+        "Events Directory":"./events",
+        "Localization Directory":"./localization",
+        "Localization Language":"english",
+        "Steamapp Location": "",
+        "Overridden Directories": [],
+        "Mod Directories": [],
+        "Autosave Location":"",
+        "Campaign Folder": "autosaves",
+        "Selected Mod": "",
+        "Start Year": 1836,
+        "End Year": 1936
+    }
+}

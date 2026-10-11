@@ -1,0 +1,25 @@
+sport,discipline,level,source_page,urine_ic,urine_ooc,urine_total,blood_ic,blood_ooc,blood_total,abp_ic,abp_ooc,abp_total,dbs_ic,dbs_ooc,dbs_total,grand
+Skiing,Skiing,sport,51,457,429,886,39,82,121,3,199,202,,26,26,1235
+Skiing,Cross-Country,discipline,51,131,191,322,16,34,50,3,172,175,,5,5,552
+Skiing,Alpine,discipline,51,109,125,234,16,28,44,,,,,17,17,295
+Skiing,Freestyle,discipline,51,86,41,127,2,5,7,,,,,,,134
+Skiing,Snowboard,discipline,51,73,28,101,2,3,5,,,,,,,106
+Skiing,Nordic Combined,discipline,51,28,33,61,2,11,13,,27,27,,4,4,105
+Skiing,Ski Jumping,discipline,51,30,11,41,1,1,2,,,,,,,43
+Skating,Skating,sport,51,261,230,491,34,58,92,2,80,82,,29,29,694
+Skating,Short Track,discipline,51,82,74,156,11,19,30,,21,21,,12,12,219
+Skating,Speed Skating greater than 1500m,discipline,51,69,56,125,9,12,21,1,40,41,,3,3,190
+Skating,Speed Skating 1500m or less,discipline,51,59,51,110,7,14,21,1,19,20,,7,7,158
+Skating,Figure Skating,discipline,51,51,49,100,7,13,20,,,,,7,7,127
+Biathlon,Biathlon,sport,51,124,135,259,15,23,38,1,118,119,,,,416
+Biathlon,Biathlon,discipline,51,124,135,259,15,23,38,1,118,119,,,,416
+Ice Hockey,Ice Hockey,sport,51,104,181,285,21,39,60,,,,1,22,23,368
+Ice Hockey,Ice Hockey,discipline,51,104,181,285,21,39,60,,,,1,22,23,368
+Bobsleigh,Bobsleigh,sport,51,81,131,212,15,33,48,,,,,19,19,279
+Bobsleigh,Bobsleigh,discipline,51,61,107,168,11,26,37,,,,,15,15,220
+Bobsleigh,Skeleton,discipline,51,20,24,44,4,7,11,,,,,4,4,59
+Luge,Luge,sport,51,40,56,96,7,13,20,,,,,8,8,124
+Luge,Luge,discipline,51,40,56,96,7,13,20,,,,,8,8,124
+Curling,Curling,sport,51,38,12,50,,,,,,,,,,50
+Curling,Curling,discipline,51,38,12,50,,,,,,,,,,50
+Curling,Grand Total,TOTAL,51,1105,1174,2279,131,248,379,6,397,403,1,104,105,3166

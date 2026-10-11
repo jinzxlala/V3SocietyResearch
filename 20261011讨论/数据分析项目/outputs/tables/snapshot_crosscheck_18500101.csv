@@ -1,0 +1,5 @@
+﻿run_id,source_file,country_id,date,scope,basket_levels_observed,industrial_employment,working_workforce_including_subsistence,subsistence_employment_excluded,non_subsistence_employment_denominator,no_workplace_workforce_excluded,industrial_employment_share,population_candidate,basket_types_without_records,verification_status
+FL_01,Belgium_1850-01-01_01_FL_Jin.v3,25,1850-01-01,national_actual,52,246547,818687,354793,463894,7933,0.5314727071270592,3307679,,AI 独立复算；不替代学生交叉审核；Y待核验
+FL_01,Belgium_1850-01-01_01_FL_Jin.v3,25,1850-01-01,common_states,52,246547,818687,354793,463894,7933,0.5314727071270592,3307679,,AI 独立复算；不替代学生交叉审核；Y待核验
+SL_01,Belgium_1850-01-01_01_SL_Jin.v3,25,1850-01-01,national_actual,58,256318,1122100,576217,545883,14956,0.4695475037691227,4549847,,AI 独立复算；不替代学生交叉审核；Y待核验
+SL_01,Belgium_1850-01-01_01_SL_Jin.v3,25,1850-01-01,common_states,57,252984,1078166,536217,541949,10495,0.4668040719698717,4356132,,AI 独立复算；不替代学生交叉审核；Y待核验

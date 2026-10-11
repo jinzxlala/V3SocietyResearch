@@ -179,3 +179,25 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# ---------------------------------------------------------------------------
+# 本项目追加：研究数据不进版本库
+# ---------------------------------------------------------------------------
+# 原始导出包（每个 3MB 起，且随 run 数增长），只在本机保留
+/data/raw/*
+!/data/raw/.gitkeep
+
+# 由 scripts/build_interim.py 生成的整合层，可随时重建
+/data/interim/*
+!/data/interim/.gitkeep
+
+# 导出工具包本体（含 .venv 与 output_packages）
+/Victoria3_学生存档数据导出工具包_v1.2.0/tool/.venv/
+/Victoria3_学生存档数据导出工具包_v1.2.0/input_saves/*.v3
+/Victoria3_学生存档数据导出工具包_v1.2.0/output_packages/V3_raw_export_*/
+/Victoria3_学生存档数据导出工具包_v1.2.0/output_packages/*.zip
+
+# macOS
+.DS_Store
+
+# 学生自己保留的原始存档副本（约 1GB），只在本机留存
+/Victoria3_学生存档数据导出工具包_v1.2.0/ExistedRuns/

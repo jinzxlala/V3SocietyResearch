@@ -1,0 +1,1248 @@
+46   
+Soligard T, et al. Br J Sports Med 2023;57:46–54. doi:10.1136/bjsports-2022-106155
+New sports, COVID- 19 and the heat:  sports injuries 
+and illnesses in the Tokyo 2020 Summer Olympics
+Torbjørn Soligard    ,1 Debbie Palmer    ,2,3 Kathrin Steffen    ,4 
+Alexandre Dias Lopes,5 Natalia Grek,6 Kentaro Onishi,7 Tomoyuki Shimakawa,8 
+Marie-
+ 
+Elaine Grant,9 Margo Mountjoy    ,10 Richard Budgett,1 Lars Engebretsen    1,4 
+Original research
+To cite: Soligard T, 
+Palmer D, Steffen K, 
+et al. Br J Sports Med 
+2023;57:46–54.
+ ► Additional supplemental 
+material is published online 
+only. To view, please visit the 
+journal online (http://
+ 
+dx.
+ 
+doi.
+ 
+org/
+ 
+10.
+ 
+1136/
+ 
+bjsports-
+ 
+2022-
+ 
+106155).
+F
+or numbered affiliations see 
+end of article.
+Correspondence to
+Dr Torbjørn Soligard, Medical 
+and Scientific Department, 
+International Olympic 
+Committee, Lausanne, Vaud, 
+Switzerland;  
+ 
+torbjorn.
+ 
+soligard@
+ 
+olympic.
+ 
+org
+Accepted 21 November 2022
+Published Online First 
+5 December 2022
+© Author(s) (or their 
+employer(s)) 2023. No 
+commercial re-
+ use
+. See rights 
+and permissions. Published 
+by BMJ.
+ABSTRACT
+Objective
+ T
+o describe the incidence of injuries and 
+illnesses sustained during the Tokyo Summer Olympic 
+Games from 23 July to 8 August 2021.
+Methods
+ W
+e recorded the daily number of athlete 
+injuries and illnesses (1) through the reporting of all 
+National Olympic Committee (NOC) medical teams and 
+(2) in the polyclinic and medical venues by the Tokyo 
+2020 medical staff.
+Results
+ In total
+, 11 315 athletes (5423
+ women,
+ 48%; 
+5892 men, 52%) from 206 NOCs were followed up 
+prospectively for the occurrence of injury and illness. 
+NOC and Tokyo 2020 medical staff reported 1035 
+injuries and 438 illnesses, equalling 9.1 injuries and 
+3.9 illnesses per 100 athletes over the 17-
+ day period.
+ 
+Altogether, 9% of the athletes incurred at least one 
+injury and 4% at least one illness. The incidence of injury 
+was highest in boxing (27%), BMX racing (27%), BMX 
+freestyle (22%), skateboarding (21%), karate (19%) 
+and handball (18%), of which both BMX freestyle and 
+skateboarding were new events, and lowest in diving, 
+road cycling, rowing, marathon swimming and shooting 
+(1–2%). Marathon and artistic swimming presented 
+the highest illness incidences (both 8%), followed by 
+skateboarding and karate (both 7%). In the study period, 
+COVID-
+ 19 affected 18 athletes
+, accounting for 4% of 
+all illnesses and 0.16% of all athletes. Exertional heat 
+illness affected 78 athletes (18% of all illnesses, 0.7% of 
+all athletes), the majority (88%) resulting in no time lost 
+from sport.
+Conclusion
+ Over
+all, 9% of the athletes incurred 
+an injury and 4% an illness during the Games. 
+Comprehensive countermeasures helped mitigate both 
+COVID-
+ 19 and exertional heat illnesses
+.
+INTRODUCTION
+Reaching the highest level in sport requires athletes 
+to commit to thousands of hours of deliberate and 
+intense training. The extreme nature of their line 
+of work, striving to outperform their peers through 
+relentlessly pushing their physical and mental 
+boundaries,1 also means that many oscillate between 
+being either almost injured or injured throughout 
+their careers. While athletes benefit from greater 
+life expectancy and lower risk of chronic disease 
+and hospital admission compared with the general 
+population,2–5 they do run a high risk of injuries 
+and musculoskeletal disorders throughout,1 6–11 and 
+after the end12–15 of their sporting career.
+Protecting the health of the athletes is one of 
+the main priorities of the International Olympic 
+Committee (IOC),16 and the IOC has surveyed the 
+sports injuries and illnesses in every Olympic Games 
+since Beijing 2008. 6–11 The overall proportion of 
+injured athletes has ranged from 10% to 14% and 
+ill athletes from 5% to 9%; however, there have 
+been large variations between sports. The T okyo 
+2020 Summer Olympics introduced several new 
+sports and disciplines, including baseball/softball, 
+karate, skateboarding, sport climbing, surfing, 3×3 
+basketball and BMX freestyle.
+The main challenge facing the T okyo Olym-
+pics was the outbreak of the global COVID-
+ 19 
+pandemic, 
+which had forced postponement of the 
+Games by 1
+ year
+. Ensuring the successful running 
+of the Olympic Games while at the same time 
+protecting the health and safety of both athletes and 
+the general public was a monumental and unprec-
+edented undertaking. 17–19 In addition, a hot and 
+humid T okyo summer presented both athletes and 
+the event organisers with an additional challenge 
+from both a sporting and health protection point 
+of view.20–22
+WHAT IS ALREADY KNOWN ON THIS TOPIC
+ ⇒ Elite athletes gain a number of health benefits, 
+but run a high risk of musculoskeletal injuries 
+and other disorders during and after their 
+sporting careers
+WHAT THIS STUDY ADDS
+ ⇒ Overall, 9% and 4% of the athletes incurred at 
+least one injury or illness, respectively, during 
+the Tokyo 2020 Olympic Games
+ ⇒ Boxing (27%), BMX racing (27%), BMX 
+freestyle (22%), skateboarding (21%), karate 
+(19%) and handball (18%) were the sports with 
+the highest incidences of injury
+ ⇒ COVID- 19 and a hot and humid environment 
+presented considerable challenges for the 
+athletes and the organisation of the Games
+, but 
+both were mitigated through comprehensive 
+countermeasures
+HOW THIS STUDY MIGHT AFFECT RESEARCH, 
+PRACTICE OR POLICY
+ ⇒ Athlete medical staff and event organisers can 
+plan and optimise their healthcare provision, 
+and, more importantly, prevention measures 
+according to the diagnoses and risk profile of 
+their athlete populations
+ on December 22, 2022 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2022-106155 on 13 December 2022. Downloaded from 
+47
+Soligard T, et al. Br J Sports Med 2023;57:46–54. doi:10.1136/bjsports-2022-106155
+Original research
+Our aim in this study was to describe the incidence and char -
+acteristics of the sports injuries and illnesses occurring during the 
+T okyo 2020 Summer Olympics.
+METHODS
+We employed the IOC injury and illness surveillance system for 
+multi-
+ sport 
+events in this prospective cohort study as used in 
+previous Games.23 Notably, the 2020 IOC consensus statement 
+on methods for recording and reporting injury and illness data 
+in sport was not published until after preparation for this study 
+was completed.24 We invited all National Olympic Committee 
+(NOC) medical teams to report the daily occurrence (or non-
+ 
+occurrence) of athlete injuries and illnesses using an electronic 
+report form (side 
+module of General Electric Athlete Manage-
+ment Solution; GE AMS). Concurrently, we retrieved the same 
+information on all athletes treated for injuries and illnesses in the 
+polyclinic and all other medical venues operated by the T okyo 
+Organising Committee of the Olympic and Paralympic Games 
+(T okyo 2020/OCOG) medical staff. These data were collected 
+through an electronic medical record system (GE AMS).
+Implementation
+The day before the opening of the Games we organised a meeting 
+for all NOC medical staff. At this meeting we informed them 
+about the protocol, answered questions, created user accounts 
+for the GE AMS injury and illness reporting system and distrib-
+uted tablet computers to facilitate their daily reporting.
+Throughout the data collection, we actively followed up with 
+frequent visits to the NOCs whose team sizes were 10 athletes or 
+larger (respecting COVID-
+ 19 countermeasures) and electronic 
+contact to deal with any questions and encourage continuous 
+reporting during the games. W
+e recorded the response rate (and 
+injuries and illnesses) of all the participating NOCs.
+Definition of injury and illness
+We defined injuries and illnesses as new (pre-  existing, not 
+fully 
+rehabilitated conditions were not recorded) or recurring 
+(athletes having returned to full participation after a previous 
+condition) incurred in competition or training during the period 
+between the opening and closing ceremonies of the Olympic 
+Games T okyo 2020 (23 July to 8 August 2021) receiving medical 
+attention, regardless of the consequences with respect to absence 
+from competition or training. Injuries comprised musculoskel-
+etal complaints, concussions and other non-
+ musculoskeletal 
+trauma. Illnesses were defined as complaints or disorders 
+not 
+related to injury. In cases where a single incident caused multiple 
+injury types, we recorded only the most severe diagnosis—as 
+determined by our research team based on all available clinical 
+data—for analysis. We defined injury and illness severity by the 
+number of estimated days lost from training or competition. 
+In the interest of presenting complete data on COVID-
+ 19 in 
+athletes 
+at the Games, we also report all confirmed cases occur -
+ring before the opening of the Games (from the day the athletes 
+arrived at the airport in T okyo), but do not include these in the 
+analyses overall and per sport (to avoid skewing the results in 
+comparison with past and future Games).
+Injury and illness report form
+Our injury and illness report form followed the template of 
+that used in the Vancouver 2010, London 2012, Sochi 2014, 
+Rio 2016 and PyeongChang 2018 Olympic Games. With respect 
+to injuries, we recorded the following data: accreditation 
+number, name, sport and event, whether the injury occurred in 
+competition or training, date and time, body part, type, cause and 
+estimated time lost from competition or training. We recorded 
+data on illnesses in a similar fashion: accreditation number, sport 
+and event, date, affected system, main symptom(s), cause and 
+estimated time loss.
+We provided instructions and examples on how to complete 
+the form correctly. Furthermore, the report form was available 
+in nine languages: English, French, Arabic, Chinese, German, 
+Japanese, Korean, Russian and Spanish.
+Confidentiality and ethical approval
+In addition to the aforementioned variables, we queried the IOC 
+athlete database for the age and sex of the injured or ill athlete. 
+We treated all information confidentially, and deidentified our 
+database after the Games, ensuring anonymity of all athletes.
+The study was reviewed by the Medical Research Ethics 
+Committee of the South-
+ Eastern 
+Norway Regional Health 
+Authority (2011/388).
+Patient and public involvement
+Patients were not involved in the planning or execution of the 
+study. Representatives of the patients (the athletes) will be invited 
+to help interpret the results and their relevance and potential for 
+future injury and illness prevention measures.
+Equity, diversity and inclusion statement
+Our study population includes all athletes participating in the 
+Olympic Games. Our author group includes mixed genders (five 
+women, six men), continents (Europe, South America, North 
+America, Asia), nationalities (NOR, UK, GER, BRA, RUS, JPN, 
+IRL, CAN), ages and professional backgrounds, as well as repre-
+sentation from two former Olympians (DP and RB).
+Data analysis
+In cases where athletes were treated for the same condition by 
+both the NOC and T okyo 2020 medical staff, we retained the 
+most complete data source. Unless more precise clinical data 
+were available, we set the estimated days of absence from sport 
+for confirmed COVID-
+ 19 cases to 10 days, based on the average 
+isolation time in place during the Games.
+W
+e calculated the summary measures of injury and illness inci-
+dences (i) according to the formula i=n/e, where n is the number 
+of injuries or illnesses in competition, training or in total during 
+the study period and e the respective number of exposed (partic-
+ipating) athletes; with incidence proportions presented as inju-
+ries/illnesses per 100 athletes. We also calculated the summary 
+measures of injury and illnesses per 1000 athlete-
+ days, where 
+athlete-
+ days correspond 
+to the total number of athletes multi-
+plied by 17 days. We calculated confidence intervals of the risk 
+ratio (RR) of the number of injuries or illnesses between two 
+groups by a simple Poisson model, assuming constant hazard per 
+group and adjusting for sport, sex, age and/or NOC size (by the 
+number of athletes), where appropriate. We present injury and 
+illness incidences as means and risk ratios with 95% confidence 
+intervals. We regarded two-
+ tailed p values <0.05 as significant.
+RESULTS
+In total, 11 315 athletes took part in the T okyo Olympic Games. 
+Of these, 5423 were women (48%) and 5892 men (52%). T en 
+athletes participated in two different sports, giving a total of 11 
+325 athlete exposures to injury or illness.
+Throughout the 17 days of the Games, the 206 NOCs 
+submitted 1866 of maximal 3502 daily reports (53%; 94 
+ on December 22, 2022 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2022-106155 on 13 December 2022. Downloaded from 
+48
+Soligard T, et al. Br J Sports Med 2023;57:46–54. doi:10.1136/bjsports-2022-106155
+Original research
+countries did not submit any data) (table  1 ). The response rate 
+of the 108 NOCs with ≥10 participating athletes (accounting 
+for 96% of all the athletes) was 95% (1752 of 1836 reports).
+Injuries overall, by sport and sex
+We recorded a total of 1035 injuries, equalling 9.1 injuries 
+(95%
+ CI 8.6 to 9.7) per 100 participating athletes. This corre
+-
+sponds to 5.4 injuries per 1000 athlete-
+ days. Overall, 
+9% 
+(n=964) of the athletes sustained at least one injury. Of these, 45 
+athletes sustained two injuries, and one athlete sustained three 
+injuries.
+Figure
+ 
+1 shows the incidence proportion of injured athletes 
+in each sport (additional details are available in online supple-
+mental appendix 1). The incidence of injury was highest in 
+boxing (27.1 injuries (95%
+ CI 21.1 to 33.1) per 100 athletes), 
+BMX 
+racing (27.1 (12.4 to 41.8)), BMX freestyle (22.2 (0.4 to 
+44.0)), skateboarding (21.0 (11.0 to 31.0)), karate (18.5 (9.1 to 
+27.9)) and handball (17.8 (13.4 to 22.3)), and lowest in diving, 
+road cycling, rowing, marathon swimming and shooting (ranging 
+from 1 to 2 injuries per 100 athletes).
+When adjusting for sport, age and NOC size, there was no 
+difference in overall injury incidence between women (8.6 inju-
+ries (95%
+ CI 7.8 to 9.4) per 100 
+athletes) and men (9.6 (8.8 to 
+10.4), RR=0.93 (0.83 to 1.06), online supplemental appendix 
+1). However, female athletes were at significantly higher risk 
+of injury in artistic gymnastics (RR=3.20 (1.17 to 8.74)), while 
+at lower risk in baseball/softball (RR=0.19 (0.04 to 0.81)) and 
+boxing (RR=0.43 (0.24 to 0.75)).
+Severity of injuries
+While 56% of the injuries were estimated to result in no time 
+loss from sport (n=583), 44% (n=124) were expected to entail 
+≥1
+ day 
+of time loss from competition or training (online supple-
+mental appendix 1). It was estimated that 24% of the injuries 
+(n=247) would result in an absence from sports from 1 to 
+7
+ days, 11% (n=113) in an absence 
+from 8 to 28 days, and 9% 
+(n=92) in an absence for more than 28 days. Figure
+ 
+1 shows the 
+incidence of injuries estimated to lead to ≥1
+ day 
+and >7
+ days 
+of absence in each sport. 
+Box
+ 
+1 presents the details of the 205 
+injuries with >7
+ days of time loss.
+Location and type of injuries
+The most commonly injured locations were the knee (n=114), 
+posterior thigh (n=89), shoulder (n=88), ankle (n=86) and face 
+(including eyes, ears and nose; n=80). The most common injury 
+types were skin laceration/lesion/abrasion (n=133), muscle 
+strain grade 1 or 2 (n=119) and ligament sprain grade 1 or 2 
+(n=113). The distributions of injury locations and injury types 
+per sport are presented in online supplemental appendixes 2, 3, 
+respectively.
+Causes, mechanisms and onset of injury
+While 77% (n=793) of the injuries occurred acutely, 12% 
+(n=121) and 10% (n=101) were chronic or recurrent, respec-
+tively (information missing for 20 injuries). In terms of aetiology, 
+the most commonly reported injury mechanisms were contact 
+with another athlete (26%), non-
+ contact trauma (20%), overuse 
+with sudden onset (14%) and overuse with gradual onset (12%); 
+details 
+for each sport are available in online supplemental 
+appendix 4.
+Fifty-
+ eight per cent of the injuries were sustained in competi
+-
+tion, 34% during training and 7% during warm up or cool down 
+(information missing for 11 injuries; details for each sport are 
+presented in online supplemental appendix 1).
+Illnesses overall, by sex, sport and severity
+A total of 438 illnesses were reported, resulting in 3.9 illnesses 
+(95%
+ CI 3.5 to 4.2) per 100 athletes. This corresponds 
+to 2.3 
+illnesses per 1000 athlete-
+ days. On average, 
+4% (n=420) of the 
+athletes incurred an illness, as 16 athletes incurred two illnesses 
+and one athlete reported three illnesses. When controlling for 
+sport, age and NOC size, women (4.6 illnesses (95% CI 4.0 to 
+5.1) per 100 athletes) were at significantly greater risk of expe-
+riencing an illness than men (3.2 (2.8 to 3.7), RR=1.51 (1.25 to 
+1.82), online supplemental appendix 1).
+Figure
+ 2
+ shows the incidence proportion of illness in each 
+sport (additional details are available in online supplemental 
+appendix 1). Marathon swimming had the highest illness inci-
+dence (7.8 illnesses (95%
+ CI 0.2 to 15.5) per 100 athletes), 
+followed by artistic swimming 
+(7.7 (2.4 to 13.0)), skateboarding 
+(7.4 (1.5 to 13.3)), and karate (7.4 (1.5 to 13.3)). Conversely, no 
+Table 1 Response rates , injuries and illnesses in National Olympic Committees of different sizes (measured by number of athletes)
+<10 10–49 50–99 >99 All
+Number of NOCs (athletes) 98 (457) 56 (1454) 20 (1438) 32 (7961) 206 (11 315)*
+Injuries (per 100 athletes) 45 (9.8) 191 (13.1) 178 (12.4) 607 (7.6) 1035 (9.1)†
+Illnesses (per 100 athletes) 39 (8.5) 93 (6.3) 56 (3.8) 250 (3.1) 438 (3.9)
+Daily reports submitted (%) 114 (7%) 883 (93%) 333 (98%) 536 (99%) 1866 (53%)
+Recorded by both NOC and OCOG
+ 
+ 
+Injuries (%) 0 (0%) 25 (13%) 28 (16%) 77 (13%) 134 (13%)
+ 
+ 
+Illnesses (%) 0 (0%) 6 (7%) 5 (9%) 7 (3%) 18 (4%)
+Recorded only by NOC
+ 
+ 
+Injuries (%) 1 (2%) 60 (31%) 70 (39%) 271 (45%) 404 (39%)
+ 
+ 
+Illnesses (%) 1 (3%) 23 (25%) 25 (45%) 128 (51%) 177 (40%)
+Recorded only by OCOG
+ 
+ 
+Injuries (%) 44 (98%) 106 (56%) 80 (45%) 259 (43%) 497 (48%)
+ 
+ 
+Illnesses (%) 38 (97%) 64 (69%) 26 (46%) 115 (46%) 243 (56%)
+*Ten double-
+ starters excluded.
+†NOC size missing for 14 injuries
+.
+NOC, National Olympic Committee; OCOG, Organising Committee of the Olympic and Paralympic Games.
+ on December 22, 2022 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2022-106155 on 13 December 2022. Downloaded from 
+49
+Soligard T, et al. Br J Sports Med 2023;57:46–54. doi:10.1136/bjsports-2022-106155
+Original research
+illnesses occurred in 3×3 basketball, mountain bike cycling and 
+modern pentathlon.
+One in five illnesses (n=80, 18%) were expected to result 
+in absence from training or competition. In artistic swimming, 
+five out of the eight illnesses were estimated to entail >7
+ days 
+of 
+absence (online supplemental appendix 1).
+Affected system, aetiology of illness and COVID-19
+The most affected organ systems/regions were the dermato-
+logic (n=83, 19%), thermoregulatory (n=78, 18%), respiratory 
+(n=75, 17%) and gastrointestinal (n=63, 14%) systems.
+Of the 75 respiratory illnesses, 45 were caused by infection 
+(10% of all illnesses, 0.4% of the athletes incurred a respiratory 
+infection), of which 18, in turn, were SARS-
+ CoV
+-
+ 2 infections 
+(4% of all 
+illnesses, 0.16% of the athletes). In addition to the 
+cases occurring during the study period (23 July to 8 August 
+2021), 15 confirmed cases occurred before the Games started 
+(ie, from arrival at the airport until the Opening Ceremony of 
+the Games), giving a total of 33 cases of COVID-
+ 19 in athletes 
+(0.29% of the athletes).
+W
+ith respect to the thermoregulatory illnesses, all reported 
+cases (n=78, 18% of all illnesses, affecting 0.7% of all athletes 
+Figure 1 Proportions of athletes (%) in each sport with injury,  injury with estimated time loss ≥1 day and injury with estimated time loss >7 days.
+ on December 22, 2022 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2022-106155 on 13 December 2022. Downloaded from 
+50
+Soligard T, et al. Br J Sports Med 2023;57:46–54. doi:10.1136/bjsports-2022-106155
+Original research
+across all sports) were exercise-  induced heat illnesses; the 
+majority resulting in no time loss from sport (n=69, 88%). Nine 
+cases were estimated to lead to time loss from sport: seven (9% 
+of all heat illnesses) entailing 1
+ day of absence 
+and two (3% of all 
+heat illnesses) entailing 3
+ days of absence.
+The distribution of affected 
+systems, main symptoms and aeti-
+ology of illness per sport are presented in online appendices 5, 6 
+and 7, respectively.
+Data sources, and injuries and illnesses per NOC size
+Only 13% of all injuries and 4% of all illnesses were captured 
+by both the NOCs and the T okyo 2020 staff. While 39% of the 
+injuries and 40% of the illnesses were recorded solely by the 
+NOCs, 48% and 56% of the injuries and illnesses, respectively, 
+were recorded solely by the T okyo 2020 staff (table
+ 
+1).
+The incidence of injury and illness tended to be lowest for 
+NOCs with >99 athletes, and when adjusting for sport, sex and 
+age, there was an inverse relationship between NOC size and 
+the incidence of illness, with athletes from smaller NOCs having 
+more illnesses (NOCs with <10 athletes: 8.5 (95% CI 5.9 to 
+11.2) illnesses per 100 athletes versus NOCs with >99 athletes: 
+3.1 (2.8 to 3.5) illnesses per 100 athletes (RR=2.97 (2.12 to 
+4.18)).
+DISCUSSION
+Injuries in existing and new Olympic sports
+The aim of this paper was to describe the athlete injuries and 
+illnesses which occurred during the T okyo 2020 Olympic Games. 
+The incidence of injury in the T okyo Olympics (9%) was compa-
+rable to those in the Summer Games of Beijing 2008 (10%), 11 
+London 2012 (11%)9 and Rio 2016 (8%).7
+Comparison of each sport in T okyo 2020 with those in Rio 
+2016 showed that the incidences of injury in T okyo were higher 
+in table tennis (12% vs 3% of the athletes injured), but lower in 
+diving (1% vs 9%), water polo (11% vs 19%), mountain biking 
+(7% vs 24%), road cycling (2% vs 6%), football (8% vs 15%) 
+and tennis (4% vs 11%).
+Many of the new sports and disciplines on the Olympic 
+programme had a high incidences of injury. Of all the sports 
+in T okyo, BMX freestyle had the third highest injury incidence 
+(22% of the athletes injured), skateboarding the fourth highest 
+(21%) and karate the fifth highest (19%). Sport climbing (15%), 
+surfing (13%), 3×3 basketball (11%), and baseball/softball (8%) 
+were around the middle third for injury incidences. BMX free-
+style, karate, sport climbing and 3×3 basketball were tested 
+4
+ years earlier during the Buenos Aires 2018 Y
+outh Olympic 
+Games. There, the incidence proportions were 13% in karate, 
+2% in sport climbing and 18% in 3×3 basketball (data unavail -
+able for BMX freestyle).25
+A change in the incidence of injury can result from a multi-
+tude of factors, including, but not limited to, changes in the 
+composition of the Olympic Games programme, environmental 
+and weather conditions, venue or track design, competition 
+rules, equipment, awareness and adherence to injury prevention 
+training, injury and illness recording methods, and in the skill 
+level and adherence of the medical staff recording the data. 26 27 
+This emphasises the importance of ongoing, longitudinal moni-
+toring of injuries and illnesses as such variables might change 
+over time.
+COVID-19 in the Games
+The T okyo Olympic Games were postponed by 1  year due to 
+the outbreak of the global COVID-
+ 19 pandemic 
+in early 2020. 
+By spring 2021, based on comprehensive collaboration between 
+T okyo 2020, the IOC, International Paralympic Committee 
+(IPC), Government of Japan, T okyo Metropolitan Government, 
+a designated task force of scientific experts and organisations 
+from across the world, the T okyo Olympic Games playbooks 
+were developed and implemented. 28 These COVID-  19 miti -
+gation policies and regulations outlined the responsibilities of 
+all Games participants starting 14 days before travelling to the 
+Games, when entering Japan, at the Games and when leaving 
+Japan. Key public health principles included mandated mask 
+wearing; minimisation of physical interaction; testing, tracing 
+and isolating; and enhanced personal hygiene (hand washing). 
+Athletes from all participating NOCs were also offered vaccine 
+doses ahead of the Games, with a vaccination rate of 85% 
+among Olympic Village residents. 29 For testing, participants 
+were required to provide proof of two negative PCR tests before 
+departing for T okyo, another negative test on arrival and then 
+daily screening tests throughout the Games. The goals of these 
+COVID-
+ 19 countermeasures 
+were to ensure both the successful 
+running of the Games and the safety and health of Games partic-
+ipants and of the people of Japan.
+The effectiveness of the countermeasures is reflected in our 
+results. The overall incidence of illness (3.9 illnesses per 100 
+athletes) was the lowest we have recorded in the Games; lower 
+than in PyeongChang 2018 (9.4),6 Rio 2016 (5.4),7 Sochi 2014 
+(8.9),8 London 2012 (7.2) 9 and Vancouver 2010 (7.2). 10 This 
+effect was induced primarily by a substantial reduction in respi-
+ratory infections (0.4% of the athletes incurred a respiratory 
+infection) compared with all previous Games (4.8% in Pyeong -
+Chang, 1.9% in Rio, 4.2% in Sochi, 1.9% in London, 1.1% in 
+Vancouver). Importantly, only a small fraction of the participating 
+Box 1 Information on the 205 injuries with estimated 
+absence >7
+ days
+, with the sports with the highest numbers 
+in brackets.
+ ⇒ 43 muscle strains grade 1 or 2 (25 in athletics, 2 each in 
+rugby, weightlifting, fencing and tennis).
+ ⇒ 33 ligament sprains grade 1 or 2 (7 in judo, 6 in wrestling, 3 
+in football, 2 each in indoor volleyball and athletics).
+ ⇒ 20 acute fractures (5 in boxing, 3 in rugby, 2 in taekwondo, 2 
+in track cycling).
+ ⇒ 17 joint dislocations/subluxations (5 in handball, 3 in rugby, 
+2 in judo).
+ ⇒ 13 bone contusions (3 in boxing, 2 each in judo and 
+taekwondo).
+ ⇒ 12 muscle ruptures grade 3 (5 in athletics, 3 in football).
+ ⇒ 11 lesions of meniscus or cartilage (2 in fencing).
+ ⇒ 10 ligament ruptures grade 3 (2 each in judo, rugby and team 
+handball).
+ ⇒ 7 stress fractures/reactions (5 in athletics).
+ ⇒ 6 skin lesions/lacerations (3 in boxing, 2 in athletics).
+ ⇒ 6 concussions (2 in hockey).
+ ⇒ 5 tendon ruptures grade 3 (3 in athletics).
+ ⇒ 5 tendinopathies (3 in athletics).
+ ⇒ 4 tendon sprains grade 1 or 2 (2 in athletics).
+ ⇒ 4 joint synovitis/arthritis/bursitis.
+ ⇒ 3 muscle contusions/haematoma.
+ ⇒ 1 fasciitis/aponeurosis injury.
+ ⇒ 1 joint impingement.
+Details missing for four injuries.
+ on December 22, 2022 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2022-106155 on 13 December 2022. Downloaded from 
+51
+Soligard T, et al. Br J Sports Med 2023;57:46–54. doi:10.1136/bjsports-2022-106155
+Original research
+athletes contracted COVID-  19 (0.16% of the athletes, 0.29% 
+of the athletes if including cases reported before the Opening 
+Ceremony 
+of the Games), of which all cases were imported as 
+athletes arrived in Japan, with no spread to the local popula-
+tion.30 While contracting COVID-  19 was potentially devas-
+tating for some of the athletes in question as the required time 
+in isolation prevented their possible lifetime Olympic participa-
+tion, the small number of COVID-
+ 19 positive tests was 
+a result 
+of the concerted countermeasures by all stakeholders involved, 
+allowing the successful running of the Games.
+Exertional heat illnesses during the Games
+During the Olympic Games, T okyo experienced high ambient 
+temperatures (>30°C) and relative humidity (>70%),31 limiting 
+both the convective and evaporative capacity of the athletes to 
+dissipate heat. It has been shown that intense and prolonged exer-
+cise under such conditions can lead some athletes to reach core 
+body temperatures exceeding 40°C. 32 Educational material on 
+heat acclimatisation—one of the most effective countermeasures 
+to protect the athlete’s health and performance before competing 
+Figure 2 Proportions of athletes (%) in each sport with illness , illness with estimated time loss ≥1 day and illness with estimated time loss >7 
+days. Cases of COVID-
+ 19 are counted as >7 days of estimated absence
+.
+ on December 22, 2022 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2022-106155 on 13 December 2022. Downloaded from 
+52
+Soligard T, et al. Br J Sports Med 2023;57:46–54. doi:10.1136/bjsports-2022-106155
+Original research
+in a hot environment33—was developed and widely circulated to 
+the athletes to aid their preparation for the Games. 34 T raining 
+in the heat for about 2
+ weeks triggers physiological adaptations 
+allowing 
+for better thermoregulation, reducing the cardiovas-
+cular stress and increasing the exercise capacity in the heat. 35 
+Before the Games, two events (marathon and race walking) 
+were relocated 800
+ km north to Sapporo, which is normally 
+4–5°C
+ cooler 
+than T okyo. However, during Games time, it was 
+equally hot and humid there.31 Other events were rescheduled to 
+cooler mornings or evenings (eg, women’s football final). There 
+were also a range of important venue heat mitigation strat-
+egies in place before, during and after competition, including 
+the provision of hydration, shading, air conditioning, fans, ice 
+packs, mist sprays and precooling and recovery ice baths. For 
+medical management, specific medical algorithms were devel-
+oped for high heat stress venues with the goal of early recogni-
+tion and diagnosis, rapid on-
+ site 
+cooling and advanced clinical 
+care.36 Although we nonetheless recorded 78 cases of exertional 
+heat illness in the Games—including diagnoses of heat stroke, 
+exhaustion, syncope and heat-
+ related muscle cramps—the miti
+-
+gation measures probably played a crucial role in reducing their 
+severity, with the majority (88%) being mild with no estimated 
+time loss from sport.
+Limitations
+Our methodology closely followed the 2020 IOC consensus 
+statement on the recording and reporting of sport injuries and 
+illnesses,24 but there were some differences in the taxonomy of 
+data variables (such as for injury types and illness organ systems). 
+By the time the 2020 IOC consensus was published, our study 
+preparations were too far advanced (including electronic medical 
+record software development, system documentation, transla-
+tions to other languages and medical staff training) to economi-
+cally justify additional changes.
+In studies on sports injury, it is usually recommended that 
+incidences are expressed using a measure of time exposed to 
+risk as the denominator.24 37 However, considering the inherent 
+complexity and size of the Olympic Games, this was not feasible 
+in this study. Instead, we expressed the injuries or illnesses as 
+the number of new cases per 100 exposed athletes (incidence 
+proportion). This approach erroneously assumes that the 
+frequencies and lengths of exposure are identical in all sports 
+and that the number of athletes at risk in each NOC is constant 
+throughout the Games, resulting in an overestimation of expo-
+sure and an accompanying underestimation of the incidence 
+of injury and illness. This effect was probably compounded by 
+one of the T okyo 2020 COVID-
+ 19 countermeasures mandating 
+athletes to arrive late 
+and/or leave early. Interpretation of differ-
+ences in incidences or patterns of injury, and comparisons with 
+other studies must therefore be made with caution.
+In the current study we included new or recurring injuries or 
+illnesses receiving medical attention. By using this definition, 
+gradual onset and less serious health problems might be over -
+looked, since they do not always require medical attention,24 38–40 
+although our results show that the majority of reported injuries 
+and illnesses were estimated not to entail any time loss.
+Unless more precise clinical data were available, we set the 
+estimated days of absence from sport for confirmed COVID-
+ 19 
+cases to 10 days, based on 
+the average isolation time in place 
+during the Games. In cases where symptoms fully resolved either 
+before or after the 10 days had passed this would either overesti-
+mate or underestimate, respectively, the reported severity.
+We asked both the NOC and the T okyo 2020 medical 
+personnel to record all injuries and illnesses for all athletes seen; 
+however, only 13% of the injuries and a mere 4% of the illnesses 
+were captured by both, underlining the importance of recording 
+data from both groups. As it is possible that some cases were 
+captured neither by the NOCs nor the T okyo medical staff, our 
+results probably underestimate the true incidence of injuries and 
+illnesses.
+Clinical implications
+We have presented the proportions of injury and illness inci-
+dence (figures
+ 
+1 and 2; Online supplemental appendix 1), as well 
+as the detailed clinical information (injury and illness types, loca-
+tions, aetiology, etc; online supplemental appendixes 2–7) for 
+all the sports in the T okyo 2020 Olympics. Our results can help 
+both team athlete medical staff and event organisers plan and 
+optimise their healthcare provision, and, more importantly, their 
+prevention measures according to the diagnoses and risk profile 
+of their athlete populations. For example, based on these results, 
+a BMX cyclist’s need for medical care and prevention measures 
+is different from that of a marathon swimmer, demonstrated 
+by their distinct injury and illness profiles (frequencies, clinical 
+presentations, degrees of severity, etc). Importantly, the inter -
+national federations governing the sports with high incidences 
+of injury and illness, including the sports new to the Olympic 
+programme, must use these data with an aim of reducing the risk 
+in future events.
+It is evident that the COVID-
+ 19 pandemic and the hot and 
+humid environment 
+each in their own way presented consid-
+erable challenges for the athletes, support staff and the overall 
+organisation of the Games. Our results indicate that both 
+factors were substantially mitigated through the comprehen-
+sive countermeasures developed for the Games. The success 
+of these mitigation programmes speaks to the potency of all 
+relevant stakeholders (ie, event organisers, governments, scien-
+tific experts and organisations, athletes and their entourage) 
+coming together through deliberate collaboration and plan-
+ning, providing a legacy strategy for future events. However, 
+preventing a problem is better than solving it. While little could 
+have been done to prevent the COVID-
+ 19 pandemic, it would 
+be 
+beneficial for the athletes, organising committee and all other 
+stakeholders if future Summer Olympic Games could be held in 
+cooler environments better suited for intense physical exertion. 
+This will reduce the need for resources to implement exertional 
+heat illness countermeasures (from both event organisers and the 
+athletes) and maximise the athletes’ chances of safely reaching 
+their peak performance.
+CONCLUSION
+In summary, 9% of the athletes were injured and 4% ill during 
+the T okyo 2020 Summer Olympic Games. While the incidence 
+of injury was similar to that of previous Games, the incidence of 
+illness was lower. This might largely be attributed to the exten-
+sive countermeasures in put place to mitigate COVID-
+ 19, effec
+-
+tively reducing transmission of COVID-
+ 19 and 
+all respiratory 
+infections. Heat and humidity posed a challenge to athletes, 
+support teams and organisers, but exertional heat illnesses were 
+mitigated through a host of cooling and hydration strategies. 
+Some of the new sports on the Olympic programme had high 
+incidences of injury. Our results can inform both the planning 
+of future Olympic Games and similar events, the provision of 
+healthcare for athletes in such events, as well as further research 
+ on December 22, 2022 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2022-106155 on 13 December 2022. Downloaded from 
+53
+Soligard T, et al. Br J Sports Med 2023;57:46–54. doi:10.1136/bjsports-2022-106155
+Original research
+on understanding why the most frequent injuries and illnesses 
+occur, and how to prevent them in the future.
+Author affiliations
+1Medical and Scientific Department, International Olympic Committee, Lausanne, 
+Switzerland
+2Edinburgh Sports Medicine Research Network, University of Edinburgh Institute for 
+Sport Physical Education and Health Sciences, Edinburgh, UK
+3Division of Rheumatology, Orthopaedics and Dermatology, School of Medicine, 
+University of Nottingham, Nottingham, UK
+4Department of Sports Medicine, Norwegian School of Sport Sciences, Oslo Sports 
+Trauma Research Center, Oslo, Norway
+5Department of Physical Therapy, Movement and Rehabilitation Sciences, 
+Northeastern University, Boston, Massachusetts, USA
+6Moscow, Russian Federation
+7Department of Physical Medicine and Rehabilitation, Department of Orthopaedic 
+Surgery, University of Pittsburgh, Pittsburgh, Pennsylvania, USA
+8Department of Orthopaedic Surgery, Yaesekai Doujin Hospital, Okinawa, Japan
+9Institute of Sport and Health, University College Dublin, Dublin, Ireland
+10Department of Family Medicine, McMaster University, Hamilton, Ontario, Canada
+Twitter Debbie Palmer @DebbiePalmerOLY , Margo Mountjoy @margomountjoy and 
+Lars Engebretsen @larsengebretsen
+Acknowledgements
+ T
+he authors would like to acknowledge the contribution and 
+support of the Tokyo 2020 and GE Healthcare staff throughout the different stages 
+of this study. The authors also sincerely thank the National Olympic Committee 
+medical staff who contributed to the data collection: Dr. Ferrial Chouiter (ALG), Dr. 
+Manuela Veloso (ANG), Dr. Carina Estela Rua (ARG), Dr. Carlos Eduardo Marino 
+(ARG), Dr. Estanislao Salas (ARG), Dr. Fernando Locaso (ARG), Dr. Juan Jose Dere 
+(ARG), Dr. Nestor Lentini (ARG), Dr. Davit Mosinyan (ARM), Dr. Caroline O’Brien 
+(AUS), Dr. David Hughes (AUS), Dr. John Azoury (AUS), Dr. Ruth Fazakerley (AUS), 
+Dr. Joachim Westermeier (AUT), Dr. Zaur Abdullayev (AZE), Dr. Carl Ward (BAR), Dr. 
+Johan Bellemans (BEL), Dr. Iryna Maliovanaya (BLR), Dr. Kagiso Tlhabano-
+ David 
+(BO
+T), Dr. Mmoloki Maswabi (BOT), Dr. Sithabile Machao (BOT), Dr. Ana Carolina 
+Ramos E Corte (BRA), Dr. André Pedrinelli (BRA), Dr. Breno Schor (BRA), Dr. Felipe 
+Hardt (BRA), Dr. Marco Michelucci (BRA), Dr. Ronaldo Aguiar (BRA), Dr. Tathiana 
+Parmigiano (BRA), Dr. Khaled Ali (BRN), Dr. Ivan Ivanov (BUL), Dr. Jessica Curran 
+(CAN), Dr. Michael Koehle (CAN), Dr. Mike Wilkinson (CAN), Dr. Prasad Navin (CAN), 
+Dr. Sari Kraft (CAN), Dr. Susan Labrecque (CAN), Dr. Teresa Defreitas (CAN), Dr. 
+Prudent Madjidanem (CHA), Dr. Diego Amenabar (CHI), Dr. Ignacio Solar (CHI), Dr. 
+Jing Li (CHN), Dr. Lawrence Teariki Puni (COK), Dr. César Mauricio Ruiz Padilla (COL), 
+Dr. Jorge Andres Perez Sandoval (COL), Dr. Juan Diego Parraga (COL), Dr. Mauricio 
+Serrato (COL), Dr. Ruvy Rodriguez (COL), Dr. Gustavo Adolfo Castillo Quirós (CRC), 
+Dr. Dinko Pivalica (CRO), Dr. Castillo Diaz Pablo (CUB), Dr. Karolina Velebova (CZE), 
+Dr. Christoffer Brushøj (DEN), Dr. Laura Pinedo Carrasco (DOM), Dr. Sánchez Lisette 
+(DOM), Dr. Pablo Sarmiento (ECU), Dr. Yasser Hosny Abdelrahman (EGY), Dr. Sameh 
+Salem (EGY), Dr. Carlo Bagutti (EOR), Dr. Jenna Muellauer (EOR), Dr. Medhanie 
+Ytbarek (ERI), Dr. Tesfaselassie Eyob Gebreamlak (ERI), Dr. Carmen Vaz (ESP), Dr. 
+Gonzalez Santander Manuela (ESP), Dr. Juan F Abellan (ESP), Dr. Manuela Gonzalez 
+Santander (ESP), Dr. Mariana Morales (ESP), Dr. Rafael Arriaza (ESP), Dr. Urena 
+Rosario (ESP), Dr. Mihkel Mardna (EST), Dr. Hiwot Mengistu (ETH), Dr. Kalkidan 
+Zegeye Hailemariam (ETH), Dr. Jone Bakabaka Nasome (FIJ), Dr. Maarit Valtonen 
+(FIN), Dr. Philippe Le Van (FRA), Dr. Niall Elliott (GBR), Dr. Zurab Kakhabrishvili 
+(GEO), Dr. Bernd Wolfarth (GER), Dr. Casper Grim (GER), Dr. Christine Kopp (GER), Dr. 
+Manfred Giensch (GER), Dr. Wolfgang Herb (GER), Dr. Jonathan Quartey (GHA), Dr. 
+Julia Derban (GHA), Dr. Odysseas Paxinos (GRE), Dr. Julio Motta-
+ P
+ensabene (GUA), 
+Dr. Julian Wai Chang (HKG), Dr. Jozsef Toman (HUN), Dr. Carmen Shiran Yunita Jahja 
+(INA), Dr. Kumar Bhowmik (IND), Dr. Gholamreza Norouzi (IRI), Dr. Reza Saeedi 
+(IRI), Dr. Seyed Ashkan Ordibehesht (IRI), Dr. Anthony Clove (IRL), Dr. Frank O’ Leary 
+(IRL), Dr. George Fuller (IRL), Dr. James O’Donovan (IRL), Dr. Louise O’Connell (IRL), 
+Dr. Stuart O’Flanagan (IRL), Dr. Lubov Galitskaya (ISR), Dr. Flavia Santoboni (ITA), 
+Dr. Lincoln A. Cox (JAM), Dr. Khalid Al Mahd (JOR), Dr. Akiko Uchda (JPN), Dr. Akira 
+Ikumi (JPN), Dr. Hideki Takeda (JPN), Dr. Hiroshi Kamada (JPN), Dr. Kohei Nakajima 
+(JPN), Dr. Kohjiroh Imoto (JPN), Dr. Marie Iwamatsu (JPN), Dr. Michiko Dohi (JPN), 
+Dr. Mika Hangai (JPN), Dr. Mikihiko Hattori (JPN), Dr. Nami Yamaguchi (JPN), Dr. 
+Nobukazu Okimoto (JPN), Dr. Satoshi Iwao (JPN), Dr. Sayaka Motojima (JPN), Dr. 
+Takashi Tsukahara (JPN), Dr. Takefumi Sakaguchi (JPN), Dr. Takeshi Kamitani (JPN), 
+Dr. Tomofumi Nishino (JPN), Dr. Tomohiko Tateishi (JPN), Dr. Tomohiro Manabe (JPN), 
+Dr. Azamat Nurmatov (KAZ), Dr. Carole Okuth (KEN), Dr. Sarah Karongo (KEN), 
+Dr. Sospeter Kinuthia Kori (KEN), Dr. Chul-
+ W
+on Ha (KOR), Dr. Sejun Kim (KOR), 
+Dr. Saleh Alharthi (KSA), Dr. Fatema Hayat (KUW), Dr. Liga Cirule (LAT), Dr. Dalius 
+Barkauskas (LTU), Dr. Christian Nührenbörger (LUX), Dr. Amine Dorhmi (MAR), Dr. 
+Ismail Bouzekraoui Alaoui (MAR), Dr. Kamarul Hashimy Hussein (MAS), Dr. Maia 
+Toncoglaz (MDA), Dr. Toncoglaz Maia (MDA), Dr. Viridiana Deyanira Silva Quiroz 
+(MEX), Dr. Ganzolboo Buyantogtokh (MGL), Dr. Kirill Micallef Stafrace (MLT), Dr. 
+Predrag Dabovic (MNE), Dr. Maarten Moen (NED), Dr. Gabriel Olanrewaju Oyegunna 
+(NGR), Dr. Paul Onyeudo (NGR), Dr. Thomas Torgalsen (NOR), Dr. Bruce Hamilton 
+(NZL), Dr. Alex Almengor (PAN), Dr. Grerys Soto (PAN), Dr. Miguel Arce Paredes (PER), 
+Dr. Randolph Molo (PHI), Dr. Luis Cruz (PLW), Dr. Kapua Kapua (PNG), Dr. Matthew 
+Natusch (PNG), Dr. Hubert Krysztofiak (POL), Dr. Krzesimir Sieczych (POL), Dr. Jose 
+Pereira (POR), Dr. Quintas Filipe (POR), Dr. Fernando Luis Sepulveda Irizarry (PUR), 
+Dr. Luis Baerga (PUR), Dr. Rebecca Rodriguez Negron (PUR), Dr. El Sanfaz Laith Anis 
+(QAT), Dr. Laith Anis ElSanfaz (QAT), Dr. Andrey Zholinskii (ROC), Dr. Maxim Velichko 
+(ROC), Dr. Vasile Osean (ROU), Dr. Craig Thompson (RSA), Dr. Danielle Lincoln (RSA), 
+Dr. Gavin Shang (RSA), Dr. Livhuhani Crosby Mulungwa (RSA), Dr. Phathokuhle Zondi 
+(RSA), Dr. Tshegofatso Gaetsewe (RSA), Dr. Sibomana Rusika Emmanuel (RWA), Dr. 
+Martin Rodríguez Barrios (SEY), Dr. Chin Sim Teoh (SGP), Dr. Matjaz Vogrin (SLO), 
+Dr. Goran Vasic (SRB), Dr. Nikola Čikiriz (SRB), Dr. Himan De Silva Himan De Silva 
+(SRI), Dr. Priyanka Perera Prageeth (SRI), Dr. Daniel Wegmann (SUI), Dr. Patrik Noack 
+(SUI), Dr. Daniel Knaze Dolezalova (SVK), Dr. Roman Fano (SVK), Dr. Per Andersson 
+(SWE), Dr. Numchai Rattanapongbundit (THA), Dr. Paisal Chantarapitak (THA), Dr. 
+Siripoj Sribunditkul (THA), Dr. Yinchou Lin (TPE), Dr. Nailah Adams (TTO), Dr. Dorsaf 
+Metani (TUN), Dr. Ahmet Mustafa Ada (TUR), Dr. Abdulla Alrahoomi (UAE), Dr. Nana 
+Jacqueline Nakiddu (UGA), Dr. Igor Olexenko (UKR), Dr. Daniel Zarrillo (URU), Dr. 
+Alan Shahtaji (USA), Dr. Alexandra Myers (USA), Dr. Amber Donaldson (USA), Dr. Ariel 
+Nassim (USA), Dr. Cathy Arnot (USA), Dr. Christina Yannetsos (USA), Dr. Commander 
+Cody (USA), Dr. Daryl Osbahr (USA), Dr. David Kruse (USA), Dr. David Taylor (USA), 
+Dr. David Weinstein (USA), Dr. Dionne Calhoun (USA), Dr. Elmo Agatep (USA), Dr. 
+Jennifer Carrol (USA), Dr. Jill Stutts (USA), Dr. John Fierro (USA), Dr. Jonathan Finnoff 
+(USA), Dr. Jonathan Fow (USA), Dr. Kara Michelle Kessans (USA), Dr. Kevin Kotsko 
+(USA), Dr. Marcia Faustin (USA), Dr. Mark Hutchinson (USA), Dr. Matthew Collins 
+(USA), Dr. Michele Latimer (USA), Dr. Mindy Siegel (USA), Dr. Monica Rho (USA), 
+Dr. Naresh Rao (USA), Dr. O. Josh Bloom (USA), Dr. Shelby Hoppis (USA), Dr. Susan 
+Bromley (USA), Dr. Talena Williams (USA), Dr. Thomas Mick (USA), Dr. Warren Flautt 
+(USA), Dr. Zachary Dicristino (USA), Dr. Azamjon Soliev (UZB), Dr. Manuel Alberto 
+Figueiras Olazabal (VEN), Dr. Ninoska Clocier (VEN), Dr. Van Phu Nguyen (VIE), Dr. 
+Titus Suranga Fernando Waduruwalage (ZAM), Dr. Abigail Mnikwa (ZIM).
+Contributors
+ All authors contributed to the study conception and design,
+ data 
+collection and interpretation. TSo analysed the data and drafted the paper. All 
+authors provided revisions and contributed to the final manuscript. TSo is the 
+guarantor.
+Funding
+ T
+he International Olympic Committee funded the data collection of the 
+study.
+Competing interests
+ TSo works as scientific manager in the Medical and 
+Scientific Department of the International Olympic Committee
+. KS is co-
+ editor of the 
+British Journal of Sports Medicine – Injury Prevention & Health Protection
+. MM is 
+deputy editor of the British Journal of Sports Medicine. RB is director of the Medical 
+and Scientific Department of the International Olympic Committee. LE is head of 
+scientific activities in the Medical and Scientific Department of the International 
+Olympic Committee, and editor of the British Journal of Sports Medicine and 
+associate editor of the Journal of Bone and Joint Surgery.
+Patient and public involvement
+ P
+atients and/or the public were involved in the 
+design, or conduct, or reporting, or dissemination plans of this research. Refer to the 
+Methods section for further details.
+Patient consent for publication
+ Not applicable
+.
+Ethics approval
+ T
+his study involves human participants but the study was 
+reviewed (and exempted, based on being regarded as an audit) by the Medical 
+Research Ethics Committee of the South-
+ Eastern Norw
+ay Regional Health Authority 
+(2011/388). All data are deidentified. Participants were informed about the study 
+through two information notices delivered when they applied for their Olympic 
+Games accreditation and when seeking treatment in the medical stations in the 
+Games.
+Provenance and peer review
+ Not commissioned;
+ externally peer reviewed.
+Data availability statement
+ No data are av
+ailable.
+Supplemental material
+ T
+his content has been supplied by the author(s). 
+It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not 
+have been peer-
+ reviewed.
+ Any opinions or recommendations discussed are 
+solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all 
+liability and responsibility arising from any reliance placed on the content. 
+Where the content includes any translated material, BMJ does not warrant the 
+accuracy and reliability of the translations (including but not limited to local 
+regulations, clinical guidelines, terminology, drug names and drug dosages), and 
+is not responsible for any error and/or omissions arising from translation and 
+adaptation or otherwise.
+This article is made freely available for personal use in accordance with BMJ’s 
+website terms and conditions for the duration of the covid-
+ 19 pandemic or until 
+otherwise determined by BMJ
+. You may download and print the article for any lawful, 
+non-
+ commercial purpose (including text and data mining) provided that all copyright 
+notices and tr
+ade marks are retained.
+ on December 22, 2022 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2022-106155 on 13 December 2022. Downloaded from 
+54
+Soligard T, et al. Br J Sports Med 2023;57:46–54. doi:10.1136/bjsports-2022-106155
+Original research
+ORCID iDs
+Torbjørn Soligard http://orcid.org/0000-0001-8863-4574
+Debbie Palmer http://orcid.org/0000-0002-4676-217X
+Kathrin Steffen http://orcid.org/0000-0002-6238-608X
+Margo Mountjoy http://orcid.org/0000-0001-8604-2014
+Lars Engebretsen http://orcid.org/0000-0003-2294-921X
+REFERENCES
+ 1  Soligard T, Schwellnus M, Alonso J-  M,  et al. How much is too much? (Part 1) 
+International Olympic Committee consensus statement on load in sport and risk of 
+injury. Br J Sports Med 2016;50:1030–41.
+ 2
+ Gar
+atachea N, Santos-
+ Lozano 
+A, Sanchis-
+ Gomar F
+, et al. Elite athletes live longer than 
+the general population: a meta-
+ analysis
+. Mayo Clin Proc 2014;89:1195–200.
+ 3
+ Lemez S
+, Baker J. Do elite athletes live longer? A systematic review of mortality and 
+longevity in elite athletes. Sports Med Open 2015;1:16.
+ 4
+ Antero J
+, Tanaka H, De Larochelambert Q, et al. Female and male US Olympic athletes 
+live 5 years longer than their general population counterparts: a study of 8124 former 
+US Olympians. Br J Sports Med 2021;55:206–12.
+ 5
+ K
+ettunen JA, Kujala UM, Kaprio J, et al. All-
+ cause and disease-
+ specific mortality 
+among male
+, former elite athletes: an average 50-
+ year follow-
+ up
+. Br J Sports Med 
+2015;49:893–7.
+ 6
+ Soligard 
+T, Palmer D, Steffen K, et al. Sports injury and illness incidence in the 
+PyeongChang 2018 Olympic Winter Games: a prospective study of 2914 athletes 
+from 92 countries. Br J Sports Med 2019;53:1085–92.
+ 7
+ Soligard 
+T, Steffen K, Palmer D, et al. Sports injury and illness incidence in the Rio de 
+Janeiro 2016 Olympic Summer Games: a prospective study of 11274 athletes from 
+207 countries. Br J Sports Med 2017;51:1265–71.
+ 8
+ Soligard 
+T, Steffen K, Palmer-
+ Green D
+, et al. Sports injuries and illnesses in the Sochi 
+2014 Olympic Winter Games. Br J Sports Med 2015;49:441–7.
+ 9
+ Engebretsen L,
+ Soligard T, Steffen K, et al. Sports injuries and illnesses during the 
+London Summer Olympic Games 2012. Br J Sports Med 2013;47:407–14.
+ 10
+ Engebretsen L,
+ Steffen K, Alonso JM, et al. Sports injuries and illnesses during the 
+Winter Olympic Games 2010. Br J Sports Med 2010;44:772–80.
+ 11
+ Junge 
+A, Engebretsen L, Mountjoy ML, et al. Sports injuries during the Summer 
+Olympic Games 2008. Am J Sports Med 2009;37:2165–72.
+ 12
+ Cooper DJ
+, Batt ME, O’Hanlon MS, et al. A cross-
+ sectional study of retired great British 
+Olympians (Berlin 1936-
+ Sochi 2014):
+ Olympic career injuries, joint health in later life, 
+and reasons for retirement from Olympic sport. Sports Med Open 2021;7:54.
+ 13
+ P
+almer D, Cooper DJ, Emery C, et al. Self-
+ reported sports injuries and later
+-
+ life health 
+status in 3357 retired Olympians from 131 countries:
+ a cross-
+ sectional survey among 
+those competing in the games between London 1948 and PyeongChang 2018.
+ Br J 
+Sports Med 2021;55:46–53.
+ 14
+ Lohmander LS
+, Östenberg A, Englund M, et al. High prevalence of knee osteoarthritis, 
+pain, and functional limitations in female soccer players twelve years after anterior 
+cruciate ligament injury. Arthritis Rheum 2004;50:3145–52.
+ 15
+ von P
+orat A, Roos EM, Roos H. High prevalence of osteoarthritis 14 years after an 
+anterior cruciate ligament tear in male soccer players: a study of radiographic and 
+patient relevant outcomes. Ann Rheum Dis 2004;63:269–73.
+ 16
+ Olympic Charter - the organisation,
+ action and operation of the Olympic Movement. 
+Available: https://olympics.com/ioc/olympic-charter
+ 17
+ Linton NM,
+ Jung S-
+ M,
+ Nishiura H. Not all fun and games: potential incidence of 
+SARS-
+ CoV
+-
+ 2 infections during the 
+Tokyo 2020 Olympic Games. Math Biosci Eng 
+2021;18:9685–96.
+ 18
+ Gallego 
+V , Nishiura H, Sah R, et al. The COVID-
+ 19 outbreak and implications for the 
+T
+okyo 2020 Summer Olympic Games. Travel Med Infect Dis 2020;34:101604.
+ 19
+ Hoang 
+VT, Al-
+ T
+awfiq JA, Gautret P . The Tokyo Olympic Games and the risk of 
+COVID-
+ 
+19. Curr Trop Med Rep 2020;7:126–32.
+ 20
+ Shimizu K,
+ Gilmour S, Mase H, et al. COVID-
+ 19 and heat illness in 
+Tokyo, Japan: 
+implications for the Summer Olympic and Paralympic Games in 2021. Int J Environ 
+Res Public Health 2021;18. doi:10.3390/ijerph18073620. [Epub ahead of print: 31 
+Mar 2021].
+ 21
+ V
+anos J. The heat is on: bracing for impacts in Tokyo. Temperature 2020;7:1–2.
+ 22
+ Kakamu 
+T, Wada K, Smith DR. Preventing heat illness in the anticipated hot climate of 
+the Tokyo 2020 Summer Olympic Games. Environ Health Prev Med;2017:68.
+ 23
+ Junge 
+A, Engebretsen L, Alonso JM, et al. Injury surveillance in multi-
+ sport events:
+ the 
+International Olympic Committee approach. Br J Sports Med 2008;42:413–21.
+ 24
+ Bahr R,
+ Clarsen B, Derman W, et al. International Olympic Committee consensus 
+statement: methods for recording and reporting of epidemiological data on injury 
+and illness in sport 2020 (including STROBE extension for sport injury and illness 
+surveillance (STROBE-
+ 
+SIIS)). Br J Sports Med 2020;54:372–89.
+ 25
+ Steffen K,
+ Soligard T, Mountjoy M, et al. How do the new Olympic sports compare 
+with the traditional Olympic sports? Injury and illness at the 2018 Youth Olympic 
+summer Games in Buenos Aires, Argentina. Br J Sports Med 2020;54:168–75.
+ 26
+ Bjørneboe J
+, Flørenes TW, Bahr R, et al. Injury surveillance in male professional 
+football; is medical staff reporting complete and accurate? Scand J Med Sci Sports 
+2011;21:713–20.
+ 27
+ Flørenes 
+TW, Nordsletten L, Heir S, et al. Recording injuries among world cup 
+skiers and snowboarders: a methodological study. Scand J Med Sci Sports 
+2011;21:196–205.
+ 28
+ T
+okyo 2020 Playbooks. Available: https://olympics.com/ioc/tokyo-2020-playbooks 
+[Accessed 03 Jul 2022].
+ 29
+ T
+okyo 2020, a global health effort that’s given hope to the world - Olympic News. 
+Available: https://olympics.com/ioc/news/tokyo-2020-a-global-health-effort-that-s-
+ 
+given-hope-to-the-world [Accessed 06 Jul 2022].
+ 30
+ New data shows no CO
+VID-
+ 19 spread between 
+Tokyo 2020 participants and local 
+population - Olympic News. Available: https://olympics.com/ioc/news/new-data-
+ 
+shows-no-covid-19-spread-between-tokyo-2020-participants-and-local-population 
+[Accessed 09 Oct 2022].
+ 31
+ J
+apan Meteorological agency | tables of monthly climate statistics. Available: 
+https://www.data.jma.go.jp/obd/stats/data/en/smp/index.html [Accessed 05 Jul 
+2022].
+ 32
+ Racinais S
+, Havenith G, Aylwin P , et al. Association between thermal responses, 
+medical events, performance, heat acclimation and health status in male and female 
+elite athletes during the 2019 Doha World Athletics Championships. Br J Sports Med 
+2022;56:439–45.
+ 33
+ Racinais S
+, Alonso JM, Coutts AJ, et al. Consensus recommendations on training and 
+competing in the heat. Br J Sports Med 2015;49:1164–73.
+ 34
+ Beat the heat at 
+Tokyo, 2020. Available: https://olympics.com/athlete365/games-time/
+ 
+beat-the-heat/ [Accessed 05 Jul 2022].
+ 35
+ P
+ériard JD, Racinais S, Sawka MN. Adaptations and mechanisms of human heat 
+acclimation: applications for competitive athletes and sports. Scand J Med Sci Sports 
+2015;25 Suppl 1:20–38.
+ 36
+ Hosokaw
+a Y , Racinais S, Akama T, et al. Prehospital management of exertional heat 
+stroke at sports competitions: International Olympic Committee adverse weather 
+impact expert working group for the Olympic Games Tokyo 2020. Br J Sports Med 
+2021;55:1405–10.
+ 37
+ Fuller CW
+, Molloy MG, Bagate C, et al. Consensus statement on injury definitions 
+and data collection procedures for studies of injuries in rugby union. Br J Sports Med 
+2007;41:328–31.
+ 38
+ Bahr R.
+ No injuries, but plenty of pain? On the methodology for recording overuse 
+symptoms in sports. Br J Sports Med 2009;43:966–72.
+ 39
+ Clarsen B
+, Myklebust G, Bahr R. Development and validation of a new method for 
+the registration of overuse injuries in sports injury epidemiology: the Oslo Sports 
+Trauma Research Centre (OSTRC) overuse injury questionnaire. Br J Sports Med 
+2013;47:495–502.
+ 40
+ Clarsen B
+, Bahr R, Myklebust G, et al. Improved reporting of overuse injuries and 
+health problems in sport: an update of the Oslo Sport Trauma Research Center 
+questionnaires. Br J Sports Med 2020;54:390–6.
+ on December 22, 2022 by guest. Protected by copyright.http://bjsm.bmj.com/ Br J Sports Med: first published as 10.1136/bjsports-2022-106155 on 13 December 2022. Downloaded from 

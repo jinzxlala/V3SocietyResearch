@@ -1,0 +1,263 @@
+game,unit,sport,discipline,level,in_competition,out_of_competition,total
+"Tokyo 2020 (Summer, 2021)",analyses,Aquatics,Aquatics,sport,502,302,804
+"Tokyo 2020 (Summer, 2021)",analyses,Aquatics,Artistic Swimming,discipline,8,0,8
+"Tokyo 2020 (Summer, 2021)",analyses,Aquatics,Diving,discipline,33,3,36
+"Tokyo 2020 (Summer, 2021)",analyses,Aquatics,Open Water,discipline,21,19,40
+"Tokyo 2020 (Summer, 2021)",analyses,Aquatics,Swimming Long Distance 800m or greater,discipline,22,40,62
+"Tokyo 2020 (Summer, 2021)",analyses,Aquatics,Swimming Middle Distance 200-400m,discipline,162,122,284
+"Tokyo 2020 (Summer, 2021)",analyses,Aquatics,Swimming Sprint 100m or less,discipline,200,92,292
+"Tokyo 2020 (Summer, 2021)",analyses,Aquatics,Water Polo,discipline,56,26,82
+"Tokyo 2020 (Summer, 2021)",analyses,Archery,Archery,sport,23,5,28
+"Tokyo 2020 (Summer, 2021)",analyses,Athletics,Athletics,sport,682,658,1340
+"Tokyo 2020 (Summer, 2021)",analyses,Athletics,Combined Events,discipline,26,23,49
+"Tokyo 2020 (Summer, 2021)",analyses,Athletics,Jumps,discipline,101,72,173
+"Tokyo 2020 (Summer, 2021)",analyses,Athletics,"Long Distance 3,000m or greater",discipline,163,281,444
+"Tokyo 2020 (Summer, 2021)",analyses,Athletics,"Middle Distance 800-1,500m",discipline,58,73,131
+"Tokyo 2020 (Summer, 2021)",analyses,Athletics,Sprint 400m or less,discipline,232,136,368
+"Tokyo 2020 (Summer, 2021)",analyses,Athletics,Throws,discipline,102,73,175
+"Tokyo 2020 (Summer, 2021)",analyses,Badminton,Badminton,sport,39,23,62
+"Tokyo 2020 (Summer, 2021)",analyses,Baseball,Baseball,sport,63,42,105
+"Tokyo 2020 (Summer, 2021)",analyses,Basketball,Basketball,sport,85,53,138
+"Tokyo 2020 (Summer, 2021)",analyses,Basketball,3 on 3,discipline,31,6,37
+"Tokyo 2020 (Summer, 2021)",analyses,Basketball,Basketball,discipline,54,47,101
+"Tokyo 2020 (Summer, 2021)",analyses,Boxing,Boxing,sport,138,115,253
+"Tokyo 2020 (Summer, 2021)",analyses,Canoe/Kayak,Canoe/Kayak,sport,180,103,283
+"Tokyo 2020 (Summer, 2021)",analyses,Canoe/Kayak,Canoe Slalom,discipline,43,45,88
+"Tokyo 2020 (Summer, 2021)",analyses,Canoe/Kayak,"Long Distance 1,000m",discipline,44,22,66
+"Tokyo 2020 (Summer, 2021)",analyses,Canoe/Kayak,Middle Distance 500m,discipline,56,22,78
+"Tokyo 2020 (Summer, 2021)",analyses,Canoe/Kayak,Sprint 200m,discipline,37,14,51
+"Tokyo 2020 (Summer, 2021)",analyses,Cycling,Cycling,sport,271,222,493
+"Tokyo 2020 (Summer, 2021)",analyses,Cycling,BMX,discipline,30,15,45
+"Tokyo 2020 (Summer, 2021)",analyses,Cycling,Mountain Bike - Cross Country,discipline,25,56,81
+"Tokyo 2020 (Summer, 2021)",analyses,Cycling,Road,discipline,52,76,128
+"Tokyo 2020 (Summer, 2021)",analyses,Cycling,Track Endurance,discipline,82,43,125
+"Tokyo 2020 (Summer, 2021)",analyses,Cycling,Track Sprint,discipline,82,32,114
+"Tokyo 2020 (Summer, 2021)",analyses,Equestrian,Equestrian,sport,26,7,33
+"Tokyo 2020 (Summer, 2021)",analyses,Equestrian,Dressage,discipline,9,2,11
+"Tokyo 2020 (Summer, 2021)",analyses,Equestrian,Eventing,discipline,9,4,13
+"Tokyo 2020 (Summer, 2021)",analyses,Equestrian,Jumping,discipline,8,1,9
+"Tokyo 2020 (Summer, 2021)",analyses,Fencing,Fencing,sport,51,12,63
+"Tokyo 2020 (Summer, 2021)",analyses,Fencing,Epee,discipline,16,6,22
+"Tokyo 2020 (Summer, 2021)",analyses,Fencing,Foil,discipline,17,3,20
+"Tokyo 2020 (Summer, 2021)",analyses,Fencing,Sabre,discipline,18,3,21
+"Tokyo 2020 (Summer, 2021)",analyses,Field Hockey,Field Hockey,sport,91,48,139
+"Tokyo 2020 (Summer, 2021)",analyses,Football,Football,sport,93,59,152
+"Tokyo 2020 (Summer, 2021)",analyses,Golf,Golf,sport,15,7,22
+"Tokyo 2020 (Summer, 2021)",analyses,Gymnastics,Gymnastics,sport,124,41,165
+"Tokyo 2020 (Summer, 2021)",analyses,Gymnastics,Artistic,discipline,108,23,131
+"Tokyo 2020 (Summer, 2021)",analyses,Gymnastics,Rhythmic,discipline,8,14,22
+"Tokyo 2020 (Summer, 2021)",analyses,Gymnastics,Trampoline,discipline,8,4,12
+"Tokyo 2020 (Summer, 2021)",analyses,Handball - Indoor,Handball - Indoor,sport,62,58,120
+"Tokyo 2020 (Summer, 2021)",analyses,Judo,Judo,sport,113,54,167
+"Tokyo 2020 (Summer, 2021)",analyses,Karate,Karate,sport,60,27,87
+"Tokyo 2020 (Summer, 2021)",analyses,Modern Pentathlon,Modern Pentathlon,sport,17,19,36
+"Tokyo 2020 (Summer, 2021)",analyses,Roller Sports - Skateboarding,Roller Sports - Skateboarding,sport,17,14,31
+"Tokyo 2020 (Summer, 2021)",analyses,Rowing,Rowing,sport,160,240,400
+"Tokyo 2020 (Summer, 2021)",analyses,Rugby Union - Sevens,Rugby Union - Sevens,sport,94,74,168
+"Tokyo 2020 (Summer, 2021)",analyses,Sailing,Sailing,sport,43,30,73
+"Tokyo 2020 (Summer, 2021)",analyses,Shooting,Shooting,sport,60,23,83
+"Tokyo 2020 (Summer, 2021)",analyses,Softball,Softball,sport,38,10,48
+"Tokyo 2020 (Summer, 2021)",analyses,Sport Climbing - Combined,Sport Climbing - Combined,sport,14,13,27
+"Tokyo 2020 (Summer, 2021)",analyses,Surfing,Surfing,sport,19,4,23
+"Tokyo 2020 (Summer, 2021)",analyses,Table Tennis,Table Tennis,sport,21,10,31
+"Tokyo 2020 (Summer, 2021)",analyses,Taekwondo - Sparring,Taekwondo - Sparring,sport,61,35,96
+"Tokyo 2020 (Summer, 2021)",analyses,Tennis,Tennis,sport,48,4,52
+"Tokyo 2020 (Summer, 2021)",analyses,Triathlon,Triathlon,sport,40,71,111
+"Tokyo 2020 (Summer, 2021)",analyses,Volleyball,Volleyball,sport,53,53,106
+"Tokyo 2020 (Summer, 2021)",analyses,Volleyball,Beach,discipline,13,11,24
+"Tokyo 2020 (Summer, 2021)",analyses,Volleyball,Volleyball,discipline,40,42,82
+"Tokyo 2020 (Summer, 2021)",analyses,Weightlifting,Weightlifting,sport,214,123,336
+"Tokyo 2020 (Summer, 2021)",analyses,Wrestling,Wrestling,sport,154,120,274
+"Tokyo 2020 (Summer, 2021)",analyses,Wrestling,Freestyle,discipline,103,80,183
+"Tokyo 2020 (Summer, 2021)",analyses,Wrestling,Greco-Roman,discipline,51,40,91
+Paris 2024 (Summer) - controls,doping controls (tests),Aquatics,Aquatics,sport,480,223,703
+Paris 2024 (Summer) - controls,doping controls (tests),Aquatics,Artistic Swimming,discipline,16,5,21
+Paris 2024 (Summer) - controls,doping controls (tests),Aquatics,Diving,discipline,32,7,39
+Paris 2024 (Summer) - controls,doping controls (tests),Aquatics,Open Water,discipline,20,11,31
+Paris 2024 (Summer) - controls,doping controls (tests),Aquatics,Swimming Long Distance 800m or greater,discipline,35,18,53
+Paris 2024 (Summer) - controls,doping controls (tests),Aquatics,Swimming Middle Distance 200-400m,discipline,159,60,219
+Paris 2024 (Summer) - controls,doping controls (tests),Aquatics,Swimming Sprint 100m or less,discipline,158,84,242
+Paris 2024 (Summer) - controls,doping controls (tests),Aquatics,Water Polo,discipline,60,38,98
+Paris 2024 (Summer) - controls,doping controls (tests),Archery,Archery,sport,20,7,27
+Paris 2024 (Summer) - controls,doping controls (tests),Athletics,Athletics,sport,571,344,915
+Paris 2024 (Summer) - controls,doping controls (tests),Athletics,Combined Events,discipline,20,10,30
+Paris 2024 (Summer) - controls,doping controls (tests),Athletics,Jumps,discipline,76,45,121
+Paris 2024 (Summer) - controls,doping controls (tests),Athletics,Long Distance 3000m or greater,discipline,141,92,233
+Paris 2024 (Summer) - controls,doping controls (tests),Athletics,Middle Distance 800-1500m,discipline,58,39,97
+Paris 2024 (Summer) - controls,doping controls (tests),Athletics,Sprint 400m or less,discipline,196,112,308
+Paris 2024 (Summer) - controls,doping controls (tests),Athletics,Throws,discipline,80,46,126
+Paris 2024 (Summer) - controls,doping controls (tests),Badminton,Badminton,sport,37,23,60
+Paris 2024 (Summer) - controls,doping controls (tests),Basketball,Basketball,sport,73,49,122
+Paris 2024 (Summer) - controls,doping controls (tests),Basketball,3 on 3,discipline,28,11,39
+Paris 2024 (Summer) - controls,doping controls (tests),Basketball,Basketball,discipline,45,38,83
+Paris 2024 (Summer) - controls,doping controls (tests),Boxing,Boxing,sport,127,52,179
+Paris 2024 (Summer) - controls,doping controls (tests),Canoe,Canoe,sport,157,63,220
+Paris 2024 (Summer) - controls,doping controls (tests),Canoe,Canoe Slalom,discipline,59,17,76
+Paris 2024 (Summer) - controls,doping controls (tests),Canoe,Long Distance 1000m,discipline,20,8,28
+Paris 2024 (Summer) - controls,doping controls (tests),Canoe,Middle Distance 500m,discipline,68,35,103
+Paris 2024 (Summer) - controls,doping controls (tests),Canoe,Sprint 200m,discipline,10,3,13
+Paris 2024 (Summer) - controls,doping controls (tests),Cycling,Cycling,sport,247,99,346
+Paris 2024 (Summer) - controls,doping controls (tests),Cycling,BMX Freestyle Park,discipline,14,3,17
+Paris 2024 (Summer) - controls,doping controls (tests),Cycling,BMX Racing,discipline,19,9,28
+Paris 2024 (Summer) - controls,doping controls (tests),Cycling,Mountain Bike Endurance,discipline,24,10,34
+Paris 2024 (Summer) - controls,doping controls (tests),Cycling,Road,discipline,45,43,88
+Paris 2024 (Summer) - controls,doping controls (tests),Cycling,Track Endurance,discipline,80,18,98
+Paris 2024 (Summer) - controls,doping controls (tests),Cycling,Track Sprint,discipline,65,16,81
+Paris 2024 (Summer) - controls,doping controls (tests),DanceSport - Breaking,DanceSport - Breaking,sport,12,4,16
+Paris 2024 (Summer) - controls,doping controls (tests),Equestrian,Equestrian,sport,25,8,33
+Paris 2024 (Summer) - controls,doping controls (tests),Equestrian,Dressage,discipline,10,2,12
+Paris 2024 (Summer) - controls,doping controls (tests),Equestrian,Eventing,discipline,8,4,12
+Paris 2024 (Summer) - controls,doping controls (tests),Equestrian,Jumping,discipline,7,2,9
+Paris 2024 (Summer) - controls,doping controls (tests),Fencing,Fencing,sport,51,10,61
+Paris 2024 (Summer) - controls,doping controls (tests),Fencing,Epee,discipline,17,0,17
+Paris 2024 (Summer) - controls,doping controls (tests),Fencing,Foil,discipline,15,6,21
+Paris 2024 (Summer) - controls,doping controls (tests),Fencing,Sabre,discipline,19,4,23
+Paris 2024 (Summer) - controls,doping controls (tests),Field Hockey,Field Hockey,sport,84,56,140
+Paris 2024 (Summer) - controls,doping controls (tests),Football,Football,sport,85,68,153
+Paris 2024 (Summer) - controls,doping controls (tests),Golf,Golf,sport,8,7,15
+Paris 2024 (Summer) - controls,doping controls (tests),Gymnastics,Gymnastics,sport,116,33,149
+Paris 2024 (Summer) - controls,doping controls (tests),Gymnastics,Artistic,discipline,92,26,118
+Paris 2024 (Summer) - controls,doping controls (tests),Gymnastics,Rhythmic,discipline,16,5,21
+Paris 2024 (Summer) - controls,doping controls (tests),Gymnastics,Trampoline,discipline,8,2,10
+Paris 2024 (Summer) - controls,doping controls (tests),Handball,Handball,sport,55,46,101
+Paris 2024 (Summer) - controls,doping controls (tests),Judo,Judo,sport,106,50,156
+Paris 2024 (Summer) - controls,doping controls (tests),Modern Pentathlon,Modern Pentathlon,sport,12,11,23
+Paris 2024 (Summer) - controls,doping controls (tests),Roller Sports - Skateboarding,Roller Sports - Skateboarding,sport,17,4,21
+Paris 2024 (Summer) - controls,doping controls (tests),Rowing,Rowing,sport,164,96,260
+Paris 2024 (Summer) - controls,doping controls (tests),Rugby Union,Rugby Union,sport,81,54,135
+Paris 2024 (Summer) - controls,doping controls (tests),Sailing,Sailing,sport,40,16,56
+Paris 2024 (Summer) - controls,doping controls (tests),Shooting,Shooting,sport,60,18,78
+Paris 2024 (Summer) - controls,doping controls (tests),Sport Climbing,Sport Climbing,sport,36,11,47
+Paris 2024 (Summer) - controls,doping controls (tests),Sport Climbing,Combined,discipline,14,6,20
+Paris 2024 (Summer) - controls,doping controls (tests),Sport Climbing,Speed,discipline,22,5,27
+Paris 2024 (Summer) - controls,doping controls (tests),Surfing,Surfing,sport,14,7,21
+Paris 2024 (Summer) - controls,doping controls (tests),Table Tennis,Table Tennis,sport,20,9,29
+Paris 2024 (Summer) - controls,doping controls (tests),Taekwondo,Taekwondo,sport,55,18,73
+Paris 2024 (Summer) - controls,doping controls (tests),Tennis,Tennis,sport,43,14,57
+Paris 2024 (Summer) - controls,doping controls (tests),Triathlon,Triathlon,sport,35,33,68
+Paris 2024 (Summer) - controls,doping controls (tests),Volleyball,Volleyball,sport,46,54,100
+Paris 2024 (Summer) - controls,doping controls (tests),Volleyball,Beach,discipline,4,14,18
+Paris 2024 (Summer) - controls,doping controls (tests),Volleyball,Volleyball,discipline,42,40,82
+Paris 2024 (Summer) - controls,doping controls (tests),Weightlifting,Weightlifting,sport,122,46,168
+Paris 2024 (Summer) - controls,doping controls (tests),Wrestling,Wrestling,sport,177,74,251
+Paris 2024 (Summer) - samples,samples,Aquatics,Aquatics,sport,506,366,872
+Paris 2024 (Summer) - samples,samples,Aquatics,Artistic Swimming,discipline,17,5,22
+Paris 2024 (Summer) - samples,samples,Aquatics,Diving,discipline,32,9,41
+Paris 2024 (Summer) - samples,samples,Aquatics,Open Water,discipline,21,25,46
+Paris 2024 (Summer) - samples,samples,Aquatics,Swimming Long Distance 800m or greater,discipline,37,39,76
+Paris 2024 (Summer) - samples,samples,Aquatics,Swimming Middle Distance 200- 400m,discipline,164,106,270
+Paris 2024 (Summer) - samples,samples,Aquatics,Swimming Sprint 100m or less,discipline,172,131,302
+Paris 2024 (Summer) - samples,samples,Aquatics,Water Polo,discipline,63,51,114
+Paris 2024 (Summer) - samples,samples,Archery,Archery,sport,24,7,31
+Paris 2024 (Summer) - samples,samples,Athletics,Athletics,sport,661,658,1319
+Paris 2024 (Summer) - samples,samples,Athletics,Combined Events,discipline,22,18,40
+Paris 2024 (Summer) - samples,samples,Athletics,Jumps,discipline,90,72,162
+Paris 2024 (Summer) - samples,samples,Athletics,Long Distance 3000m or greater,discipline,165,216,381
+Paris 2024 (Summer) - samples,samples,Athletics,Middle Distance 800-1500m,discipline,65,86,151
+Paris 2024 (Summer) - samples,samples,Athletics,Sprint 400m or less,discipline,226,190,416
+Paris 2024 (Summer) - samples,samples,Athletics,Throws,discipline,93,76,169
+Paris 2024 (Summer) - samples,samples,Badminton,Badminton,sport,41,30,71
+Paris 2024 (Summer) - samples,samples,Basketball,Basketball,sport,76,60,136
+Paris 2024 (Summer) - samples,samples,Basketball,3 on 3,discipline,29,17,46
+Paris 2024 (Summer) - samples,samples,Basketball,Basketball,discipline,47,43,90
+Paris 2024 (Summer) - samples,samples,Boxing,Boxing,sport,131,120,251
+Paris 2024 (Summer) - samples,samples,Canoe,Canoe,sport,177,123,300
+Paris 2024 (Summer) - samples,samples,Canoe,Canoe Slalom,discipline,65,42,107
+Paris 2024 (Summer) - samples,samples,Canoe,Long Distance 1000m,discipline,21,16,37
+Paris 2024 (Summer) - samples,samples,Canoe,Middle Distance 500m,discipline,79,58,137
+Paris 2024 (Summer) - samples,samples,Canoe,Sprint 200m,discipline,12,7,19
+Paris 2024 (Summer) - samples,samples,Cycling,Cycling,sport,281,206,487
+Paris 2024 (Summer) - samples,samples,Cycling,BMX Freestyle Park,discipline,15,6,21
+Paris 2024 (Summer) - samples,samples,Cycling,BMX Racing,discipline,22,15,37
+Paris 2024 (Summer) - samples,samples,Cycling,Mountain Bike Endurance,discipline,26,18,44
+Paris 2024 (Summer) - samples,samples,Cycling,Road,discipline,47,97,144
+Paris 2024 (Summer) - samples,samples,Cycling,Track Endurance,discipline,92,42,134
+Paris 2024 (Summer) - samples,samples,Cycling,Track Sprint,discipline,79,28,107
+Paris 2024 (Summer) - samples,samples,DanceSport - Breaking,DanceSport - Breaking,sport,12,7,19
+Paris 2024 (Summer) - samples,samples,Equestrian,Equestrian,sport,25,9,34
+Paris 2024 (Summer) - samples,samples,Equestrian,Dressage,discipline,10,2,12
+Paris 2024 (Summer) - samples,samples,Equestrian,Eventing,discipline,8,5,13
+Paris 2024 (Summer) - samples,samples,Equestrian,Jumping,discipline,7,2,9
+Paris 2024 (Summer) - samples,samples,Fencing,Fencing,sport,52,12,64
+Paris 2024 (Summer) - samples,samples,Fencing,Epee,discipline,17,0,17
+Paris 2024 (Summer) - samples,samples,Fencing,Foil,discipline,15,7,22
+Paris 2024 (Summer) - samples,samples,Fencing,Sabre,discipline,20,5,25
+Paris 2024 (Summer) - samples,samples,Field Hockey,Field Hockey,sport,90,75,165
+Paris 2024 (Summer) - samples,samples,Football,Football,sport,93,82,175
+Paris 2024 (Summer) - samples,samples,Golf,Golf,sport,8,7,15
+Paris 2024 (Summer) - samples,samples,Gymnastics,Gymnastics,sport,121,53,174
+Paris 2024 (Summer) - samples,samples,Gymnastics,Artistic,discipline,97,44,141
+Paris 2024 (Summer) - samples,samples,Gymnastics,Rhythmic,discipline,16,6,22
+Paris 2024 (Summer) - samples,samples,Gymnastics,Trampoline,discipline,8,3,11
+Paris 2024 (Summer) - samples,samples,Handball,Handball,sport,58,58,116
+Paris 2024 (Summer) - samples,samples,Judo,Judo,sport,112,68,180
+Paris 2024 (Summer) - samples,samples,Modern Pentathlon,Modern Pentathlon,sport,12,14,26
+Paris 2024 (Summer) - samples,samples,Roller Sports - Skateboarding,Roller Sports - Skateboarding,sport,18,5,23
+Paris 2024 (Summer) - samples,samples,Rowing,Rowing,sport,173,227,400
+Paris 2024 (Summer) - samples,samples,Rugby Union,Rugby Union,sport,91,78,169
+Paris 2024 (Summer) - samples,samples,Sailing,Sailing,sport,43,17,60
+Paris 2024 (Summer) - samples,samples,Shooting,Shooting,sport,65,18,83
+Paris 2024 (Summer) - samples,samples,Sport Climbing,Sport Climbing,sport,38,20,58
+Paris 2024 (Summer) - samples,samples,Sport Climbing,Combined,discipline,14,9,23
+Paris 2024 (Summer) - samples,samples,Sport Climbing,Speed,discipline,24,11,35
+Paris 2024 (Summer) - samples,samples,Surfing,Surfing,sport,14,9,23
+Paris 2024 (Summer) - samples,samples,Table Tennis,Table Tennis,sport,21,11,32
+Paris 2024 (Summer) - samples,samples,Taekwondo,Taekwondo,sport,63,22,85
+Paris 2024 (Summer) - samples,samples,Tennis,Tennis,sport,45,15,60
+Paris 2024 (Summer) - samples,samples,Triathlon,Triathlon,sport,38,69,107
+Paris 2024 (Summer) - samples,samples,Volleyball,Volleyball,sport,47,63,110
+Paris 2024 (Summer) - samples,samples,Volleyball,Beach,discipline,4,16,20
+Paris 2024 (Summer) - samples,samples,Volleyball,Volleyball,discipline,43,47,90
+Paris 2024 (Summer) - samples,samples,Weightlifting,Weightlifting,sport,145,102,247
+Paris 2024 (Summer) - samples,samples,Wrestling,Wrestling,sport,190,135,325
+Beijing 2022 (Winter),samples,Skiing,Skiing,sport,499,736,1235
+Beijing 2022 (Winter),samples,Skiing,Cross-Country,discipline,150,402,552
+Beijing 2022 (Winter),samples,Skiing,Alpine,discipline,125,170,295
+Beijing 2022 (Winter),samples,Skiing,Freestyle,discipline,88,46,134
+Beijing 2022 (Winter),samples,Skiing,Snowboard,discipline,75,31,106
+Beijing 2022 (Winter),samples,Skiing,Nordic Combined,discipline,30,75,105
+Beijing 2022 (Winter),samples,Skiing,Ski Jumping,discipline,31,12,43
+Beijing 2022 (Winter),samples,Skating,Skating,sport,297,397,694
+Beijing 2022 (Winter),samples,Skating,Short Track,discipline,93,126,219
+Beijing 2022 (Winter),samples,Skating,Speed Skating greater than 1500m,discipline,79,111,190
+Beijing 2022 (Winter),samples,Skating,Speed Skating 1500m or less,discipline,67,91,158
+Beijing 2022 (Winter),samples,Skating,Figure Skating,discipline,58,69,127
+Beijing 2022 (Winter),samples,Biathlon,Biathlon,sport,140,276,416
+Beijing 2022 (Winter),samples,Biathlon,Biathlon,discipline,140,276,416
+Beijing 2022 (Winter),samples,Ice Hockey,Ice Hockey,sport,126,242,368
+Beijing 2022 (Winter),samples,Ice Hockey,Ice Hockey,discipline,126,242,368
+Beijing 2022 (Winter),samples,Bobsleigh,Bobsleigh,sport,96,183,279
+Beijing 2022 (Winter),samples,Bobsleigh,Bobsleigh,discipline,72,148,220
+Beijing 2022 (Winter),samples,Bobsleigh,Skeleton,discipline,24,35,59
+Beijing 2022 (Winter),samples,Luge,Luge,sport,47,77,124
+Beijing 2022 (Winter),samples,Luge,Luge,discipline,47,77,124
+Beijing 2022 (Winter),samples,Curling,Curling,sport,38,12,50
+Beijing 2022 (Winter),samples,Curling,Curling,discipline,38,12,50
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Aquatics,Aquatics,sport,434,295,729
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Archery,Archery,sport,20,6,26
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Athletics,Athletics,sport,632,581,1213
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Badminton,Badminton,sport,19,6,25
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Basketball,Basketball,sport,61,7,68
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Boxing,Boxing,sport,107,90,197
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Canoe / Kayak,Canoe / Kayak,sport,97,88,185
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Cycling,Cycling,sport,147,250,397
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Equestrian Sports,Equestrian Sports,sport,50,6,56
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Fencing,Fencing,sport,45,24,69
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Field Hockey,Field Hockey,sport,110,25,135
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Football,Football,sport,116,0,116
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Golf,Golf,sport,41,6,47
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Gymnastics,Gymnastics,sport,88,26,114
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Handball,Handball,sport,115,35,150
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Judo,Judo,sport,93,105,198
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Modern Pentathlon,Modern Pentathlon,sport,12,30,42
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Rowing,Rowing,sport,140,70,210
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Rugby Union,Rugby Union,sport,72,68,140
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Sailing,Sailing,sport,43,4,47
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Shooting,Shooting,sport,70,23,93
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Table Tennis,Table Tennis,sport,25,6,31
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Taekwondo,Taekwondo,sport,51,12,63
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Tennis,Tennis,sport,36,8,44
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Triathlon,Triathlon,sport,36,30,66
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Volleyball,Volleyball,sport,85,27,112
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Weightlifting,Weightlifting,sport,77,78,155
+Rio 2016 (Summer),"samples, IOC testing authority (calendar 2016)",Wrestling,Wrestling,sport,91,133,224

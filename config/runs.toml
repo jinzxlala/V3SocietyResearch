@@ -1,0 +1,40 @@
+# =============================================================================
+# 导出 run 登记表
+# -----------------------------------------------------------------------------
+# scripts/build_interim.py 读取本文件，给 data/interim/ 的每一行打上实验设计标签。
+#
+# run_id 的权威来源是【存档文件名】里的 _<臂>_<重复号>_ 片段，不是文件夹名。
+# 新增一个 run 后，必须在这里补一条记录，否则异常日志里会出现 RUN_NOT_IN_CONFIG。
+#
+# 字段说明
+#   speed_assignment       工业化速度分组（本文件尚未确定，留空）
+#   protection_assignment  社会保护分组：high / none
+#   replicate              重复号，取自文件名里的 _NN_
+# =============================================================================
+
+[defaults]
+country_tag = "BEL"
+
+# -----------------------------------------------------------------------------
+# SL_01 —— 无社会保护组
+# 证据：law_no_social_security + law_no_workers_rights 生效
+#       institutions_raw 只有 institution_schools（investment=2）
+# 观察点：1836 → 1843，共 8 个
+# -----------------------------------------------------------------------------
+[runs.SL_01]
+speed_assignment = "" # TODO 待确认：无法从数据安全推断
+protection_assignment = "none"
+replicate = 1
+note = "无社会保护。t0 存档内日期为 1837.1.1，与文件名 1836_12_31 不符。"
+
+# -----------------------------------------------------------------------------
+# FH_02 —— 有社会保护组
+# 证据：law_old_age_pension + law_worker_protections 生效
+#       institutions_raw 含 institution_social_security(3)、institution_workplace_safety(1)
+# 观察点：1836 → 1840，共 5 个
+# -----------------------------------------------------------------------------
+[runs.FH_02]
+speed_assignment = "" # TODO 待确认：无法从数据安全推断
+protection_assignment = "high"
+replicate = 2
+note = "有社会保护。5 个观察点内法律与机构水平保持不变（开场即施行，非中途引入）。"

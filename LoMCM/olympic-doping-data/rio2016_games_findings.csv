@@ -1,0 +1,29 @@
+games,sample_collection_date,sport,substance_or_method,athlete_gender,test_type_ic_ooc,sample_type,outcome_as_reported
+Rio 2016,2016-07-31,Cycling,methoxy polyethylene glycol-epoetin beta (CERA),M,OOC,Blood,ADRV upheld
+Rio 2016,2016-07-31,Weightlifting,GC/C/IRMS: 19-norandrosterone (exogenous),M,OOC,Urine,ADRV upheld
+Rio 2016,2016-07-31,Cycling,methoxy polyethylene glycol-epoetin beta (CERA),M,OOC,Urine,ADRV upheld
+Rio 2016,2016-08-01,Athletics,methoxy polyethylene glycol-epoetin beta (CERA),F,OOC,Blood,ADRV upheld
+Rio 2016,2016-08-01,Athletics,methoxy polyethylene glycol-epoetin beta (CERA),F,OOC,Urine,ADRV upheld
+Rio 2016,2016-08-04,Cycling,methoxy polyethylene glycol-epoetin beta (CERA),M,OOC,Blood,ADRV upheld
+Rio 2016,2016-08-04,Cycling,methoxy polyethylene glycol-epoetin beta (CERA),M,OOC,Urine,ADRV upheld
+Rio 2016,2016-08-07,Weightlifting,GC/C/IRMS: testosterone (exogenous) + 4 markers,M,OOC,Urine,ADRV upheld
+Rio 2016,2016-08-07,Field Hockey,betamethasone,M,IC,Urine,TUE
+Rio 2016,2016-08-08,Aquatics,hydrochlorothiazide,F,IC,Urine,ADRV upheld
+Rio 2016,2016-08-08,Shooting,methylphenidate,M,IC,Urine,TUE
+Rio 2016,2016-08-09,Weightlifting,strychnine,M,IC,Urine,ADRV upheld
+Rio 2016,2016-08-09,Aquatics,prednisone; prednisolone,F,IC,Urine,TUE
+Rio 2016,2016-08-10,Aquatics,amphetamine,M,IC,Urine,TUE
+Rio 2016,2016-08-11,Gymnastics,methylphenidate,F,IC,Urine,TUE
+Rio 2016,2016-08-12,Weightlifting,GC/C/IRMS: testosterone (exogenous) + 4 markers,M,IC,Urine,Case pending
+Rio 2016,2016-08-12,Aquatics,terbutaline,F,IC,Urine,TUE
+Rio 2016,2016-08-12,Athletics,dexamethasone; triamcinolone acetonide,M,IC,Urine,TUE
+Rio 2016,2016-08-14,Gymnastics,methylphenidate,F,IC,Urine,TUE
+Rio 2016,2016-08-14,Aquatics,terbutaline,F,IC,Urine,TUE
+Rio 2016,2016-08-14,Aquatics,terbutaline,F,IC,Urine,TUE
+Rio 2016,2016-08-15,Gymnastics,methylphenidate,F,IC,Urine,TUE
+Rio 2016,2016-08-16,Gymnastics,methylphenidate,F,IC,Urine,TUE
+Rio 2016,2016-08-17,Modern Pentathlon,hydrochlorothiazide,F,OOC,Urine,Case pending
+Rio 2016,2016-08-18,Triathlon,prednisolone,M,IC,Urine,TUE
+Rio 2016,2016-08-19,Modern Pentathlon,hydrochlorothiazide,F,IC,Urine,Case pending
+Rio 2016,2016-08-20,Basketball,amphetamine,F,IC,Urine,TUE
+Rio 2016,2016-08-21,Boxing,tuaminoheptane,M,IC,Urine,Case pending
